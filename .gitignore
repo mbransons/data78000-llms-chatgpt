@@ -2,4 +2,4 @@
 .ipynb_checkpoints
 /readings
 .DS_Store
-/labs/week02/1984-srts
+*.srt
