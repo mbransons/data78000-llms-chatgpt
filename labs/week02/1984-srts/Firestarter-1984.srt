@@ -1,0 +1,1056 @@
+{1}{1}25.000
+{2947}{2996}Don't push me.
+{3062}{3128}Stick with him.|Don't let him get too far ahead.
+{3131}{3209}- Daddy, I'm tired. Can't we stop?|- Yeah, honey.
+{3212}{3320}There isn't any people on the side streets.|And they're darker.
+{3323}{3406}- That's just what they'd want, honey.|- Daddy, I'm scared.
+{3409}{3519}So am I, honey. Hang on.|Be light. Be a feather.
+{3522}{3585}- What's going on?|- Excuse me!
+{3588}{3653}"(man #1 )" He's seen us.|Whatever you do, no eye contact.
+{3656}{3740}- He can make you do what he wants.|- "(man #2)" Got it.
+{3774}{3841}"(man #1 )" See him?|He just got lost in that crowd there.
+{3844}{3923}"(man #2)" That's him, over on the right.|Right there on the right.
+{3926}{4008}{y:i}(man #3)|Maybe I can cut him off at the corner.
+{4071}{4115}Let's get him.
+{4225}{4264}Daddy, they're coming.
+{4364}{4416}Taxi. Taxi.
+{4547}{4575}Drive.
+{4637}{4692}- Stop!|- Stop the car. Hey, cabbie.
+{4695}{4758}Don't pay any attention to them.|Just drive.
+{4849}{4957}Come on, let's get back to the car.|We can chase them down. Let's move it.
+{4994}{5063}- Hey, mister, where are we going?|- The airport.
+{5066}{5184}Wait, wait, I can't go to the airport.|It's too far.
+{5187}{5236}Look...
+{5330}{5453}I'm gonna give you a $500 bill. I want you|to take my daughter and I to the airport.
+{5456}{5509}Sure. OK, mister.
+{5512}{5559}{y:i}(distorted voices)
+{5647}{5743}- "(Dad)" Drive.|- I ain't turning down no $500.
+{6049}{6187}We are going to give each one of you ten|young ladies and gentlemen an injection.
+{6190}{6281}Five of these injections will be water.
+{6284}{6401}Five of them will be water mixed with|a tiny amount of a chemical compound
+{6404}{6512}which we call... "lot six".
+{6549}{6611}The exact nature|of this compound is classified
+{6614}{6723}but it is essentially|a hypnotic mild hallucinogenic.
+{6761}{6858}We employ the double-blind method|of administering the compound,
+{6861}{7009}which is to say that neither you nor we|know who has received the clear dose
+{7012}{7063}and who has not.
+{7066}{7122}Until later, that is.
+{7125}{7257}You will be under close supervision|for 48 hours after the experiment.
+{7260}{7337}Are there any questions?
+{7340}{7451}Dr Wanless, is this experiment|being done by The Shop?
+{7477}{7527}No.
+{7530}{7583}Absolutely not.
+{7586}{7658}- Yes?|- When do I get my money?
+{7661}{7729}- "(all)" Right on, man.|- That is important.
+{7732}{7849}Well, immediately after the experiment,|along with all the other students.
+{7852}{7901}I'm broke too.
+{7926}{7999}So, if we may begin|the injections now, please.
+{8079}{8113}Andy McGee.
+{8163}{8285}I'm Vicky Tomlinson. I'm a little nervous|about this, Andy McGee.
+{8288}{8407}- What if I go on a bad trip?|- We'll probably just get distilled water.
+{8754}{8821}"(Wanless)" Feel any pain?
+{8824}{8920}{y:i}(woman)|I feel a pressure. It's a bad pressure.
+{8954}{9003}"(Wanless)" It will pass.
+{9068}{9183}- How are you feeling?|- When do we start to shrink?
+{9186}{9260}You believe you're going to shrink?
+{9291}{9445}Sh-ri-nk...
+{9499}{9541}You'll be fine.
+{9593}{9642}We'll be fine.
+{9856}{9905}{y:i}(disturbed voices)
+{9966}{10031}"(woman)" I can't feel my hands.
+{10034}{10176}- Thank you. What a nice compliment.|- I didn't say anything.
+{10179}{10220}You did.
+{10259}{10363}- What'd I say?|- You said my hair is beautiful.
+{10366}{10419}Like copper set on fire.
+{10422}{10471}Yeah.
+{10516}{10604}But I didn't say that. I just thought it.
+{10721}{10798}{y:i}(Andy thinks) I love you.|{y:i}I've always loved you.
+{10801}{10885}{y:i}- I've known you for a thousand years.|{y:i}- (Vicky thinks) That long?
+{10888}{10957}{y:i}Yes, I've loved you too.
+{11025}{11072}{y:i}(commotion)
+{11239}{11283}{y:i}(screaming)
+{11737}{11790}Hey, buddy, airport.
+{11793}{11873}- You OK?|- "(groans)"
+{11876}{11973}I got a headache. Wake up, babydoll.
+{11976}{12053}We're here. Come on.
+{12056}{12127}Where are we?
+{12130}{12193}Hanover, sweetheart. Airport.
+{12225}{12294}- Try the airport.|- Roger.
+{12581}{12673}Suppose we catch up with him.|Do you wanna face him down?
+{12676}{12791}What do you call this thing he's got?|How he pushes people.
+{12794}{12864}The Shop figures|he may be running down by now.
+{12867}{12940}He's overdone it before|and wound up in bed.
+{12943}{12994}It's doing something to his brain.
+{12997}{13044}Like what?
+{13047}{13156}Giving himself|pinprick haemorrhages, maybe?
+{13159}{13241}- It could kill him.|- Good, let's hope.
+{13445}{13538}We don't have any more money|and we don't have anything left to sell.
+{13541}{13591}I can't stay here.
+{13594}{13688}It's not right. It's not right to steal.
+{13691}{13817}Honey, I know, but it's not right|for them to keep coming after us, either.
+{13820}{13907}Now, I explained that to you, Charlie,|at least I tried.
+{13910}{14052}- About the big bad and the little bad?|- That's right. Lesser and greater evil.
+{14055}{14193}- Big bad is what I did to Mommy?|- Oh, darling, please.
+{14196}{14265}Don't. Don't, baby.
+{14268}{14341}I made Mommy scream.
+{14344}{14393}Shh...
+{14633}{14687}Does your head still hurt?
+{14816}{14865}Poor Daddy.
+{14976}{15036}Gotta keep a lookout.
+{15039}{15071}OK.
+{15208}{15278}"(man)" I don't know|what you're doing here.
+{15281}{15374}I don't want to have anything to do with|you. I told you not to follow me here.
+{15377}{15503}Besides, it's not my fault.|I'm not responsible.
+{15506}{15605}This ain't got nothing to do with me.|I'm not the only guy you've been seeing.
+{15608}{15730}I'm not ready to get married,|so why don't you just get outta here?
+{15733}{15819}- Why don't you just stop bugging me?|- "(Andy)" Come on, Charlie.
+{15822}{15867}"(woman)" You told me you loved me.
+{15870}{15943}You told me if anything|happened you'd take care of me.
+{16553}{16652}This ain't got nothing to do with me.|We've been through this 100 times.
+{16655}{16776}I'm not responsible.|Look, I told you not to follow me here.
+{16816}{16917}"(woman)" But I can't do it on my own.|I don't know where to go.
+{16920}{17008}- I don't have any money.|- I'm not the only guy you've been with.
+{17011}{17084}"(woman)" That's not true.
+{17087}{17175}I swear to God you're the only one.|I've never slept with anyone else.
+{17178}{17244}"(man)" That's not|what my buddy Al told me...
+{17552}{17607}I didn't mean it, Daddy.
+{17748}{17797}- Ow!|- Hey, hey!
+{17900}{17996}- All right, buddy, come outta there.|- Mind waiting till I put my feet out?
+{17999}{18139}I was coming with you and I saw him and|before I could stop it, it just happened.
+{18142}{18216}- I didn't like him and it just got away.|- It's OK, honey.
+{18219}{18262}- But I set him on fire.|- Charlie.
+{18265}{18355}- I didn't mean it, Daddy.|- Charlie, stop it.
+{18358}{18477}I want you to listen to me.|You said it got away from you and it did.
+{18480}{18604}But not like before.|It just got away a little bit.
+{18607}{18731}Charlie, you might've set|that man's face on fire or his hair.
+{18734}{18813}Now, it always goes out|at somebody you don't like.
+{18816}{18928}- But you didn't really hurt that guy.|- Not like I hurt Mommy in the kitchen.
+{18931}{19047}Baby. Baby, you've got|to stop thinking about that.
+{19075}{19144}It wasn't you that really hurt Mommy.
+{19147}{19206}They killed her.
+{19446}{19510}That's right. That's right.
+{19560}{19592}Now...
+{19595}{19645}We've got to go on.
+{19687}{19766}Single file. Just like the Indians.
+{19769}{19869}And keep as far over|to the side of the road as you can, OK?
+{20229}{20328}"(man)" I seen them both.|This guy looked kinda sick, or something.
+{20416}{20478}- Are you OK?|- "(Andy sighs)"
+{20491}{20604}- So far, so good, baby. You getting tired?|- Nope.
+{20607}{20713}Daddy, I feel those bad men|from The Shop around again.
+{20817}{20841}OK. Come on.
+{21017}{21063}OK, sweetheart, come on.
+{21180}{21220}Head up Route 70.
+{21298}{21347}Oh, Daddy.
+{21369}{21454}"- (screams)" Daddy, get up.|{y:i}- (truck horn)
+{21457}{21509}Daddy, wake up.
+{21552}{21587}{y:i}(she screams)
+{21764}{21817}Daddy? Daddy?
+{21820}{21869}Are you all right?
+{22119}{22200}- I thought you were dead.|- Are you kidding?
+{22203}{22322}Think I'd do that to you?|You're all I've got in this world.
+{22379}{22465}But I'm happy about that|cos I'm crazy about you.
+{22468}{22528}I'm crazy about you too, Daddy.
+{22687}{22776}Come on. We gotta find a place to sleep.
+{22842}{22901}We can afford it now.
+{23372}{23494}- I burned him.|- Rest, sweetheart.
+{23497}{23578}You didn't hurt him. You controlled it.
+{23581}{23630}- "(groans)"|- Shh...
+{23786}{23819}{y:i}(Andy) OK, Charlie.
+{23822}{23894}Now, let it out. Easy does it.
+{23897}{23970}Let it go.
+{23973}{24029}Attagirl.
+{24058}{24100}Attagirl. OK.
+{24103}{24150}Now pull it back.
+{24252}{24328}Pull it back, Charlie.|Pull it back, Charlie.
+{24331}{24380}Good Lord.
+{24517}{24661}Now, you've got to learn to control that.|You gotta try real hard. OK?
+{24664}{24760}- I couldn't help it.|- Tomorrow. She's tired.
+{24763}{24867}Time for bed.|You can try again at breakfast.
+{24870}{24968}- I wanna do that again.|- No, tomorrow.
+{24971}{25046}I'm not tired. I wanna do it again.
+{25049}{25120}- I said no.|- Again. Now!
+{25145}{25207}{y:i}(screaming)
+{25284}{25358}I'm sorry, Mommy. I didn't mean it.
+{25361}{25417}Well, you did it. You hurt your mother.
+{25420}{25533}- I'm sorry, Mommy.|- It's all right. Mommy's all right.
+{25536}{25600}Charlie, you have got to control this thing
+{25603}{25676}because it's a bad thing,|you understand me? A bad thing.
+{25679}{25779}- Leave her alone. It's not her fault.|- "(phone rings)"
+{25782}{25841}- Hello?|- Sorry.
+{25858}{25907}{y:i}(he sighs)
+{25938}{26015}- Hung up again?|- Whoever it is.
+{26018}{26170}We know who they are and they wanna|make sure we're staying right here.
+{26305}{26362}{y:i}(Andy) Vicky? Charlie?
+{26382}{26428}I'm home.
+{26431}{26480}Sweetheart?
+{26926}{26975}Vicky!
+{27415}{27473}Oh...
+{27476}{27517}Oh, no.
+{27593}{27677}Oh, no. Please, please, God.
+{27680}{27732}Please don't be here.
+{27735}{27780}Please don't...
+{27804}{27883}Oh, no! Please, no, no!
+{27902}{28004}Oh, no! Babe! Oh, what did they do?
+{28007}{28103}What did they do?|They put this in your mouth.
+{28160}{28209}{y:i}(weeps)
+{28307}{28374}Where's Charlie? Charlie!
+{28410}{28459}Charlie!
+{28522}{28580}Charlie!
+{28583}{28632}Charlie!
+{28718}{28767}Charlie!
+{28892}{28950}Charlie!
+{28987}{29059}Joan,|by any chance is my daughter with you?
+{29210}{29263}{y:i}- (Charlie screams)|{y:i}- (man) Hold her!
+{29590}{29652}OK, that's far enough.
+{29784}{29833}Drop the gun.
+{29889}{29938}Drop it.
+{30035}{30102}Bring her to me.
+{30458}{30492}You're blind.
+{30542}{30591}"(yelling)" My eyes!
+{30658}{30781}You too, you son of a bitch.|You killed my wife. You're blind.
+{30853}{30902}"(screaming)" My eyes!
+{30905}{30980}Oh, my God! Leon!
+{31014}{31084}- Andy!|- "(man)" My eyes!
+{31087}{31147}Joan.
+{31191}{31285}Go back inside the house.|You won't remember any of this.
+{31311}{31360}- Leon!|- Oh, God!
+{31404}{31464}My eyes! Son of a bitch!
+{31467}{31509}Can't see!
+{31876}{32003}- Wake up, baby. It's time to move on.|- Morning.
+{32539}{32613}- Elaine. Morning, Josie.|- Good morning.
+{32616}{32695}Jamieson called in. No word yet|on the McGees. He'll ring later.
+{32698}{32744}Put him right through when he does.
+{32747}{32827}And Rainbird is in your office.
+{32830}{32906}- When did he get back?|- This morning.
+{33032}{33101}- Morning, Kenny.|- Morning, sir.
+{33655}{33731}Welcome back, Rainbird.
+{33734}{33804}- How was Venice?|- "(he chuckles)"
+{33807}{33853}Sinking.
+{33856}{34011}- Is our problem there solved?|- Our problem there is solved.
+{34038}{34133}- Dr Wanless is here.|- Christ, there goes a beautiful day.
+{34228}{34304}Ah, the good doctor.|What do you want, Joe?
+{34371}{34484}- Have you caught them yet?|- We'll catch them. What do you want?
+{34487}{34600}What do I always want?|Why do I stay alive?
+{34603}{34675}To try to persuade you|to sanction them both,
+{34678}{34782}expunge them,|wipe them from the face of the earth.
+{34825}{34869}Andrew McGee and his daughter
+{34872}{34953}constitute the greatest threat|that's confronted this nation.
+{34956}{35030}- That's a lot of crap.|- You feel guilt!
+{35033}{35138}Eight out of ten of our young volunteers|have died, committed suicide.
+{35141}{35219}You want to justify your participation.
+{35222}{35312}You were all in favour of it at the time.
+{35315}{35364}I know.
+{35431}{35494}I didn't realise.
+{35536}{35585}None of us did.
+{35629}{35787}Lot Six was nothing more|than a synthetic copy of pituitary extract.
+{35790}{35925}- A powerful painkiller hallucinogen.|- For God's sake, Joe, don't start again.
+{36152}{36201}You see...
+{36244}{36293}You see...
+{36341}{36458}This pituitary extract is responsible|for the occasional flashes of psi ability
+{36461}{36532}which most human beings demonstrate|from time to time.
+{36550}{36644}Precognition, telekinesis,|mental domination,
+{36647}{36754}the kind of domination that this|experiment brought out in Andrew McGee.
+{36757}{36808}What is the point, Doctor?
+{36811}{36926}Since this child was born, her father has|tried to inhibit her use of those powers.
+{36929}{37076}But what if his control|had weakened now?
+{37109}{37199}Why would he lose control now|after all these years?
+{37202}{37254}Ask yourself this question.
+{37257}{37390}How exhausting must it have been|for Victoria and Andrew McGee
+{37393}{37450}when this child was an infant?
+{37453}{37525}The bottle is late. The baby cries.
+{37528}{37633}And at that moment, one of her stuffed|toys right there in the crib beside her
+{37636}{37697}bursts into smoky flame.
+{37716}{37786}Joe, she's just a little girl.|She can light fires, yes,
+{37789}{37883}but you're making her sound|like Armageddon.
+{37886}{37949}That's what it might well be.
+{37952}{38064}Suppose lighting fires|is merely the tip of the iceberg.
+{38067}{38123}I don't know what you're talking about.
+{38126}{38192}I am talking about a talent|that is directly linked
+{38195}{38291}to this child's pituitary gland,|undeveloped pituitary gland.
+{38294}{38412}What happens when she becomes|adolescent and that sleeping gland wakes
+{38415}{38535}and becomes, for 20 months, the most|powerful force in the human body?
+{38538}{38687}Suppose we have a child here|who some day is capable
+{38690}{38793}of creating a nuclear explosion|simply by the power of her will.
+{38821}{38926}- That's insane.|- Is it? Is it?
+{38929}{39009}Then allow me to progress|from insanity to utter lunacy.
+{39012}{39122}Suppose there is a little girl out there|somewhere today, this morning,
+{39125}{39246}who has within her,|lying dormant at present,
+{39276}{39366}the power some day|to crack the very planet in two,
+{39369}{39446}like a china plate in a shooting gallery.
+{39658}{39752}What if we could train this little girl?|And others as well.
+{39755}{39804}Could we have more powerful weapons?
+{39807}{39866}No! No more experiments.
+{39869}{39950}Don't force me to go above your head|because I will if I have to.
+{39953}{40045}I'll have you and this entire establishment|eliminated.
+{40213}{40262}An excitable man.
+{40602}{40644}Where are we gonna go now?
+{40647}{40719}We have to find some place|to stay for a while.
+{40722}{40819}I don't think anybody'll believe us|but if we send letters to the newspapers
+{40822}{40919}maybe The Shop will have to lay off.
+{40922}{40989}We could go to Granther's.
+{41014}{41105}- What made you think of that?|- I don't know.
+{41108}{41221}Cos I was thinking about your grandfather|not five minutes ago.
+{41443}{41518}We'll check the motel.|I want you to work the road further down.
+{41674}{41745}Well... That's a pretty little miss.
+{41748}{41809}- What's your name, missy?|- Roberta.
+{41821}{41876}Well, Bobby, where are you headed for?
+{41879}{41986}We're headed for Tennessee. Knoxville.|My wife's there visiting her sister.
+{41989}{42039}- Ran into a little problem.|- Did she?
+{42042}{42152}Yeah, labour. This one's got|a new baby brother. 1 .40 this morning.
+{42155}{42268}- His name's Andy. Isn't that a nice name?|- I think it's a corker.
+{42271}{42383}Mine's Irv Manders. Hop in.|I'll get you ten miles closer to Knoxville.
+{42684}{42733}{y:i}(car horn)
+{42978}{43048}- Hey, Al, it's them.|- You're joking?
+{43051}{43119}- No, damn it, it's them.|- Did you get the number?
+{43122}{43211}- Did you see which way they went?|- I didn't even see them check out.
+{43214}{43266}Hey, we got them.
+{43553}{43643}Why don't you two come home,|take lunch with me and the wife?
+{43646}{43748}- We couldn't...|- Daddy, I'm starving.
+{43751}{43853}- Are you sure you got enough?|- Always, and I'm glad to have you.
+{43856}{43958}- Thank you very much.|- My pleasure, Bobby.
+{43961}{44042}It'll be my wife's too|when she gets a look at you.
+{44045}{44120}Always wanted a little girl herself.
+{44123}{44187}But I guess that wasn't to be.
+{44309}{44363}"(lrv)" Got a song for you.
+{44366}{44419}Oh, there was an old hen|She had a wooden leg
+{44422}{44475}Finest old hen that ever laid an egg
+{44478}{44597}She laid her eggs all over the farm|Another little drink won't do us any harm
+{44600}{44658}{y:i}(laughter)
+{45036}{45113}- Who'd you bring home, Irv?|- This little girl is Roberta.
+{45116}{45168}This young fella here's her daddy.
+{45171}{45247}I didn't catch his name yet|so I don't know if we're related.
+{45250}{45336}- Frank Burton, ma'am.|- Hello, I'm Norma Manders.
+{45362}{45434}- Hi.|- Hello.
+{45542}{45620}Your husband invited us back for lunch.|Hope you don't mind.
+{45623}{45678}Why, sure. Come on in.
+{45706}{45780}Come on, Bobby. Feedbag.
+{46425}{46482}{y:i}(belches)
+{46547}{46625}More room out than there is in, button.
+{46628}{46754}If I eat any more, I think I'll split.|That's what my mom used to...
+{46767}{46871}I mean that's what she always says.
+{46958}{47032}Norma, why don't you and Bobby go out|and feed those chickens?
+{47035}{47123}I wanna have a little talk with Frank here.
+{47141}{47209}- Would you like that?|- Do they peck?
+{47212}{47277}Only what they eat, honey.
+{47280}{47342}- Come on.|- OK. Goody.
+{47460}{47538}Want a beer, Frank?
+{47541}{47699}- It isn't Frank, but I guess you know that.|- I guess I did.
+{47702}{47774}- What is your name?|- Andy.
+{47777}{47882}- Well, Andy, what about that beer?|- I guess I could use it.
+{47885}{47934}You got it.
+{48064}{48148}- There you go.|- Thank you.
+{48151}{48280}- Here, let me help.|- No, that's all right. I know this routine.
+{48431}{48536}- Cops after you, Andy?|- Sort of cops, yeah.
+{48571}{48638}You snatch that little girl from her mother?
+{48641}{48767}No, she's my daughter,|but her mother didn't set the cops on us.
+{48770}{48843}Her mother's been dead for a year.
+{48846}{48942}Don't appear like you got her|against her will.
+{48975}{49051}What do they want you for,|anyway, Andy?
+{49054}{49121}- Who are they?|- Government agents.
+{49124}{49214}- FBI?|- No, The Shop.
+{49217}{49272}The Shop?
+{49275}{49413}Yeah, it's really the Department|of Scientific Intelligence. DSI.
+{49438}{49541}My daughter, Charlene and I, Charlie,
+{49544}{49674}we were part of an experiment|that happened a long time ago.
+{49677}{49734}Tell me about it.
+{49763}{49818}OK, now go ahead.
+{49821}{49894}Thank you. Do you eat these chickens?
+{49897}{49996}If I can catch one, I might eat one.|We eat the eggs.
+{50012}{50078}They want to examine her and study her.
+{50081}{50164}So they can figure out just what makes|her able to do what she can do.
+{50167}{50248}I think they want to use her|to reactivate the Lot Six programme.
+{50285}{50378}Andy, I think you ought to call the police.|Turn yourself in.
+{50381}{50490}- Yeah, I know it sounds crazy.|- As crazy as anything I've ever heard.
+{50507}{50571}Daddy, I fed the chic...
+{50615}{50674}You told.
+{50677}{50751}Daddy, why'd you tell?
+{50773}{50809}{y:i}(gasps)
+{50861}{50935}They're coming. They're coming for us.
+{51039}{51149}They're gonna kill you, Daddy. We have|to run, we have to hide, we have to...
+{51185}{51274}Yes, yes, that's what they wanna do.|They wanna kill you.
+{51277}{51359}Kill you like they did Mommy|and take me away. I won't let it happen.
+{51362}{51455}Holy Jesus Christ. Did she do that?
+{51523}{51591}Charlie, now, watch what you're doing.
+{51617}{51678}Is it too late?
+{51681}{51762}Yes, they're coming up the dirt road now.
+{51808}{51851}Daddy, I'm scared.
+{51881}{51947}Charlie, you can stop them.
+{51974}{52087}If I do something bad,|will you still love me?
+{52117}{52170}Oh, Charlie...
+{52173}{52214}Of course I'll still love you.
+{52217}{52312}I love you more than anything|in the world, no matter what happens.
+{52469}{52579}I got some tall apologising to do.|There's a line of cars coming up the road.
+{52582}{52654}I'll stand with you if you want.|I'll get my deer gun.
+{52657}{52708}You don't need your gun.
+{53508}{53586}Hi, Andy. Hi, Charlie.
+{53612}{53704}- Honey, you don't have to run any more.|- Go away.
+{53728}{53809}Afraid I can't do that, honey.|I have my orders.
+{53812}{53859}No one wants to hurt you or your daddy.
+{53862}{53949}You liar, you're supposed to kill him|and I know it.
+{53968}{54052}I'd advise you do what my daughter says.
+{54055}{54134}You know why she's wanted.|Remember the soldier at the airport?
+{54224}{54304}You men are trespassing.|I want you to get off my property.
+{54307}{54357}We're government agents, sir.
+{54360}{54445}These two folks are wanted|for questioning. Nothing more.
+{54448}{54522}I don't care if they're wanted|for assassination.
+{54525}{54607}- Show me a warrant or get off my land.|- We don't need a warrant.
+{54610}{54671}You do unless I woke up|in Russia this morning.
+{54674}{54762}If you'll just get in the car,|we can discuss all this.
+{54765}{54841}Honest to gosh,|there's nothing going on here.
+{54844}{54973}- We know what's going on.|- Please, don't make me do anything.
+{55282}{55412}"(Andy)" Get out! Don't you understand|what she's doing? Can't you feel it?
+{55415}{55476}Don't be stupid.
+{55479}{55524}If we can only discuss this, please.
+{55527}{55587}- Get him!|- Watch it, Andy. Watch it.
+{55621}{55693}Not the girl. Not the girl.
+{55874}{55923}{y:i}(screaming)
+{55970}{56007}Help! Help!
+{56010}{56047}Help me!
+{56071}{56127}No, don't.
+{56130}{56179}No, don't.
+{56206}{56267}No! Don't!
+{56270}{56319}{y:i}(screaming)
+{56637}{56679}Now, get out of here.
+{56682}{56782}She's never done anything like this|before. I don't know if she can stop.
+{56785}{56831}Get out. Get out.
+{56892}{56934}Go! Go!
+{56992}{57041}Help me!
+{57360}{57420}- Let's go!|- Don't leave me!
+{57487}{57538}- Charlie.|- "(screaming)"
+{57886}{57938}Stop it. That's enough.
+{57941}{58003}Charlie! Charlie! Charlie!
+{58006}{58055}Sorry, Daddy.
+{58194}{58260}{y:i}(screaming)
+{58295}{58359}Let's get outta here, back to The Shop.
+{58362}{58419}Go, go, go!
+{58634}{58683}Oh, my God.
+{58770}{58865}Andy. There's an old Willy's Jeep|out behind the barn.
+{58868}{58943}No, Irv, don't get involved any deeper.
+{58946}{59000}Those men came here|without any warrants,
+{59003}{59102}tried to take them off our land,|one of them shot me.
+{59105}{59183}What do you want me to do?|Turn them over to the secret police?
+{59186}{59290}They'll be getting their peckers up enough|to come back. Be a good Nazi?
+{59293}{59410}- I guess not.|- You don't have to do anything else.
+{59413}{59494}No, please, take the Jeep and get away.
+{59497}{59546}Just get away.
+{60481}{60531}Charlie.
+{60534}{60620}There's the lake. We're here.
+{61601}{61650}{y:i}(she giggles)
+{61906}{61968}Come on, Charlie.
+{61971}{62029}We got a lot of cleaning up to do.
+{62032}{62123}Nobody's lived here|since your grandfather died.
+{62126}{62195}I hope that key's still here.
+{62588}{62670}Do you think they'll find us here?
+{62673}{62803}After what you did at the farm,|I think they're gonna stay pretty far away.
+{62806}{62857}If they still wanna capture us,
+{62860}{62966}they're gonna have to figure out|a different way to do it.
+{62969}{63048}Well, anyways, we've got us a new home.
+{63098}{63147}Let's go. Let's go.
+{63188}{63239}Don't it look good?
+{63242}{63329}Daddy, will things|ever be the same for us again?
+{63332}{63425}Will I be able to go to school,|and things, again?
+{63428}{63485}Sure you can.
+{63513}{63609}- After you write the letters, right?|- That's right.
+{63612}{63680}Tell the newspapers all about it.
+{63683}{63756}Then the running'll be over.
+{63759}{63853}We'll live normal lives,|like everybody else.
+{63977}{64051}- Can I be...?|- What?
+{64054}{64160}- Like everybody else?|- Darn tootin' you can.
+{64223}{64280}I wanna be.
+{64348}{64413}Look who's here.
+{64583}{64656}- How'd you feel?|- Safe.
+{64728}{64809}- Good night, sweetheart.|- Good night, Daddy.
+{65059}{65108}{y:i}(mutters)
+{66021}{66064}{y:i}(clears throat)
+{66364}{66416}Do you have a phone here?
+{66419}{66468}Right over here.
+{66673}{66755}{y:i}- They're here. They mailed some letters.|- All right, good deal.
+{66758}{66854}Get a hold of Bates. He can be there|in an hour and keep me informed.
+{66857}{66905}- Mr McGee?|- And Miss McGee.
+{66908}{66980}- Where are they?|- The summer cottage near Bradford.
+{66983}{67052}- I'll bring them here.|- Oh, just like that?
+{67055}{67138}- You know what that little girl can do.|- I know.
+{67141}{67226}That's why I'll bring her here.|So you can do all your tests.
+{67229}{67366}On the condition that you give her to me|for disposal when you're finished with her.
+{67369}{67421}What?
+{67424}{67533}- I want her when you've finished with her.|- You are mad.
+{67536}{67641}How right you are.|So are you, mad as a hatter.
+{67644}{67752}You sit here making plans for controlling a|force that's beyond your comprehension.
+{67755}{67814}A force that belongs|only to the gods themselves.
+{67817}{67874}What the hell are you talking about?
+{67877}{67973}Things I'm sure|you wouldn't want the world to know.
+{68016}{68116}What's to stop me from|having you erased right here and now?
+{68119}{68143}Hmm!
+{68146}{68293}My word that I've already made certain|provisions that, should I disappear,
+{68296}{68366}The Shop will cease to exist|within six weeks.
+{68369}{68445}And within six months,|you will stand in front of a judge,
+{68448}{68573}awaiting sentence for crimes|serious enough to keep you behind bars
+{68576}{68618}for the rest of your life.
+{68903}{68998}Just... what is it you want?
+{69001}{69091}Your word that my involvement|with this child Charlene
+{69094}{69139}will not end when I bring her here.
+{69142}{69211}That's just the beginning.|We're going to be friends.
+{69214}{69284}- We haven't got her yet.|- We'll have her.
+{69385}{69433}All right.
+{69436}{69541}I guess we've got a deal,|but why do you want her?
+{69544}{69710}She's very beautiful. She's very young.|Yet inside her is the power of the gods.
+{69713}{69786}We're going to be close, she and I.
+{69789}{69875}Oh, yes.|Gonna be very close.
+{69951}{70086}Reel in some of the slack out of the line.|Real slow, come on in, a little more.
+{70089}{70175}OK, now give it a little tug.|Attagirl, now reel.
+{70178}{70253}Yes, sirree! Whoa, whoa, whoa!
+{70256}{70325}- A real whopper.|- Lookee here. How about that?
+{70328}{70364}{y:i}(she laughs)
+{70815}{70864}Here he comes.
+{71012}{71092}Saved by the Postal Department.|Am I glad to see you?
+{71095}{71167}I think we got a dead battery.|Could you give us a jump?
+{71170}{71248}- Let's take a look at it.|- Thanks a lot, I really appreciate it.
+{72801}{72845}Where will we go now?
+{72848}{72902}Offices of "The New York Times."
+{72905}{73037}- But you sent them a letter.|- Well, they might not have gotten it.
+{73040}{73097}Do you think they took them?
+{73100}{73149}No!
+{73611}{73692}- I'll get it, baby.|- "(yells)" I can do it!
+{73736}{73833}Baby, baby, come on, now.|It's almost over.
+{73836}{73885}"(crying)" It's never gonna be over.
+{73888}{73957}- It's not over.|- Come on.
+{73960}{74053}- No, it's not.|- Yes, it is. Come here.
+{74056}{74105}{y:i}(she weeps)
+{74212}{74273}- Are you ready to go?|- I guess so.
+{74276}{74368}Daddy, I'm never gonna start|another fire in my life.
+{74371}{74446}Even if they come|before we can get away.
+{74449}{74543}I'm never gonna hurt|another person in my life.
+{74546}{74648}That's OK, Charlie. I can understand that.
+{74690}{74721}OK.
+{74724}{74754}Jump.
+{74757}{74806}That's a big girl.
+{75261}{75310}OK...
+{76078}{76138}Charlie? Charlie! Charlie!
+{76281}{76351}Oh God, oh God, oh God, oh God!
+{76354}{76417}They shot my daughter! "(echoes)"
+{76420}{76519}Come on out where I can see you,|you son of a bitch.
+{76571}{76595}Baby.
+{78060}{78118}Nothing to it.
+{79468}{79497}Charlie!
+{79500}{79590}She's all right, Mr McGee. Take it easy.
+{79754}{79833}Where is she? I wanna see her.
+{79836}{79926}All in good time. First, let's talk.
+{79929}{79989}Let's get acquainted.
+{80017}{80066}Go to hell.
+{80086}{80160}I tell you, she's gonna be all right.
+{80338}{80387}No. No.
+{80784}{80871}- What do you want with us?|- I told you, Mr McGee.
+{80874}{80960}We are going to be spending|considerable time with each other
+{80963}{81034}and I want to introduce myself.
+{81037}{81095}I'm Dr Pynchot.
+{81098}{81198}I'm going to make sure|you're treated well here.
+{81344}{81392}Is this The Shop?
+{81421}{81480}This is The Shop.
+{82403}{82452}{y:i}(bleeping)
+{82570}{82604}Hi, Charlene.
+{82607}{82704}- I'm Captain Hollister. May I come in?|- Where's my daddy?
+{82783}{82834}I brought you some cocoa.
+{83051}{83094}I don't want anything.
+{83097}{83176}There's nothing to be afraid of. Here.
+{83213}{83269}You see? Go on.
+{83326}{83385}Well, maybe later.
+{83447}{83540}I've been looking forward|to meeting you for a long time.
+{83582}{83673}I know you may not believe this|but I've actually begun to think of you
+{83676}{83720}as my own daughter.
+{83723}{83840}- What have you done to my father?|- He's resting and he's fine, just like you.
+{83843}{83902}He knows you're all right|and he sends his love
+{83905}{83953}and he wants you to cooperate with us.
+{83956}{84009}You're a liar.
+{84012}{84081}What kind of talk is that|from a nice little girl like you?
+{84084}{84157}- Go to hell!|- Oh?
+{84181}{84282}A very stubborn nice little girl.|That's all right, I understand.
+{84285}{84353}I know you're tired|and you're not sure where you are.
+{84356}{84483}So I just want to ease your mind, Charlie.|Do you mind if I call you Charlie?
+{84530}{84584}All right, Charlene.
+{84587}{84686}You are here because I'm very interested|in this ability that you have.
+{84689}{84736}Pyrokinesis.
+{84739}{84766}Yes.
+{84769}{84886}All of us here are interested in that and|we want to see how far you can take it.
+{84889}{84933}I'll tell you this, Charlie,
+{84936}{85026}you'll be doing this great country of ours|a big favour if you cooperate.
+{85029}{85175}I said I would never start another fire|in my life. I wanna see my father.
+{85236}{85289}OK.
+{85292}{85316}Um...
+{85319}{85386}Why don't you drink the cocoa|and get some sleep?
+{85389}{85528}If there's anything you want,|just pick up the phone and let us know.
+{85531}{85618}I know you'll find this|hard to believe now, Charlie, but...
+{85621}{85675}you and me are gonna be pals.
+{85678}{85714}Never.
+{85744}{85812}Never say never.
+{85815}{85864}I'll see you, Charlie.
+{85898}{85939}{y:i}(bleeping)
+{85942}{85991}Good night, Charlie.
+{86430}{86490}Just back off. Back off.
+{86493}{86525}No!
+{86528}{86577}You're not gonna do it.
+{86618}{86667}Back off!
+{86778}{86888}- Come on, take these pills.|{y:i}- (he gags)
+{86891}{86940}Come on, swallow.
+{86987}{87036}{y:i}(swallows, gasps)
+{87076}{87192}- Now we have So Red So Beautiful.|- Look what I have here.
+{87195}{87254}- A wind-up cat doll.|- "(music box plays)"
+{87257}{87349}Listen to that, sweetheart.|Isn't that pretty?
+{87352}{87376}Huh?
+{87379}{87428}Sure you want this...
+{88439}{88488}{y:i}(video game music )
+{88743}{88792}Hi, kid.
+{89092}{89203}You go ahead with your game.|I'll start in the bedroom.
+{89389}{89448}My name's John.
+{89500}{89571}They call you Charlie, don't they?
+{89633}{89669}Hey...
+{89672}{89719}Hey...
+{89734}{89832}You wanna teach me? I'm terrible|at games. You can beat me all the time.
+{89835}{89859}No.
+{89992}{90059}Where's Charlie?|What are you doing with her?
+{90062}{90143}She's perfectly all right.|There's nothing to worry about.
+{90146}{90252}- Yeah, well, I wanna see her, goddamn it.|- Just behave yourself.
+{90255}{90324}Do as we ask, we'll see.
+{90385}{90423}You bastards.
+{90426}{90490}Are you gonna do the test or not?
+{90513}{90580}Oh, sure. Well, sure.
+{90603}{90652}Good deal.
+{90673}{90787}It's a one-way glass.|You won't see us but we'll see you.
+{91133}{91197}All right, send him in.
+{91280}{91391}{y:i}- Hi, how are you?|{y:i}- Having the time of my life. Sit down.
+{91493}{91616}Did they tell you anything about what|we're supposed to be doing in here?
+{91619}{91698}All they told me was to come talk to you.
+{91751}{91841}You look nervous.|Thirsty? Want some water?
+{91844}{91905}Yeah, I'm thirsty.
+{91933}{92030}You know,|they mentioned something about a test.
+{92033}{92087}- Uh-huh.|- You want some water?
+{92090}{92139}No, I'll pass.
+{92266}{92315}{y:i}(yelps)
+{92450}{92499}{y:i}(groans)
+{92785}{92839}Why don't you put some ink in it?
+{93062}{93123}{y:i}Put ink in it?
+{93126}{93174}You gotta be crazy.
+{93281}{93326}- Goddamn it.|- He's tipped over.
+{93329}{93380}He's been on the run too long.
+{93383}{93460}- All those damn pills haven't helped.|- Just give me time.
+{93463}{93547}Rainbird's right.|He's lost it and time won't help.
+{93550}{93677}Increase his medication.|I'll decide what to do with him later.
+{93680}{93755}- Work on the girl.|- Oh, I am.
+{93758}{93862}With a little luck, before long,|she'll trust me like a brother.
+{93871}{93916}{y:i}(thunder)
+{94304}{94353}{y:i}(bleeping)
+{94684}{94734}Hi, kid, how are you doing?
+{94781}{94863}Why do you come here every day?|I'm not messy.
+{94889}{94957}It's just my job, kid.
+{95027}{95133}Because they're all full of shit. Why else?
+{95136}{95185}{y:i}(chuckles)
+{95232}{95276}I wanna see my father.
+{95279}{95341}Sure you do.
+{95369}{95453}I wish I could help.|I don't even know where the man is.
+{95456}{95525}This is a big place, Charlie.
+{95553}{95697}They say they'll let me see him if I...|if I do something.
+{95700}{95774}- And I don't want to.|- "(chuckles)" Well...
+{95777}{95831}Can it be that bad,|what they want you to do?
+{95834}{95944}I mean, if just by doing it,|you can get to see your old man.
+{95947}{95996}It is.
+{95999}{96071}{y:i}(thunder)
+{96074}{96190}Storm's coming on. Sure hope|those lights don't go off altogether.
+{96193}{96247}No, sir, I wouldn't like that.
+{96505}{96559}Hey...
+{96562}{96602}Listen.
+{96605}{96649}Are you scared by my face?
+{96652}{96739}I mean,|I could wear a mask or something.
+{96742}{96799}I've seen worse.
+{97731}{97780}{y:i}(door rattles)
+{97806}{97889}Kid! Kid, please!
+{97892}{97969}I can't stand the dark. Please, kid.
+{97991}{98048}Kid!
+{98051}{98120}- I gotta get outta here. Help me.|- Use your card.
+{98123}{98219}All the electricity's gone. The card's|no good. Hey, let me outta here.
+{98268}{98327}Hey! Let me out!
+{98330}{98412}- What's the matter?|- Let us out. There's people in here.
+{98415}{98481}- Stop it, we're OK.|- "(he weeps)"
+{98497}{98546}I mean, aren't we?
+{98582}{98656}Yeah, I guess you're right.
+{98659}{98779}It's just... the dark. I can't stand it.
+{98815}{98904}It's just like the place they put me|when I was captured.
+{98907}{99016}- Who put you?|- The Cong.
+{99019}{99106}- Who's the Cong?|- You mean to tell me...?
+{99109}{99192}Oh, no, of course not, you're too young.
+{99195}{99260}It was the war, see. Vietnam.
+{99263}{99394}The Cong were the bad guys.|They wore black pyjamas.
+{99397}{99479}In the jungle we were on patrol.|Walked into an ambush.
+{99482}{99529}Only about six of us got out.
+{99532}{99596}We ran.
+{99599}{99671}Went the wrong way.
+{99674}{99728}They caught me.
+{99731}{99809}Threw me in a hole in the ground.
+{99812}{99909}Like being buried alive.|It was always dark like this.
+{99912}{99962}What did you eat?
+{99965}{100039}They threw down rotted rice.
+{100069}{100118}Sometimes I'd eat spiders.
+{100121}{100212}Live ones. Big spiders. I'd chase them|around in the dark and eat them.
+{100215}{100263}Gross.
+{100266}{100325}They turned me into an animal.
+{100328}{100415}You got it easier than me, kid,|but it all comes down to the same thing.
+{100418}{100475}Like a rat in the trap.
+{100499}{100600}You think maybe they'll get|the lights back on pretty soon?
+{100603}{100680}Doesn't matter. We're together.
+{100708}{100848}God, kid. If some day I could help you|the way you're helping me...
+{100851}{100977}You could.|You could get a message to my father.
+{100980}{101095}You know, what's it all about? Why do|they have you and your daddy here?
+{101098}{101136}What do they want you to do?
+{101273}{101355}They won't make me take any more pills.
+{101358}{101429}No more pills, you bastard.
+{101473}{101580}How are you gonna help Charlie|if you're a goddamn zombie?
+{101583}{101668}Listen,|maybe I could get in to see your dad?
+{101671}{101771}- You could? You really think you could?|- I could change with Herbie, an orderly.
+{101774}{101898}I could see your dad, tell him you're OK...|Maybe not tell him, pass him a note.
+{101901}{102007}- Oh, thank you, thank you.|- Shit.
+{102010}{102082}Maybe you oughta light|the damn fires if you can.
+{102085}{102191}I told you, it's like letting a wild animal|out of a cage.
+{102194}{102298}I promised myself I'd never do it again.
+{102301}{102439}That men at the airport, those men at|the farm, I killed them, I burned them up.
+{102442}{102524}Yeah, but the way you told it,|it sounded like self-defence.
+{102527}{102590}Yes, but that's no excuse.
+{102593}{102679}Also sounded like you saved|your dad's life.
+{102682}{102757}Look, if you do what they want you to do,
+{102760}{102854}only as much as you want to do, it might|be the way for you to get out of here.
+{102857}{102932}I'll help anyway I can.
+{102935}{103002}Oh, my! Light.
+{103005}{103054}Hold on here.
+{103108}{103199}I'm sorry you got stuck with me|in here, John.
+{103253}{103312}But I'm awful glad too.
+{103315}{103424}You look like you could use|a little rest, huh? Come on, let's try.
+{103427}{103502}Attagirl.
+{103505}{103554}There we go.
+{103749}{103798}That's the girl.
+{103910}{104041}You just relax|and you'll be asleep in no time.
+{104086}{104199}And you'll have sweet, sweet dreams.
+{104249}{104308}That's the girl.
+{104482}{104563}- Good night, kid.|- Good night.
+{104566}{104605}Daddy.
+{104959}{105042}Now, Charlie, you know|what you're supposed to do.
+{105055}{105177}I want you to go in the other room. I don't|want to have to look at you while I do this.
+{105180}{105250}Something might happen.
+{105810}{105880}Look at those alphas,|she's really jacked up.
+{105883}{105968}Everything all set? Tape rolling?
+{106031}{106106}- Everything all right with her?|- Yes.
+{106132}{106221}- You all set in there?|- Ready in here.
+{106271}{106326}Are we ready here? Tape rolling?
+{106329}{106429}- Rolling.|- All right. Everyone stand by.
+{106432}{106481}Go ahead, Charlene.
+{106887}{106965}Wood chips. They should've given me|something harder.
+{107211}{107272}Something's happening in there.
+{107333}{107409}- Temperature just jumped ten degrees.|- "(bleeping)"
+{107949}{107982}There it goes.
+{108030}{108114}Her alpha patterns|look like the goddamn Andes.
+{108425}{108514}She did it. By God, she did it|and we got it all on tape.
+{108594}{108658}Back off. Just back off.
+{108682}{108731}Back off.
+{108734}{108783}Look at the tub.
+{108885}{108944}Back off.
+{109112}{109182}Did you see the water boil?|And the temperature?
+{109185}{109238}- Jesus, did we get the audio?|- We got it.
+{109241}{109335}Good deal. My God, did you see|what she did? Did you see that?
+{109338}{109461}My God, is there anyone here that has|any doubt she didn't make that happen?
+{109464}{109501}Not at all, Chief. None.
+{109504}{109565}I knew something would happen|but I had no idea.
+{109568}{109661}That tray flew and she controlled it.|Then she put her power in the tub.
+{109664}{109736}We got all on tape|and it's good enough to stand up in court.
+{109739}{109843}Right up in the Supreme Court.|What are you looking so miserable about?
+{109846}{109936}You got her to do it by promising|she could see her father again.
+{109939}{110038}- She must never see him.|- We never intended to let her.
+{110065}{110182}She'll never stop asking for it. Suppose by|some strange accident they get together.
+{110185}{110279}- Suppose they do.|- She does whatever he tells her.
+{110282}{110400}Suppose he persuades her|to destroy us all.
+{110475}{110543}- No chance.|- There's always a chance.
+{110546}{110637}He's right.|They can never see each other again.
+{110640}{110702}Then you better send|somebody along after her.
+{110705}{110730}Huh?
+{110733}{110809}Your technician must've had|an appointment he forgot about.
+{110812}{110897}He went out of here in a hell of a rush.|He also left the door open
+{110900}{110975}and your firestarter just walked out.
+{111010}{111122}Christ.|One of you men go and get her.
+{111180}{111227}Go on.
+{111325}{111381}Sure.
+{111384}{111489}Which of you would like|to go and get the little girl?
+{112456}{112521}{y:i}- (knocking)|{y:i}- Andy?
+{112593}{112642}Here you go, buddy.
+{112689}{112738}Oh, good.
+{113099}{113164}Listen, Andy,
+{113167}{113273}we've determined that your power|has deteriorated since you got here.
+{113276}{113366}In fact, we've had no positive results at all.
+{113422}{113485}What do you expect with all these drugs?
+{113488}{113557}You expect me to do my best|when I'm stoned?
+{113560}{113677}I did everything I could. I tried.|I did everything I could.
+{113680}{113775}Yes, of course I know that you have|and believe me, I appreciate it very much.
+{113778}{113832}In fact, I think you need a rest.
+{113835}{113962}Did you know that The Shop has a small|compound on the island of Maui, Hawaii?
+{113965}{114059}How would it be if I sent you there|for the immediate future?
+{114062}{114165}- I still get my medication?|- Oh, sure, all you need.
+{114206}{114302}- Well, that sounds nice.|- All right, good deal.
+{114305}{114409}Then I'll get things started|in that direction right away.
+{114412}{114531}You just take it easy, kid.|We'll take care of everything.
+{114586}{114637}{y:i}(bleeping, door closes)
+{114730}{114779}{y:i}(groans)
+{115624}{115706}She's so beautiful. What's her name?
+{115709}{115809}"(laughs)" Actually, she's more of a boy.|His name is Necromancer.
+{115829}{115880}What does necromancer mean?
+{115883}{115993}I think it means something like wizard|or sorcerer. Something like that.
+{116070}{116178}They said if I did what they wanted,|they'd let me see my father.
+{116181}{116299}How did I know they were gonna be so|damn stubborn? You have to do it again.
+{116302}{116397}- But when will I ever stop?|- Look, baby.
+{116400}{116468}It's like poker.
+{116494}{116566}If you ain't dealing from strength,|you ain't dealing.
+{116569}{116696}Every time you light one of their fires,|make sure you get something in return.
+{116699}{116782}This is your old Uncle John talking,|you understand me?
+{116785}{116819}OK.
+{116822}{116915}What about this power of yours?|You were awful scared about it before.
+{116918}{116975}How'd you feel about it now?
+{116978}{117073}It's different now. It's a lot stronger.
+{117076}{117193}Yesterday, when I told it to back off, it did.
+{117196}{117285}It was like I let it out|in a single straight line and then...
+{117288}{117391}- Then you pulled it back into yourself?|- Oh, no. I put it into the water.
+{117394}{117501}If I pulled it back into myself,|I guess I'd burn up.
+{117524}{117588}When am I gonna get to see my father?
+{117591}{117674}Well, Charlie, we'll just have|to give them enough rope.
+{117677}{117754}Next time, there has to be more water.
+{118147}{118184}Everything all set here?
+{118187}{118272}Tape running? All right, stand by.
+{118275}{118349}We're ready when you are, Charlene.
+{119573}{119622}{y:i}(cracking)
+{119769}{119845}The temperature|should be -26 degrees Celsius.
+{119848}{119942}Plus or minus five degrees.|It's 40 in there.
+{120208}{120306}- The blocks are starting to burn.|- Cinder blocks.
+{120878}{120946}{y:i}(cracking)
+{121507}{121551}God.
+{121695}{121760}Back off. Just back off.
+{121857}{121904}Back off. Just back off.
+{121972}{122025}Back off.
+{122669}{122719}I wanna see my father.
+{122810}{122874}You better tell her something.
+{122931}{122997}Soon, Charlie.
+{123000}{123062}When you show us a little more.
+{123065}{123179}If you don't let me see him now,|I'll make something happen.
+{123182}{123251}Do you hear me?|I'll make something happen.
+{123443}{123492}{y:i}(television)
+{123529}{123570}{y:i}(TV) Time for lunch.
+{123573}{123614}{y:i}Well, instant banquet.
+{123655}{123733}{y:i}Nice, table companion.
+{124054}{124110}{y:i}(Woody Woodpecker laughs)
+{124150}{124214}I'm telling you, we're not through|with testing her.
+{124217}{124304}You saw what she's capable of.|She hasn't even reached her potential.
+{124307}{124416}Perhaps Herman would like to see her|blow up a country before he gives in.
+{124419}{124492}I'm scientifically rational enough|not to form an opinion
+{124495}{124576}based on two experiments.
+{124579}{124671}I'm satisfied, yes, but only partially.
+{124716}{124787}Have you made the arrangements|regarding her father?
+{124790}{124831}It's all taken care of.
+{124940}{124985}Night, Doc.
+{125297}{125349}Rainbird.
+{125352}{125401}Have you considered what might happen
+{125404}{125468}if that girl found out|whose side you're really on?
+{125471}{125531}Oh, yes, I have.
+{125534}{125672}I'd say you stand a good chance of finding|out what a steak feels like in a microwave.
+{125714}{125783}Would you shed a bitter tear?
+{125830}{125884}No.
+{125887}{125958}No point in lying to you about that.
+{126048}{126105}When we find out|all we need to know from her...
+{126108}{126180}When you give her to me.
+{126404}{126465}What are you gonna do with her?
+{126507}{126575}John the friendly orderly will come in.
+{126578}{126678}He will greet her, talk to her,|get her to smile.
+{126681}{126793}John the friendly orderly will make her|happy cos he's the only one who can.
+{126826}{126944}When John feels that she has reached|the moment of her greatest happiness,
+{126947}{127087}he will strike her across the bridge|of the nose, breaking it explosively,
+{127090}{127202}and sending bone fragments|into her brain.
+{127205}{127335}It'll be quick and he'll be|looking at her face at the time.
+{127338}{127414}He will know her power.
+{127477}{127540}And when he dies,
+{127543}{127614}which I hope is very soon,
+{127617}{127753}perhaps he can take that power with him|into the other world.
+{128182}{128229}You are crazy.
+{128414}{128490}"(Hollister)" I've made all the arrangements|for you to go to Hawaii.
+{128493}{128598}- Good. When am I going?|- Today.
+{128601}{128682}- Today?|- Well, 8.00 this evening.
+{128705}{128812}- How?|- First class comfort all the way.
+{128815}{128874}I mean, what's taking me?
+{128877}{128946}You go from here|by helicopter to the base,
+{128949}{129041}then the rest of the way|by army transport plane.
+{129069}{129124}Hmm.
+{129162}{129236}- 8.00?|- 8.00.
+{129394}{129473}You know, that could bite you.
+{129476}{129563}- What?|- That snake you're holding.
+{129739}{129825}Christ, how did that get there?
+{129828}{129909}I guess you just picked it up from a bush.
+{129945}{130004}I want you to contact that helicopter pilot.
+{130007}{130052}No.
+{130055}{130104}- Hey, guard.|- Shut up.
+{130139}{130217}Contact the pilot|and tell him you'll be coming along.
+{130220}{130271}I won't be coming along.
+{130415}{130476}Yes, of course I'm coming along.
+{130697}{130781}- My daughter will be with us.|- Oh, no.
+{130784}{130850}She can't come. She's far too dangerous.
+{130853}{130959}Oh, yeah? Well, who do you think|made her dangerous?
+{131106}{131185}My daughter is coming along.
+{131188}{131264}I don't want you to contradict me again,|do you understand?
+{131267}{131316}Yes, of course.
+{131408}{131622}You contact the helicopter and let him|take us as far as the army plane.
+{131625}{131698}There has to be a refuelling stop|between here and Hawaii.
+{131701}{131788}- We'll have to refuel in California.|- Yeah.
+{131816}{131858}OK.
+{131861}{131942}- Do you have paper and a pen?|- Sure.
+{131975}{132024}Here you go.
+{132055}{132108}I'm gonna write something|to my daughter.
+{132111}{132202}- You're gonna take it to her.|- Yes, of course.
+{132205}{132257}{y:i}Charlie, love.
+{132260}{132364}{y:i}First thing, when you finish reading this,|{y:i}flush it down the toilet, OK?
+{132367}{132447}{y:i}Second thing,|{y:i}if everything goes the way I'm planning,
+{132450}{132510}{y:i}we're gonna be out of here tonight.
+{132513}{132627}{y:i}Third thing,|{y:i}I want you to be in the stables at 8.00.
+{132630}{132682}{y:i}I'll arrange for somebody to bring you.
+{132685}{132760}{y:i}I miss you, Charlie. I love you so much.
+{132763}{132826}{y:i}(bleeping)
+{132829}{132900}- John!|- Hi, baby.
+{132948}{133051}- I have to talk to you.|- Yeah, what about?
+{133054}{133096}I'll tell you in the hall.
+{133154}{133211}- They listen here.|- Right.
+{133292}{133364}My daddy's found a way|for us to get out of here.
+{133367}{133453}I'm supposed to meet him|at the stables at 8.00 tonight.
+{133456}{133546}- That's great. How did he do it?|- I don't know, but isn't it wonderful?
+{133549}{133602}Better. It's a miracle. I'll take you.
+{133605}{133715}No, you'd get in trouble.|I wouldn't do that to you. You're my friend.
+{133778}{133871}I appreciate that, Charlie,|but I'd do anything for you.
+{133874}{133906}{y:i}(bleeping)
+{133909}{133964}Hi, Charlie.
+{134051}{134176}My name's Mike. Captain Hollister has|assigned me to take you to the stables.
+{134179}{134259}- What time?|- Well, let's see.
+{134262}{134348}I'll be back for you|about quarter to eight this evening.
+{134351}{134429}So, what's going on?
+{134432}{134518}- I asked if I could go riding at night-time.|- Oh?
+{134521}{134598}Sure, kid, anything you want.
+{134601}{134658}- Bye.|- See you later.
+{134987}{135036}{y:i}(whinneying)
+{136546}{136611}Come to me, Charlie.
+{136839}{136902}OK, let's check you in here.
+{137056}{137105}Hey!
+{137108}{137161}Anybody here?
+{137164}{137237}- You can go now.|- I have the kid with me.
+{137250}{137323}I said you can go now!
+{137389}{137520}- Get out of here.|- Can't do it, Charlie.
+{137649}{137707}Back off. Back off.
+{137789}{137900}Get out of here, you bastard,|or I'll burn you up, I'll fry you.
+{138046}{138094}Charlie.
+{138097}{138146}Charlie.
+{138149}{138214}John? John?
+{138217}{138295}- Where are you?|- I'm up here.
+{138347}{138396}John...
+{138439}{138574}I'm really glad you're here|but if anybody found out...
+{138577}{138688}That doesn't matter any more.|The only thing that matters is you and me.
+{138691}{138748}How'd you get Charlie to cooperate?
+{138751}{138823}- Rainbird got her to do it.|- Who's Rainbird?
+{138826}{138943}He's an agent, an exterminator. Charlene|thinks he's an orderly named John.
+{138946}{139037}Come on up, Charlie. Come to John.
+{139040}{139116}- My father should be here any minute.|- I know.
+{139119}{139198}Hurry. Climb up now. Come to John.
+{139247}{139301}That's it. Come on.
+{139304}{139349}Good.
+{139352}{139432}Good girl. Right...
+{139435}{139487}- "(Andy)" Are you armed?|- "(Hollister)" Yes.
+{139511}{139582}- Charlie?|- Daddy!
+{139921}{139993}Yeah. Oh.
+{140037}{140128}- Let me look at you.|- Is it true? Are we really going away?
+{140131}{140237}Yes, it's true, we're really going away.
+{140267}{140316}Baby.
+{140339}{140427}- You pushed him.|- You're right.
+{140454}{140570}- My friend John is here.|- The orderly?
+{140610}{140670}Yeah, he's up there.
+{140673}{140769}Couldn't we take him with us|if he wants to come?
+{140820}{140921}He's the one that shot us, baby.|He's the one that brought us here.
+{140924}{141000}Oh, no, Daddy, that's John.|He took care of my room.
+{141003}{141052}No.
+{141055}{141104}He is with them.
+{141358}{141423}- It isn't true, is it?|- Yes, it's true.
+{141448}{141560}- Where are you, you son of a bitch?|- You tricked me, you lied to me.
+{141563}{141714}No, I just mixed up the truth a little,|Charlie. And I did it to save your life.
+{141717}{141825}You come down here before I set|everything on fire, cos I can do it.
+{141828}{141879}I know you can.
+{141882}{141956}But if you do, you're gonna burn up|an awful lot of horses.
+{141959}{142080}Can't you hear them?|Necromancer's in one of those stalls.
+{142209}{142258}No, I'm not gonna do it.
+{142332}{142407}No, I'm not gonna do it.|I'm not gonna burn.
+{142443}{142494}No! Back off.
+{142711}{142776}Please, don't. Back off.
+{142901}{142947}You're not gonna do it.
+{142975}{143046}Don't. Back off. Back off!
+{143114}{143224}What more do you want from us?|Why can't you just let us go?
+{143227}{143354}You can't just be let go. I don't think|your father even believes that now.
+{143357}{143441}- You're dangerous and you know it.|- That's not my fault.
+{143444}{143554}I know that. I don't care about that.|I never did. All I care about is you.
+{143557}{143654}Now, come up here!|Don't make me shoot your father.
+{143657}{143753}- Don't listen to him, Charlie.|- You promise he'll be all right?
+{143756}{143860}- I give you my real word.|- Don't do it, baby.
+{143863}{143919}- Are you sure?|- Yes.
+{144173}{144225}Kill him.
+{144711}{144754}Jump.
+{144778}{144827}No.
+{144913}{144944}No!
+{144947}{145014}Oh, Daddy! Are you hurt?
+{145017}{145093}- Charlie...|- Daddy! Daddy!
+{145096}{145178}- You're bleeding.|- Charlie!
+{145217}{145242}Daddy!
+{145283}{145347}- Look at me.|- Go on.
+{145438}{145497}Charlie, look at me.
+{145548}{145625}That's it. So I can see your eyes.
+{145732}{145768}I love you, Charlie.
+{146043}{146092}I love you.
+{146095}{146144}{y:i}(screaming)
+{146230}{146325}{y:i}(over PA) I say again, Condition|{y:i}Bright Yellow. This is not a drill.
+{146328}{146382}{y:i}Repeat, not a drill.
+{146385}{146502}{y:i}Converge on stables. Use caution.|{y:i}It's the girl and she's using it.
+{146536}{146624}You gotta get away if you can, Charlie.
+{146627}{146768}If you have to kill anybody that gets|in your way, I want you to do it.
+{146771}{146879}You let them know that this is a war,|Charlie.
+{146882}{146960}You have to get out of here.
+{146963}{147027}Do it for me.
+{147096}{147180}Do it for me, baby, do you understand?
+{147183}{147327}You make it. You make it so they can't|ever do anything like this again.
+{147406}{147484}You'll have to burn it all down, baby.
+{147487}{147536}Burn it all down.
+{147581}{147630}Daddy...
+{147739}{147846}Go on. Get outta here|before it all goes up.
+{148020}{148079}I can't leave you.
+{148106}{148157}I can't leave you, Daddy.
+{148244}{148293}Oh...
+{148312}{148361}I love you, Charlie...
+{148460}{148518}Oh, no, Daddy.
+{148853}{148943}Get the door. Ready?
+{149077}{149125}- Don't move.|- Freeze.
+{149374}{149424}{y:i}(screaming)
+{149925}{149988}Oh, my God!
+{149991}{150069}Get her! Get her!
+{150595}{150644}- Run! Run for it!|- Let's go!
+{151412}{151515}Come on, let's get out of here.
+{151877}{151926}{y:i}(screaming)
+{152380}{152429}{y:i}(screaming)
+{152665}{152714}{y:i}(yells)
+{152717}{152766}No! No!
+{152881}{152959}{y:i}(screaming)
+{153231}{153274}Take cover!
+{153343}{153387}Take cover!
+{154570}{154632}No... Stop!
+{154670}{154743}No! No!
+{154746}{154786}No! No!
+{155047}{155090}{y:i}(man) Attention!
+{155119}{155175}{y:i}Stay right where you are.
+{155373}{155454}{y:i}Do not move. We're coming down.
+{155875}{155928}{y:i}(screaming)
+{156186}{156231}{y:i}(screaming)
+{156353}{156423}{y:i}(screaming)
+{157587}{157648}For you, Daddy.
+{158041}{158153}- Irv, look who's here.|- Thanks for the ride.
+{159300}{159358}"(lrv)" You'll be safe now, Charlie.
+{159388}{159439}I'm doing it, Daddy.
+{159442}{159491}I love you.
+{163539}{163613}Visiontext Subtitles: Neil Blackmore
+{164231}{164280}ENHOH

@@ -1,0 +1,1000 @@
+{856}{906}(car horn)
+{908}{956}(knock at door)
+{983}{1046}Gilbert, you'd better get up. They're here.
+{1048}{1107}- I'm up.|- You OK?
+{1109}{1163}- Yeah.|- You sure?
+{1165}{1230}Sure I'm sure.
+{1271}{1360}- You remember the first time you left home?|- Yes.
+{1362}{1435}And I was just as scared as you are.
+{1437}{1541}I'm not scared. I just don't like|the idea of leaving you here all alone.
+{1543}{1635}Oh, I'll be fine. I was fine|when you went away to computer camp.
+{1651}{1718}Mom, that was just for two weeks.
+{1720}{1822}I can take care of myself.|I'm much more worried about you.
+{1824}{1934}I'm gonna be just fine. Anyways,|I'm not gonna be alone. I got Lewis.
+{1958}{2047}Gilbert? Come on, rise and shine.
+{2049}{2116}Dad's waiting outside in the car.|It's all packed.
+{2118}{2178}Hi, Flo. It's a beautiful day, isn't it?
+{2180}{2291}It's gonna be a great year.|Now, I figure with lunch and two ARVs,
+{2293}{2389}we should be on the road approximately|7 hours, 18 minutes and 7 seconds.
+{2391}{2475}- ARVs?|- Average restroom visits.
+{2477}{2513}(laughter)
+{2515}{2571}Oh, I'm so proud of you two boys.
+{2573}{2642}Come on, Gilbert. Let's go to college.
+{2644}{2705}(braying laugh)
+{3419}{3521}Hey, Lewis, what time you got?|I'm tryin' to work out our exact ETA.
+{3523}{3624}I got two thirty-seven.|Dad, how fast are we going?
+{3626}{3706}I've got the old cruise control set at 35.
+{4477}{4543}Adams College, home of the Atoms.
+{4563}{4616}Gilbert, this is gonna be really neat.
+{4618}{4682}I sure hope so. What if it isn't, huh?
+{4684}{4753}Don't be so negative.|We'll have the time of our lives.
+{4755}{4815}I'm not being negative. I'm being nervous.
+{4817}{4881}Don't be, cos everything's gonna be great.
+{4883}{4954}- Just like high school, right?|- This is college.
+{4956}{5066}Remember, there are|6,127 students at Adams.
+{5068}{5131}- 58 per cent of which are girls.|- So?
+{5133}{5213}So that's 7,107.32 boobs.
+{5215}{5270}(braying laughter)
+{5272}{5395}You college guys are all alike.|All you really care about is gettin' laid.
+{5397}{5495}- I wish I was goin' with you.|- (braying laugh)
+{5542}{5580}Dad!
+{5718}{5790}(Lewis) Wow! This campus is awesome.
+{5816}{5941}It's a lot bigger than I expected. Maybe|we should have just gone to City Tech, huh?
+{5943}{6073}Tech's nothin'. You know Adams has got|the best computer department in the country.
+{6075}{6161}Yeah, you're right. Adams is the best.
+{6710}{6787}(Mr Skolnick) Well, boys...|I mean "men"... here we are.
+{6926}{7030}What an opportunity for you guys.|You're both gonna do great.
+{7032}{7140}I'm proud of you. Your father would|have been proud of you, too, Gilbert.
+{7142}{7271}I know, Mr Skolnick. Don't tell my mother|I was nervous. I wouldn't want her to worry.
+{7273}{7332}- Of course not. Don't sweat it.|- Thanks.
+{7334}{7372}(cycle bell rings)
+{7374}{7434}Hey, Lewis, come here. Sit down.
+{7508}{7558}I envy you, Lewis.
+{7560}{7647}This is one of the finest institutions|in the country.
+{7666}{7726}You're gonna do fantastic here.
+{7775}{7833}Try not to break too many hearts.
+{7835}{7888}That hasn't been a real problem yet.
+{7890}{7965}Come on, you're gonna make|some lucky girl very happy.
+{7967}{8040}You're smart, easy-going.
+{8042}{8083}Got your father's good looks.
+{8085}{8146}(braying laughter)
+{8148}{8254}And you got a great sense of humour.|I really believe in you, son.
+{8256}{8341}- Thanks, Dad. I won't let you down.|- I know.
+{8354}{8414}Gilbert, help me with the trunk.
+{8483}{8545}- Uh, Gilbert?|- Yes, sir?
+{8581}{8640}College isn't like high school.
+{8642}{8723}You'll be on your own.|I want you to take care of yourself.
+{8725}{8815}I will. Anyway, I won't be alone. I got Lewis.
+{8817}{8874}Besides, we're college men now, right?
+{8876}{8932}- Right.|- Ow.
+{9050}{9108}It's easier gettin' it down.
+{9158}{9220}Hold it, guys. This is an historic moment.
+{9250}{9296}All right, say "cheese".
+{9298}{9340}(both) Cheese!
+{9348}{9407}Got it.
+{9409}{9463}Bye, Dad.
+{9488}{9546}Bye. Thanks for the ride.
+{9608}{9658}(passers-by laugh)
+{9808}{9853}- You OK?|- Yeah.
+{10045}{10135}- (Gilbert) Bye, Mr Skolnick!|- (Lewis) Drive careful, Dad.
+{10191}{10229}(girl) Watch out!
+{10282}{10332}- Sorry.|- Excuse us.
+{10459}{10527}You know, Gilbert, I feel different already.
+{10529}{10602}Like... more mature.
+{10604}{10660}Looks like we're in for quite a change.
+{10662}{10788}I'll say. Parties, meeting new people.|This is really gonna be great.
+{10790}{10853}- I don't know.|- Just relax. Be yourself.
+{10855}{10955}Like Davy Crockett always said -|be sure you're right, then go ahead.
+{11059}{11149}(all chant) Ogre! Ogre! Ogre! Ogre!
+{11151}{11241}- Anyway, college is a whole new ball game.|- Nerds!
+{11243}{11328}- People judge you different than in school.|- Nerds!
+{11357}{11391}Nerds!
+{11450}{11485}Nerds!
+{11487}{11574}- Where are they?|- I think they're talking about us.
+{11576}{11637}- No way.|- Nerds!
+{11672}{11727}- Nerds! Nerds!|- (all chant) Nerds! Nerds!
+{11729}{11786}Come on, Lewis, let's go.
+{11788}{11840}(chanting continues)
+{11943}{12015}(# "Are You Ready" by Ya-Ya)
+{12352}{12425}(man) Ogre!
+{12427}{12489}Fill her up, baby!
+{12516}{12561}All right!
+{12985}{13093}OK, everybody, listen up!|It's time for stair diving!
+{13641}{13752}- Well, Gilbert, here's our new home.|- Can't believe we finally made it.
+{14187}{14269}Lewis, if you don't want|the bed by the window, I'll take it.
+{14271}{14321}- You got it.|- Thanks.
+{14479}{14591}- You know, this is really a great room.|- Yep. Definite possibilities.
+{14638}{14731}Do you think they'd let us put in|a little refrigerator for snacks?
+{14733}{14850}Are you kiddin', Gilbert? We can put|a fridge and a microwave right there.
+{14852}{14926}That'd be a good place|for an entertainment centre, too.
+{14928}{14985}Great.
+{14987}{15074}That's just the beginning.|We'll have the best dorm room on campus.
+{15076}{15149}I don't know about the best.|It'll be the messiest.
+{15151}{15226}Relax, Gilbert. Remember, we got it covered.
+{15281}{15343}This robot will be better than a maid.
+{15371}{15431}It'll help with the women, too.
+{15433}{15491}- Women?|- Yeah.
+{15493}{15547}Let's say one of us is up here with a woman.
+{15549}{15633}This'll be our warning device,|so we don't walk in on each other.
+{15635}{15731}Wait a minute. We're allowed|to have girls in our dorm room?
+{15733}{15813}Not girls, Gil. Women.|We're college men now.
+{15815}{15900}- lsn't college great?|- It's gonna be a great year.
+{15973}{16048}(# "Burning Down The House"|by Talking Heads)
+{16104}{16166}C'mon, Betty. Show me what you got.
+{16205}{16287}Gable, check this out.|Check this out. This is outrageous.
+{16289}{16349}- What is it?|- Just try it.
+{16378}{16418}Oh! You OK?
+{16420}{16499}- Jeez, Burke! What is this?|- 188 proof.
+{16501}{16626}It's called a fireball, man. Watch.|Take that. Flame on, buddy. Flame on!
+{16756}{16834}Yeah! Can you do it again? Do it again.
+{16836}{16923}(they chant) Fireball.|Fireball. Fireball. Fireball.
+{17049}{17115}One more! One more! One more! Fireball.
+{17117}{17201}(they chant) Fireball!|Fireball! Fireball! Fireball!
+{17329}{17379}(all) Oh, shit!
+{17516}{17598}(all) # Our house, our house is burning down
+{17600}{17792}# Our house, our house,|our house is burning down
+{17804}{17911}# Our house, our house,|our house is burning down
+{17949}{18053}- It must have been the wiring.|- That isn't what the fire department thinks.
+{18055}{18143}Dean, if my boys say it was the wiring,|you gotta believe them.
+{18145}{18206}Dean, school ought to be more careful.
+{18219}{18356}We got a big game comin' up. I don't want my|boys worried about where they're gonna live.
+{18358}{18447}They should have thought of that|before they burnt their house down.
+{18449}{18531}What's done is done.|Where am I gonna put my athletes?
+{18533}{18616}- The freshman dorm?|- What about the students there now?
+{18660}{18758}All right. Thanks to faulty wiring,|we have no place to live. Right?
+{18760}{18852}- (jocks) Right!|- These freshmen are sittin' pretty in there!
+{18854}{18927}- So as of now, that dorm is ours! Right?|- Yeah!
+{18929}{18993}Any room you want. Ready? Break!
+{19228}{19296}Don't come back!
+{19298}{19356}There's your roommate, pal!
+{19431}{19499}If everyone follows directions,
+{19501}{19611}we can manage this move|with as little inconvenience as possible.
+{19628}{19734}All right, men. I want everybody to listen up.|We're movin' out, and I mean now!
+{19736}{19839}Move it! Move it! Move, move, move!
+{19957}{20005}(jock) Get outta here!
+{20007}{20070}(whistle)
+{20072}{20208}All right, listen up. I'm gonna see to it that|each and every one of you is taken care of.
+{20210}{20328}You will be provided with the best possible|food, shelter and accommodation.
+{20330}{20364}(laughter)
+{20366}{20458}- We will try to provide you...|- Now let's move it out!
+{20460}{20537}Move it! Move, move, move! Move it!
+{20539}{20589}(jocks jeer)
+{20658}{20705}Move it!
+{20740}{20784}Get outta here!
+{20786}{20889}(all chant) Nerds! Nerds!|Nerds! Nerds! Nerds! Nerds! Nerds!
+{21002}{21052}(chanting continues)
+{21226}{21298}(Dean) I know this move|has been sudden for all of you,
+{21300}{21412}and you're probably all still very disoriented.
+{21414}{21559}I do want to assure you that this move|is in no way permanent. It's only temporary.
+{21561}{21711}As you see, we've provided accommodations|for you that are... quite acceptable.
+{21713}{21780}It'll be a nice place|for you to enjoy your studies.
+{21782}{21833}(boy) I don't even wanna go to college.
+{21835}{21922}You have a special gift.|You need college to develop it.
+{21924}{21973}I wanna be with people my own age.
+{21975}{22049}You will be with people your own age|when you're older.
+{22051}{22171}But you can't drop me off in a gymnasium.|It looks like we're refugees from a war.
+{22173}{22252}We gotta go now, honey.|Your dad has an appointment.
+{22254}{22304}Bye, son.
+{22331}{22406}(Dean) It is really very comfortable here.
+{22440}{22520}Is there anyone here with allergies?
+{22538}{22620}Me too. Uh, for those of you|who do have allergies,
+{22622}{22678}you can request a foam rubber pillow.
+{22680}{22795}Also, there's a television|for your viewing pleasure.
+{22797}{22864}It is a black and white television.
+{22866}{22981}More good news.|Because of the housing situation,
+{22983}{23075}we are allowing the freshman class|to join and live in fraternities.
+{23077}{23126}(all) Yeah!
+{23128}{23198}The fraternities will select|their members tomorrow.
+{23200}{23233}(whistle)
+{23235}{23325}All right! Enough of this|social bullshit. Grab a cot.
+{23327}{23391}Move it or lose it!
+{23444}{23494}(coach) Go, son.
+{23496}{23533}Move!
+{23546}{23596}Move, move, move, move, move!
+{23752}{23869}(Dean on PA) And the Delta Kappa Gamma|fraternity has selected as its new members
+{23871}{23954}Oliver Scott and Bill Daniels.
+{23956}{24079}(Dean) For those of you|who weren't selected by any fraternities,
+{24081}{24149}you won't be left out in the cold.
+{24151}{24251}You can stay here in the gym|for as long as you like.
+{24292}{24354}Or at least until basketball season.
+{24390}{24457}Please answer when I call out your names.
+{24491}{24541}Poindexter, Arnold.
+{24602}{24645}Latrelle, Lamar.
+{24647}{24707}(effeminately) Lamar Latrelle.
+{24754}{24807}Wormser, Harold.
+{24809}{24835}Present.
+{24837}{24898}Takashi, Toshiro.
+{24900}{24955}Ah, here, sir.
+{24997}{25059}Dawson, Dudley.
+{25061}{25108}Call me "Booger".
+{25110}{25157}All right... Booger.
+{25176}{25215}Rakhim, Raj.
+{25217}{25319}Ah, excuse, please,|but why do they call you "Booger"?
+{25321}{25377}I don't know.
+{25395}{25451}Posquito, Lawrence.
+{25518}{25556}Daniels, Paul.
+{25558}{25623}I knew nobody'd pick us, Lewis.
+{25625}{25726}Gilbert, it's probably not over yet.|There's a fraternity for us.
+{25728}{25776}(Dean) Dooley, Edward.
+{25786}{25836}Yozonski, Yosef.
+{25946}{26045}- Wait a second. Are you sure about this?|- Gilbert, yes. Come on.
+{26220}{26272}(Lewis) Hi, girls.
+{26274}{26339}Are you guys looking to join a sorority?
+{26341}{26385}A sorority?
+{26387}{26447}No!
+{26449}{26598}We need some help. We figured pretty girls|like you might be able to suggest a fraternity.
+{26600}{26734}Choosing the right fraternity can be one of|the most important decisions in a man's life.
+{26736}{26828}- For sure.|- Guys like you have to choose very carefully.
+{26830}{26909}- Definitely.|- Tell us what frat do you think is us.
+{26911}{26997}- You guys are Alpha Betas all the way.|- Totally. For sure.
+{26999}{27103}What? Wait. Aren't Alpha Betas,|like, all jocks and face men?
+{27105}{27230}Yes. But you guys have got that certain|something I know they'd be interested in.
+{27232}{27333}- I'll tell 'em you're coming.|- Should we ask for a particular Alpha Beta?
+{27335}{27399}- Stan Gable.|- And you're...?
+{27415}{27461}Betty Childs.
+{27480}{27529}Thank you, Betty. Ms Childs.
+{27531}{27643}Maybe if you're not busy sometime|we could have a cup of coffee or somethin'.
+{27645}{27698}Come on, pal.
+{27700}{27772}(Gilbert) I can't believe you asked her out.
+{27782}{27886}(Lewis) You know, Gilbert, if we get in,|maybe we can have our old room back.
+{27888}{27972}- (Gilbert) These guys will never accept us.|- Why wouldn't they?
+{27974}{28074}These are the Alpha Betas.|They're the football players.
+{28091}{28164}I don't think Ms Childs|would have sent us over here
+{28166}{28244}if she didn't think we had|a decent chance of getting in.
+{28272}{28317}(door creaks)
+{28319}{28367}- (eerily) Yes?|- Hi.
+{28369}{28476}Tell Stan Gable that we're the guys|that Betty Childs sent over.
+{28478}{28539}Follow me, boys.
+{28541}{28591}(door creaks)
+{28616}{28661}Gilbert!
+{29328}{29385}(solemnly) Welcome.
+{29387}{29437}(both) Hi.
+{29486}{29531}(Stan) Hey!
+{29564}{29651}You guys seem pretty cool.|Take these for later.
+{29713}{29781}Rubbers? What do we need rubbers for?
+{29783}{29835}(sheep bleats)
+{29909}{29965}(Stan) Let the initiation begin.
+{29980}{30050}(jock) Have you ever made love to a woman?
+{30052}{30075}- Yes.|- No.
+{30077}{30121}- No.|- Yes.
+{30158}{30193}(jocks) Liars!
+{30207}{30263}(TV) All right, let's go for the burn.
+{30265}{30327}(horrible tuneless scraping)
+{30445}{30523}- OK, Takashi, whaddaya got?|- Oh, I think I have a frush.
+{30525}{30594}- What the fuck is a "frush"?|- A frush.
+{30596}{30667}I got two sevens,|and two sevens beats a frush.
+{30669}{30702}Oh, thank you.
+{30704}{30774}(tuneless violin playing continues)
+{31023}{31089}- Oh!|- Jesus.
+{31177}{31227}(violin stops)
+{31339}{31465}So, getting into a fraternity can be the most|important thing in a man's life, huh?
+{31467}{31550}You know, that cheerleader set us up, Lewis.
+{31552}{31652}I really don't think Betty Childs|is that kind of person, Gilbert.
+{31710}{31761}Hey, Lewis?
+{31763}{31813}What is it, Gilbert?
+{31836}{31940}I'm really sorry that I snapped at you.|This gym's really gettin' to me.
+{31942}{31995}It's OK.I understand.
+{31997}{32098}Tomorrow morning we'll find|a better place to live, OK?
+{32100}{32170}- Good night, Gilbert.|- Good night, Lewis.
+{32195}{32262}- Good night, Lamar.|- Good night, Wormser.
+{32264}{32355}- Good night, Takashi.|- Good night, Poindexter.
+{32357}{32431}- Good night, Booger.|- (loud belch)
+{32433}{32489}(all laugh)
+{32587}{32612}(thud)
+{32774}{32871}Hey, take it easy. The computer's your friend.
+{32873}{32930}I wasn't meant to interface with a machine.
+{32932}{32998}Well, you're just beginning. Relax.
+{33020}{33083}It's no use. It's inhuman.
+{33085}{33166}It's not inhuman.|Only humans can be inhuman.
+{33186}{33232}Here, let me show you.
+{33346}{33402}Working with a computer's great.
+{33404}{33485}I mean, it's godlike, in a way,
+{33487}{33555}cos you can have complete control.
+{33618}{33668}- That's good.|- Thanks.
+{33718}{33820}You know, some people,|they can create with their hands.
+{33822}{33947}But when you're working with a computer,|you gotta build something with your mind.
+{33975}{34070}If you're good, you can do somethin'|no one's ever seen before.
+{34093}{34143}It's a definite high.
+{34316}{34384}Uh... what's your name?
+{34386}{34447}- Judy.|- Hi, Judy. Gilbert.
+{34456}{34543}- (Judy) Very nice to meet you.|- Nice meeting you.
+{34694}{34752}- Hello, Lewis.|- Hi, Gilbert.
+{34778}{34847}- Did you find a house?|- No.
+{34849}{34900}I met a girl.
+{34902}{34955}Gilbert!
+{34957}{35040}- Her name's Judy.|- Judy's a nice name, Gilbert.
+{35042}{35136}- Yeah. She's a nice girl.|- Big deal. Did you get in her pants?
+{35138}{35226}- She's not that kind of a girl.|- Why? Does she have a penis?
+{35342}{35392}You gonna eat this?
+{35512}{35594}- Smell this one, nerd.|- Oh, Coach, Coach.
+{35596}{35677}I got to find a place to live.|Is OK I leave early?
+{35695}{35737}No.
+{35739}{35795}Oh, OK.
+{35797}{35832}- You know karate?|- No.
+{35834}{35879}Good.
+{35957}{36035}I've programmed him with|all the rental units in the area.
+{36037}{36132}For optimum efficiency,|I've assigned each of you a part of the list.
+{36134}{36243}This'll prevent doubling up.|We'll be able to blanket the area in no time.
+{36245}{36296}Booger.
+{36313}{36358}Wormser.
+{36387}{36423}Toshiro.
+{36579}{36629}(speaks Japanese)
+{36675}{36725}(replies in Japanese)
+{36748}{36785}Nerd!
+{37054}{37112}- Hi.|- All right?
+{37114}{37184}- Mr Wilson?|- Yeah.
+{37235}{37281}Just checking.
+{37300}{37355}(woman) Hi there, big boy.
+{37357}{37446}Hi. I came about the room for rent.
+{37448}{37548}It's right next to mine.|It'll be perfect for us.
+{37622}{37675}(buzzer)
+{37727}{37803}(man) Who's there? What do you want?
+{37805}{37892}- Is this the Stewart residence?|- Why are you here? What do you want?
+{37894}{37964}- I've come about the room.|- Go away.
+{37966}{38019}- Do you have a room to rent?|- Not for rent.
+{38021}{38080}- I thought it was for rent.|- Fuck off.
+{38270}{38321}- Hi, Judy.|- Hi, Gilbert.
+{38323}{38379}- How are you?|- Fine. Where are you going?
+{38381}{38447}I gotta go find a place to live.
+{38449}{38555}- It's horrible you having to live in the gym.|- Oh, yeah, well...
+{38565}{38639}- What is that? Is that yours?|- It's my accordion.
+{38641}{38692}- You play the accordion?|- Yeah.
+{38694}{38746}- I love the accordion.|- Really?
+{38748}{38833}- Are you very good, or...?|- No, not really.
+{38835}{38897}I'm on my way to class.|Do you wanna walk with me?
+{38899}{38961}Yeah, sure. Oh, no. Here, let me get it.
+{39155}{39220}- I think I found a house.|- (nerds cheer)
+{39222}{39280}(Booger) About fuckin' time!
+{39408}{39468}Isn't it fantastic?
+{39470}{39547}(# "One Foot In Front Of The Other"|by Bone Symphony)
+{40073}{40123}(imitates Dracula) Welcome.
+{40561}{40662}- Are you feeling anything yet, Takashi?|- Oh, Booger, I feel nothing.
+{40664}{40724}You better have another hit.
+{40965}{41033}Oh, this counter. Could be good.
+{41273}{41318}Agh!
+{41413}{41475}- Feeling anything now?|- Oh, no.
+{41477}{41583}I feeling... nothing... at all.
+{41634}{41678}How about now?
+{42336}{42402}I can't believe what|they've done to that house.
+{42420}{42472}That's amazing.
+{42474}{42585}- Looks terrific, doesn't it, Stan?|- Yeah, well, it won't look terrific for long.
+{42616}{42680}What are you lookin' at, nerd? Huh?
+{42738}{42860}I thought I was looking at my mother's|old douche bag, but that's in Ohio.
+{42868}{42939}Seven and eight. And stretch those arms.
+{42941}{43025}Come on. Looks great. Come on, Wormser.
+{43169}{43219}- Morning, Poindexter.|- Uh.
+{43277}{43327}Agh! Excuse me.
+{43431}{43489}Ah, thank you very much.
+{43554}{43603}OK, Takashi, show me your cards.
+{43605}{43668}OK. Two and four kings. That's good, yes?
+{43670}{43753}No, you got too many kings.|So you gotta get rid of these here.
+{43755}{43881}Take three of these kings out,|and replace them with... three fresh cards.
+{43883}{43949}Oh, OK. Thank you.
+{43951}{44042}- (Toshiro) When do I deal?|- (Booger) You gotta win a hand first.
+{44044}{44116}I told you we'd find a better place.
+{44118}{44195}Yeah. This is way better than the dorm.
+{44247}{44298}(motorcycle drives away)
+{44438}{44498}It says "Nerds get out."
+{44500}{44549}What is a nerd?
+{44551}{44601}We are.
+{44629}{44734}I don't know what this world is comin' to.|You see that man over there?
+{44736}{44803}We arrested him for mopery.
+{44805}{44924}- What's mopery?|- Exposing yourself to a blind person.
+{44973}{45062}I'm sorry about your windows, fellas.|It's out of my jurisdiction.
+{45064}{45176}Sounds like a fraternity prank. There's only|one organisation that can handle this.
+{45178}{45238}What organisation is that?
+{45268}{45313}The Greek Council.
+{45315}{45415}(Dean) Our next order of business:|new membership.
+{45417}{45482}Earl, show the petitioners in, please.
+{45700}{45750}(sniggering)
+{45801}{45837}Shh!
+{45908}{45960}Kneel, gentlemen.
+{46123}{46195}You are the gentlemen|who wish to form a fraternity?
+{46197}{46247}(nerds) Yes, sir.
+{46379}{46439}Gentlemen,|as president of the Greek Council,
+{46441}{46526}I'm sorry to inform you|that your membership has been denied.
+{46536}{46583}Excuse me, but... why?
+{46585}{46694}According to our charter, you must|have a national fraternity as your sponsor.
+{46696}{46747}Do you have one?
+{46749}{46788}(all) No.
+{46813}{46918}- I'm afraid he's right.|- But with a national sponsor, we're in, right?
+{46920}{47032}Right, right. So I guess|we'll see you in about, say... 20 years.
+{47034}{47090}(laughter)
+{47128}{47178}(tuneless scraping)
+{47259}{47355}"Dear sirs, thank you for applying|to Delta Kappa Gamma."
+{47357}{47457}"We have gone over your application,|and it wasn't even close."
+{47477}{47568}"ln the future, we recommend|that you not include a group photo."
+{47570}{47674}That's 29 rejections so far.|Did we send pictures to everybody?
+{47707}{47802}Yeah. Everybody except for...|Lambda Lambda Lambda.
+{47823}{47880}Here's one that will see us.
+{47882}{47926}(all) Lambda Lambda Lambda?
+{47928}{48006}Yeah. They're gonna love us.
+{48120}{48189}As you know, we have|no chapter at Adams College,
+{48191}{48252}which is why we agreed to see you.
+{48254}{48394}But I must tell you, gentlemen, you have|very little chance of becoming Tri-Lambdas.
+{48413}{48474}I'm in a difficult situation here.
+{48489}{48539}I mean, after all...
+{48564}{48600}you're nerds.
+{48647}{48774}According to your bylaws,|you have to take us on a 60-day trial basis.
+{48786}{48849}- I beg your pardon?|- According to your bylaws...
+{48851}{49001}He's right, UN. Any group that petitions|can become a probationary Tri-Lamb chapter.
+{49003}{49053}May I see that, please?
+{49104}{49149}Thank you.
+{49302}{49399}Well, gentlemen...|you are now probationary Tri-Lambs.
+{49412}{49483}- Hey.|- Great, UN. Why don't we have a party?
+{49485}{49615}You can celebrate with us and observe us|to make sure we're Tri-Lamb material, OK?
+{49617}{49664}- Great.|- We won't let you down.
+{49666}{49757}We'll have the highest grade-point|average of any chapter you've got.
+{49759}{49899}We certainly won't discriminate. Our chapter|will be open to people of all races and creeds.
+{49901}{49957}And sexual orientation.
+{50004}{50037}Wonderful.
+{50065}{50110}(door bell)
+{50226}{50280}Hi. Remember me?
+{50282}{50355}- No.|- Well, we're having a party Saturday night.
+{50357}{50409}Would you like to come?
+{50411}{50471}- No.|- Oh, well...
+{50489}{50535}(girls' laughter)
+{50537}{50589}Come on, get it up! Get it up! C'mon!
+{50591}{50669}You're shit! You're nothin'!|You're scum! You suck!
+{50671}{50733}- You're nice!|- No, I'm not!
+{50735}{50786}- Stan?|- Attaway, Ogre.
+{50788}{50863}- What's up, Betty? Is somethin' wrong?|- Yeah.
+{50865}{50944}- What?|- One of those nerds just asked me out.
+{50946}{51026}- Which one?|- I don't know. They all look alike to me.
+{51028}{51105}- Yeah.|- They can't get any dates for their party.
+{51107}{51206}- Oh, yeah?|- I'll eat their ancestors. I'll kill their parents!
+{51208}{51320}No, Ogre. Ogre! Don't worry about it.|Wait a second. Just wait a second.
+{51384}{51434}Maybe we could help 'em out.
+{51436}{51480}- Yeah?|- Yeah.
+{51482}{51563}And I know just what to do.
+{51565}{51602}Come here.
+{51702}{51846}We'll put the bar here, the hors d'oeuvres|over there, and we'll pass the cheese puffs.
+{51848}{51896}- Oh, good.|- That sounds expensive.
+{51898}{52008}This party's important. If we don't impress|the Tri-Lambs, we'll never get in.
+{52010}{52114}- Maybe we can have robster craws.|- What the fuck are "robster craws"?
+{52116}{52201}- Have any of you got dates, besides Gilbert?|- I do.
+{52203}{52281}- Yeah, but that's with a guy.|- What about you, Booger?
+{52283}{52362}I've been out combing|the high schools all day.
+{52364}{52459}- Maybe we should cancel the party.|- No, we can't cancel the party.
+{52461}{52518}UN Jefferson's coming.|We gotta impress him.
+{52520}{52585}We'll never find dates.
+{52587}{52682}# Hello, Lambda, we're the Pis
+{52684}{52768}# And we're here to say
+{52777}{52851}# We think you are special guys
+{52853}{52937}# Lambdas all the way
+{52939}{53016}# Alpha Betas are OK
+{53018}{53080}# If you like sweat socks
+{53091}{53176}# (Betty) We prefer your high lQs
+{53178}{53249}# To their great big... jocks
+{53258}{53345}# Lambda Lambda Lambda boys
+{53347}{53424}# Really are the best
+{53426}{53515}# Won't you take a piece of Pi?
+{53517}{53620}# And we'll do the rest
+{53622}{53733}The sisters of Pi welcome our newest|fraternity, Lambda Lambda Lambda.
+{53735}{53868}We'd like to be escorts to your party Saturday|night and help out in any way possible.
+{53871}{53921}(all hum)
+{53972}{54059}- We got dates!|- I've never been out with a girl before.
+{54061}{54132}Not just a girl, Poindexter, but a Pi.
+{54134}{54205}- What's "Pi" stand for?|- Hair pie.
+{54207}{54257}What's that?
+{54408}{54466}(# "All Night Party" by Gleaming Spires)
+{54619}{54677}- Lewis, where are the Pis?|- I don't know.
+{54679}{54752}Their phone's been busy for two hours.
+{54754}{54826}I don't think UN's having a very good time.
+{54828}{54928}It must be the music.|I'll put on something he'll like better.
+{54998}{55032}- Lewis?|- UN?
+{55034}{55104}- Great party.|- Thanks.
+{55106}{55181}Where are all those sorority girls|you have dates with?
+{55183}{55305}You know women,|they're probably just being fashionably late.
+{55350}{55430}(# "Swing Low, Sweet Chariot")
+{55582}{55648}- The Pis aren't gonna show.|- They stood us up.
+{55650}{55711}- Yeah.|- I could call my sorority sisters.
+{55713}{55766}- You could?|- You think they'll come?
+{55768}{55858}They're really spontaneous people.|I'll call 'em.
+{55860}{55923}Crush this ice for me, Arnold.
+{55925}{55983}- Hey, guys, we got dates.|- Who?
+{55985}{56070}- Judy's gonna invite the Omega Mus over.|- Oh, no, not the Mus.
+{56072}{56139}- Yeah.|- They're a bunch of pigs.
+{56141}{56191}(Arnold screams)
+{56248}{56298}(door bell)
+{56551}{56601}- Hi.|- Hi.
+{56737}{56791}- Hi there.|- Hi there.
+{56845}{56895}- Hi.|- Hi.
+{57766}{57826}(tuneless scraping)
+{58179}{58239}(Judy) You can sing along.|The words are easy.
+{58241}{58337}"So I say I gotta be free.|So I say I gotta be me."
+{58345}{58434}# So I say I gotta be free
+{58477}{58585}# So I say I gotta be me
+{58600}{58638}(plays wrong notes)
+{58656}{58706}# I'm sayin' you gotta be...
+{58708}{58734}Yeah!
+{58936}{59056}This party isn't going very well, is it?|I don't know why everybody's so uptight.
+{59058}{59141}I don't know either. Maybe we should eat.
+{59143}{59202}Maybe we should watch TV.
+{59204}{59254}Hey, guys.
+{59299}{59367}Wonder joints.
+{59369}{59428}(# "Thriller" by Michael Jackson)
+{59845}{59899}They taste better than they look.
+{59901}{59984}(Toshiro) Picture time. Oh, goody!
+{59986}{60038}Oh, smile pretty, chickies.
+{60040}{60096}Oh, thank you very much. Thank you.
+{60098}{60164}Hair pie. Oh, hair pie.
+{60414}{60464}Nothing. Nothing.
+{60713}{60828}I have a micon-beta link, which hooks|this phone to the computer in the robot.
+{61022}{61084}Hey, this is some good shit.
+{61162}{61197}Hair pie?
+{61199}{61238}Thank you.
+{61240}{61266}Hair pie?
+{61268}{61320}- You built this yourself?|- Yeah.
+{61322}{61412}I think robots are sexy.
+{61414}{61473}I do, too. Really.
+{61475}{61554}- Do you want to dance?|- OK.
+{62787}{62862}Damn! You Mus sure can party!
+{63143}{63184}- Let's go.|- Where?
+{63186}{63236}- Up to your room.|- Up to my room?
+{63238}{63283}Yeah.
+{63308}{63362}Are you near-sighted or far-sighted?
+{63364}{63424}- Near-sighted.|- So am l.
+{63426}{63501}- Really?|- Yeah. You wanna switch glasses?
+{63622}{63714}- We almost have the same prescription.|- Yeah.
+{63716}{63781}Um, would you like to dance?
+{63783}{63842}Yeah.
+{63844}{63967}Yeah, well, when I was in high school,|I was thinking mostly of the aerospace field.
+{63969}{64078}But then when I got into college, I decided|I wanted something more challenging.
+{64080}{64155}So, um, I switched to computers,
+{64157}{64232}and now aerodynamics|is just sort of a hobby.
+{64306}{64406}(# "Right Time For Love"|by Jill Michaels and Pat Robinson)
+{64833}{64901}Wait, wait. No, no, wait.
+{64903}{65021}Would you rather live in the ascendancy|of a civilisation or during its decline?
+{65023}{65125}Poindexter, do you wanna fuck or not?
+{65143}{65193}- (she roars)|- Agh!
+{65690}{65756}You know, if we get into|Lambda Lambda Lambda,
+{65758}{65821}we could be partners|in the homecoming carnival.
+{65823}{65915}- That'd be so great.|- Yeah. This party sure worked out well.
+{66048}{66106}(screaming)
+{66108}{66172}(# bluegrass banjo music)
+{66501}{66572}(students) # Old MacDonald had a farm
+{66574}{66617}# E-l-E-l-O
+{66626}{66697}# And on that farm he had some pigs
+{66699}{66743}# E-l-E-l-O
+{66745}{66840}We thought you could use|some more pigs for your party, nerds.
+{66842}{66921}# With an oink-oink here|and an oink-oink there
+{66923}{66986}# Here an oink, there an oink,|everywhere an oink-oink
+{66988}{67051}# Old MacDonald had a farm
+{67053}{67109}# E-l-E-l-O
+{67111}{67161}(jeering)
+{67419}{67485}We'll never get into|Lambda Lambda Lambda now.
+{67487}{67562}Those jocks ruined everything.
+{67564}{67633}I say we blow their fucking houses up.
+{67644}{67762}No. We can't resort to violence.|That'll just bring us down to their level.
+{67764}{67859}- What do we do?|- We gotta beat 'em at their own game.
+{67889}{67970}We've gotta become|the best fraternity on campus.
+{67972}{68063}You know,|if we win that homecoming carnival,
+{68065}{68204}we can take over the presidency of the|Greek Council. That would drive 'em crazy.
+{68206}{68342}But, Gilbert, if we don't get approved by|the Tri-Lambs, we won't even be a fraternity.
+{68344}{68421}- I say we blow the fuckers up.|- No. We can't do that.
+{68431}{68479}But you're right.
+{68481}{68606}Their action tonight demands|an immediate retaliation.
+{68647}{68766}And if we don't, we're nothin'|but the nerds they say we are.
+{68802}{68862}I know what we're gonna do.
+{68934}{69002}(# theme music from "Mission: lmpossible")
+{69084}{69147}(Lewis) Down, down, down.
+{69208}{69258}Come on.
+{69840}{69890}- (thud)|- Agh!
+{70220}{70268}# E-l-E-l-O
+{70270}{70322}# With an oink-oink here|and an oink-oink there
+{70324}{70373}# Here an oink... (sniffs)
+{70418}{70474}- Where?|- Right there.
+{70509}{70615}- lsn't this gonna make a lot of noise?|- It's got a built-in silencer.
+{71024}{71080}Camera. Periscope.
+{71236}{71295}- Hey, Suzy.|- Hi, Betty.
+{71297}{71381}That was fun tonight.|We were the highlight of their party.
+{71383}{71460}- Those pigs were greasy.|- I have got to get the smell off.
+{71462}{71501}Oh, I know.
+{71503}{71584}- If Stan calls, tell him I'll call him back, OK?|- OK.
+{71702}{71757}- Panty raid!|- (screams)
+{72087}{72162}Hey! Whaddaya... Whaddaya doin'?
+{72164}{72224}Gimme those back! Come here!
+{72249}{72306}Wormser, how many cameras|do we have left?
+{72308}{72358}- Four.|- OK.
+{72443}{72505}Step aside, momma.|I wanna see some of that muff.
+{72507}{72560}Hair pie. Hair pie.
+{72762}{72804}That nerd saw me naked.
+{72806}{72887}Oh, get out! Out! Oh, out! Get out!
+{72908}{72942}- Hiya, buddy.|- Hi.
+{72944}{73007}- lsn't college great?|- This will be a great year.
+{73009}{73065}(braying laugh)
+{73428}{73503}(Betty) Bastard! I'll kill you!
+{73505}{73553}Get out, jerk!
+{73555}{73618}(screams)
+{73620}{73695}(Lewis) We love you when you're mad.
+{73730}{73812}- Almost there, Wormser?|- (Wormser) This should do it.
+{73866}{73916}- Oh.|- Ah!
+{73954}{74033}- (Gilbert) Looks good.|- (Lamar) This is a stationary camera.
+{74035}{74089}(Booger) We got Pis.
+{74091}{74148}- You got other angles?|- Something else?
+{74150}{74231}- Go to their room.|- Yeah.
+{74287}{74359}- That's her.|- Go to the right. Go to the right.
+{74361}{74440}Arnold, that's the girl we saw.
+{74442}{74500}- (Lewis) Go up.|- (Lamar) Up?
+{74502}{74587}Wait a second. Hold it there, Lamar.|Don't move the camera.
+{74589}{74628}(Toshiro) Oh!
+{74630}{74673}(nerds) Ah!
+{74755}{74822}I drink to that.
+{74853}{74951}- (Booger) Oh, yes. I like that nightie.|- (Toshiro) Oh, that's very good.
+{74953}{75041}- (Lewis) Can you go in that room?|- (Lamar) Yeah.
+{75043}{75093}(nerds snigger)
+{75113}{75171}(Toshiro) Oh, here she comes.
+{75188}{75249}God! Take your towel off, please.
+{75279}{75338}(Lewis) Oh, yes!
+{75340}{75393}Is she cold in there, or what?
+{75395}{75447}(braying laugh)
+{75572}{75622}(Gilbert) Focus!
+{75756}{75831}This is bullshit. I want bush. Pan down.
+{75874}{75908}(nerds cheer)
+{75910}{75988}We've got bush. We've got bush.
+{75990}{76034}Oh, hair pie!
+{76036}{76104}(all laugh)
+{76115}{76160}Agh!
+{76472}{76595}I'm tired of watching 'em brush their teeth.|See if Betty's up. Dooley, throw me a beer.
+{76609}{76654}Thanks.
+{76670}{76747}Oh, I getting tired of Betty.
+{76749}{76800}Are you kidding? Zoom in.
+{76838}{76949}I could never get tired of Betty. How could|you ever get tired of that ass, Takashi?
+{76951}{77019}Oh, I see your point.
+{77079}{77134}Are you guys still watching the Pis?
+{77136}{77194}- (all) Yes.|- Have you been up all night?
+{77196}{77232}Yes.
+{77234}{77331}- Wormser, haven't you had enough?|- No.
+{77356}{77423}(Lewis) I think we got even with the Pis.
+{77425}{77508}Now we got a little score to settle|with the Alpha Betas.
+{77510}{77575}(braying laugh)
+{77657}{77735}- Shit! Hank, what is that stuff?|- Liquid Heat.
+{77737}{77845}- It burns.|- You ought to feel it when I don't dilute it.
+{77991}{78041}(Toshiro) Get them.
+{78093}{78143}Make a pile here.
+{78292}{78350}(Toshiro) OK. Here goes.
+{78416}{78466}OK. Don't touch, now.
+{78502}{78596}- (Gilbert) Here, hit this one.|- (Toshiro) OK. Looks like salad.
+{78637}{78699}The key to each season is homecoming.
+{78724}{78819}You win that one,|you got your alumni support.
+{78821}{78903}You got your alumni support,|you get that jock dorm,
+{78905}{78980}you get the laundry money,|you get the new cars.
+{78998}{79121}Now, this season started out fine -|we won some big ball games.
+{79123}{79179}But we were lucky.
+{79181}{79272}We can't get soft.|We can't sit back on our laurels.
+{79274}{79352}We win homecoming, we take league.
+{79354}{79427}We take league, we get a bowl bid.
+{79429}{79488}It's as simple as that.
+{79490}{79571}But, gentlemen, you have got to want it.
+{79588}{79647}- Do you want it?|- (jocks yell) Yeah!
+{79649}{79703}- I can't hear you.|- Yeah!
+{79705}{79780}We can't let up. We gotta stay tough.
+{79799}{79915}You can do it. You can do it.
+{79917}{79988}You gotta believe that you can do it!
+{80023}{80100}- You gotta let them know that you want it!|- I want it!
+{80102}{80147}- Good.|- (groans)
+{80149}{80199}Shower up!
+{80201}{80263}(jocks groan in pain)
+{80288}{80348}Shit. We forgot to practise.
+{80386}{80463}- You put what?|- (Gilbert) Liquid Heat.
+{80465}{80540}- On their what?|- In their jocks.
+{80542}{80606}- That's outrageous.|- Are you angry, UN?
+{80640}{80724}No. I'm not angry.
+{80726}{80817}I'm glad to see you nerds...|you guys finally fought back.
+{80819}{80911}You'd make a fine addition to Tri-Lambda.|I want to welcome you aboard.
+{80913}{80972}- Congratulations.|- All right!
+{80974}{81074}- You'll tell the guys?|- Oh, I will. (braying laugh)
+{81101}{81148}OK, everybody ready?
+{81162}{81209}OK, I focus now.
+{81211}{81272}I set timer.
+{81274}{81354}- Now say "Hi, UN."|- (all) Hi, UN.
+{81460}{81553}(Lewis) Well, I'd like to propose|a toast to UN Jefferson,
+{81567}{81676}who, in his ultimate wisdom,|chose to accept us
+{81678}{81756}into our new fraternity,|Lambda Lambda Lambda.
+{81758}{81818}(all) Lambda Lambda Lambda.
+{82045}{82158}Before we take this matter to a vote,|I would like it clearly stated in the record...
+{82160}{82205}Miss Childs...
+{82207}{82323}that the evidence is|overwhelmingly against the Alpha Betas,
+{82325}{82396}and I urge that they be found guilty.
+{82398}{82448}Point of order.
+{82474}{82568}Dean Ulich, I am an Alpha Beta,
+{82570}{82634}and I know that no member of my fraternity
+{82636}{82747}could have perpetrated such|a callous, heinous act against the nerds...
+{82749}{82802}or the Tri-Lambs.
+{82804}{82918}Therefore, I feel a vote at this time|would be, shall we say, premature.
+{82920}{82974}- Premature?|- Yes.
+{82976}{83028}You see, instead,
+{83030}{83143}I am going to organise a special,|blue-ribbon, fact-finding commission,
+{83145}{83245}made up of myself and... Miss Betty Childs.
+{83264}{83326}We will get to the bottom|of this dastardly deed.
+{83328}{83429}- Wait a minute, you can't get away with this.|- Oh, no, I'm afraid I can.
+{83431}{83553}You see, only the president|of the Greek Council can call a vote.
+{83555}{83626}- That's completely unfair.|- This is bullshit!
+{83628}{83671}Meeting adjourned.
+{83833}{83932}Guys, we are never gonna get a fair shake|as long as Stan Gable is president.
+{83934}{84022}The only way to become president|is to win the homecoming carnival.
+{84024}{84121}That's right, Arnold. And that's|exactly what we're gonna do.
+{84129}{84174}(fanfare)
+{84219}{84380}I take great pleasure in officially opening|this year's homecoming carnival.
+{84382}{84439}(cheering)
+{84579}{84710}(Dean) The overall winner|will be determined by total points from:
+{84712}{84778}number one - field events,
+{84780}{84864}number two - the charity fund-raising booth,
+{84866}{84981}and number three -|the musical show and skit competition.
+{84983}{85070}And now, let the games begin!
+{85072}{85152}(cheering and fanfare)
+{85301}{85415}OK. The object of the race|is to complete 20 laps around the track,
+{85417}{85493}while stopping every lap|for a mandatory pit stop,
+{85495}{85564}at which time the driver will chug a beer.
+{85589}{85644}You don't have a fucking chance, nerd.
+{85646}{85733}- Oh, thank you. Good luck to you, too, Burke.|- Fuck off.
+{85743}{85810}Gentlemen, start your engines.
+{85812}{85849}(pistol shot)
+{85851}{85899}(# "Daisy, Daisy")
+{86297}{86417}This is trichloromethalene. It counters|all effects of alcohol in your system.
+{86435}{86512}- Drink the whole beer.|- (Stan) Go! Go! C'mon, Danny!
+{86514}{86568}You got 'em! Kick his ass!
+{86570}{86636}Go! Go! Go! Go!
+{86880}{86939}- OK, OK.C'mon.|- Are you feelin' OK?
+{86941}{87006}- Oh, fucking great!|- Go! Go! Go!
+{87133}{87180}Come on, baby! Yeah!
+{87290}{87320}Come on!
+{87322}{87389}- One more lap.|- It's just you and the Alpha Betas.
+{87391}{87484}- Danny, let that nerd beat you, you're nothin'!|- No sweat.
+{87486}{87564}- He no stand no chance now.|- Go, Takashi!
+{87566}{87623}Go on! Let's go, Burke!
+{87625}{87668}Oh, no!
+{87686}{87741}All right! Come on! Go!
+{87752}{87801}(Ogre) Ah, man, he's wasted!
+{87803}{87880}(# "Daisy, Daisy" sung in Japanese)
+{87963}{88036}(Stan) Come on, Burke! You're an Alpha Beta!
+{88200}{88250}Oh, I won!
+{88409}{88504}Times are changin', Betty.|These nerds are a threat to our way of life.
+{88506}{88590}If they win homecoming,|they'll take over the Greek Council.
+{88592}{88656}And we'll be up to our necks in nerd shit!
+{88740}{88838}(Dean on PA) Our next competition|will be the Trojan Horse.
+{88840}{88898}(# overture from "William Tell"|by Rossini)
+{88979}{89045}C'mon! Get off! Get off!
+{89083}{89129}- Ow!|- Yeah!
+{89131}{89200}What are those Alpha Betas doing?
+{90313}{90383}(booing and jeering)
+{90508}{90558}(cheering)
+{90690}{90760}(crowd chant) Ogre! Ogre! Ogre!
+{91331}{91363}(weeps)
+{91376}{91434}(Coach) On your mark. Set.
+{91457}{91507}(whistle)
+{91693}{91742}(Coach chuckles)
+{91744}{91817}(cheerleaders chant) Ooh, ah, Alpha Beta!
+{91819}{91847}Ooh, ah...
+{91849}{91911}(Coach) On your mark. Set.
+{91928}{91975}(whistle)
+{92049}{92109}You win.
+{92236}{92296}(Dean chuckles)
+{92447}{92582}I'm not too wild about this next event,|but it has become a tradition here at Adams.
+{92584}{92623}The belching contest.
+{92662}{92760}Our first of two finalists,|Frederick W Polowoski.
+{92815}{92865}Ogre You Asshole.
+{92884}{92929}Ogre.
+{93044}{93107}(belches loudly and long)
+{93109}{93173}(cheering and applause)
+{93439}{93548}And, from the Lambda-Mu team,|Dudley Dawson.
+{93550}{93600}- Booger.|- Booger.
+{93774}{93844}(belches louder and longer)
+{94202}{94339}Our next event goes all the way back to|the Peloponnesian War - the javelin throw.
+{95234}{95299}- All right, baby!|- What did you expect?
+{95301}{95362}You won it.
+{95364}{95414}(laughter)
+{95496}{95564}- (Gilbert) Wait for Lamar's throw.|- (Judy) How come?
+{95566}{95655}Wormser's a master at aerodynamics.|He designed the javelin to fit
+{95657}{95719}with Lamar's limp-wristed throwing style.
+{95772}{95847}(# parody of music from "Chariots of Fire")
+{96413}{96473}Wormser, it worked!
+{96475}{96530}I can't believe it. Did you see that?
+{96703}{96753}I love you all. I love you all.
+{96755}{96805}Thank you. Thank you.
+{96923}{97047}(Dean on PA) The Alpha Beta-Pi team leads.|The Lambda-Mus are a surprising second.
+{97049}{97136}Now let's see what happens|at the charity fund-raising booths.
+{97138}{97204}Eat a Pi for charity. C'mon, let's go!
+{97381}{97431}Take a break, Chip.
+{97507}{97547}Hi.
+{97599}{97656}- Hi, Betty.|- A nerd.
+{97693}{97812}- I'm not kissing a nerd.|- You have to. I've paid my money.
+{97850}{97908}It's time for my break.
+{97930}{97980}Kiss this, nerd.
+{98000}{98058}- (Betty) Stan?|- Yeah?
+{98111}{98188}I wanna do it.|All this kissing's made me horny.
+{98190}{98252}God, Betty. You're like a goat.
+{98365}{98410}Next.
+{99099}{99144}Stan!
+{99225}{99275}Changed your mind.
+{99340}{99398}I'm glad. Come on.
+{99549}{99624}(Lewis mimics Darth Vader's breathing)
+{99903}{99965}D'you wanna do it on the moon?
+{100427}{100488}Take off your mask.
+{100490}{100540}Oh, Stan.
+{100542}{100597}You're so kinky.
+{100714}{100816}(Booger) Eat a Pi for charity.|C'mon, step right up. C'mon, step up.
+{100818}{100907}Eat Pi for charity. Thank you very much.
+{100909}{100949}Eat a Pi for charity.
+{100959}{101078}- Gable, how we doing?|- Great. 1258 bucks. Better than last year.
+{101080}{101169}- The nerds are over 2,000.|- For selling pies?
+{101171}{101265}They got a line around the corner.|Guys are buying two, three pies apiece.
+{101267}{101369}There's something fishy about these pies.|C'mon, let's go check it out.
+{101545}{101659}This can't be. Ogre, go get a pie.|Find out what the hell's goin' on here.
+{101744}{101804}Thanks, wimp. Get yourself one.
+{101878}{101918}- Well? How is it?|- Good.
+{101920}{101985}- Is it good or is it great?|- It's good.
+{101987}{102049}Just good?|Then what they sellin' so many for?
+{102051}{102123}This why. Uh-oh.
+{102259}{102299}That's my Pi.
+{102493}{102563}Oh, Stan!
+{102565}{102623}That was wonderful.
+{102625}{102701}You did things to me|you've never done before.
+{102703}{102741}(gasps)
+{102743}{102805}- You're that nerd!|- Yeah.
+{102846}{102902}God, you were wonderful.
+{102904}{102949}Thanks.
+{102985}{103076}- Are all nerds as good as you?|- Yes.
+{103078}{103120}How come?
+{103122}{103184}Cos all jocks think about is sports.
+{103207}{103267}All we ever think about is sex.
+{103310}{103380}- What's your name?|- Lewis.
+{103382}{103529}Lewis... would you meet me|after the pep rally tonight?
+{103531}{103576}Sure.
+{103680}{103815}(Dean on PA) It's all tied up. The musical|and skit competition will decide the winner.
+{103817}{103884}So, let the music begin!
+{103886}{103990}# Row, row, row your boat|gently down the stream
+{103992}{104045}# Merrily, merrily, merrily, merrily
+{104073}{104133}# Life is but a dream
+{104135}{104203}(cheering and applause)
+{104248}{104336}What did the Pink Panther say|when he stepped on an ant?
+{104338}{104425}(# "Pink Panther" tune) Dead ant. Dead ant.|Dead ant, dead ant, dead ant.
+{104427}{104506}What is the dirtiest thing|ever said on television?
+{104508}{104532}Tell me.
+{104534}{104624}"Ward, I think you were|a little hard on the Beaver last night."
+{104694}{104782}(all chant) Gable, Gable, he's our man.|If he can't do it, Burke can.
+{104784}{104866}Burke, Burke, he's our man.|If he can't do it, Ogre can.
+{104868}{104903}- Gimme an A!|- A!
+{104905}{104945}- Gimme a D!|- D!
+{104947}{104990}- Gimme an A!|- A!
+{104992}{105030}- Gimme an M!|- M!
+{105032}{105067}- Gimme an S!|- S!
+{105069}{105135}- What's that spell?|- Adams!
+{105200}{105278}# They always call him Mr Touchdown
+{105280}{105364}# They always call him Mr T
+{105366}{105446}# He can run and kick and throw
+{105448}{105511}# Give him the ball and just look at him go
+{105513}{105601}# Hip, hip, hooray for Mr Touchdown
+{105603}{105666}# He's gonna beat 'em today
+{105668}{105750}# So give a great big cheer|for the hero of the year
+{105752}{105825}# Mr Touchdown USA
+{105827}{105858}Hurrah!
+{105860}{105935}(loud cheering and applause)
+{106310}{106374}(# electronic dance music)
+{106536}{106586}(well-played violin riff)
+{107744}{107846}# Clap your hands, everybody|And everybody clap your hands
+{107848}{107953}# We're Lambda Lambda Lambda|and Omega Mu
+{107955}{108063}# We come here on stage tonight|to do our show for you
+{108065}{108118}# We got a rockin' rhythm and a hi-tech sound
+{108120}{108172}# That'll make you move|your body down to the ground
+{108174}{108282}# We got Poindexter on the violin|And Lewis and Gilbert will be joinin' in
+{108284}{108392}# We got Booger Presley on a mean guitar|And a rap by little old me, Lamar
+{108394}{108455}# We got Takashi beating on his gong
+{108457}{108508}# The boys and the Mus are clappin' along
+{108510}{108564}# And just when you thought you'd seen it all
+{108566}{108619}# Along comes a Lambda four foot tall
+{108621}{108672}# So, Wormser, come on out here on the floor
+{108674}{108730}# So we can work our bodies|like never before
+{108732}{108800}# Break
+{109526}{109588}(wild cheering and applause)
+{110053}{110158}I'd like to present the trophy|to this year's champions,
+{110160}{110230}Lambda Lambda Lambda and Omega Mu.
+{110366}{110504}They will be able to select the president|of next year's Greek Council.
+{110576}{110709}I'd like to announce we've made|our selection already. It's Gilbert Lowe!
+{110803}{110895}This sucks! I gotta get rid of this anger.|C'mon, Betty, let's pump iron.
+{110897}{110958}No, Stan. I don't think so.
+{110960}{111049}What d'you mean, you don't think so?|C'mon, let's go. Why not?
+{111051}{111127}I've got a date with a Tri-Lamb.
+{111129}{111191}- A Tri-Lamb!|- Here's your pin.
+{111240}{111288}Take it.
+{111290}{111343}Wait. Betty...
+{111345}{111384}C'mon.
+{111406}{111469}God! I'm in love with a nerd!
+{111510}{111580}- Gable.|- Yeah, Coach.
+{111582}{111716}I wanna see you and the other girls|in the locker room now!
+{111735}{111771}Yes, sir.
+{111943}{112028}You know, when you were|a baby in your crib,
+{112030}{112131}your father looked down at you,|he had but one hope -
+{112146}{112212}"Someday my son will grow to be a man."
+{112257}{112318}Well, look at you now.
+{112358}{112513}You just got your asses whipped|by a bunch of goddamn nerds.
+{112569}{112621}Nerds!
+{112672}{112747}Well, if I was you, I'd do something about it.
+{112789}{112864}I would get up and redeem myself
+{112890}{112991}in the eyes of my father,|my Maker and my coach!
+{112993}{113059}- Let's get those nerds!|- Nerds!
+{113061}{113097}Nerds!
+{113099}{113157}What are we waitin' for?!
+{113344}{113459}# We're Lambda Lambda Lambda|and Omega Mu
+{113461}{113536}(chanting) Nerds! Nerds! Nerds! Nerds!
+{113719}{113766}(Stan) Come on!
+{113768}{113832}Come on!
+{114497}{114547}I'm a nerd.
+{114580}{114644}Welcome to the real world.
+{114646}{114714}I never really wanted to believe that.
+{114716}{114781}- It's OK.|- It's not OK.
+{114783}{114845}We're nothing.
+{114847}{114904}We let them destroy our house.
+{114906}{114994}- We'll control the Greek Council next year.|- Big deal!
+{115031}{115107}You'll be dead by then, Gilbert.
+{115109}{115212}Nobody cares. Don't you understand that?|The university doesn't care.
+{115214}{115276}There's nothin' we can do about it.
+{115278}{115367}We got something good goin',|and I won't let 'em take it away from us.
+{115369}{115470}Gilbert, don't be a fool.|You'll just get yourself hurt again.
+{115472}{115535}- Big deal.|- Gilbert?
+{115673}{115735}(# brass band plays marching tune)
+{116046}{116137}I'd like to introduce the men|that will bring you a homecoming victory
+{116139}{116200}against State tomorrow.
+{116202}{116269}At defensive back,|number 38, Kevin O'Leary.
+{116311}{116396}Offensive guard,|number 64, Rich Valrow.
+{116429}{116513}At centre,|number 53, Harry Reagan.
+{116561}{116616}- Look who's comin'.|- Where you goin'?
+{116618}{116703}You went way too far this time,|and you're not gettin' away with it.
+{116705}{116822}Oh, is that right? Well, let's see if shit floats.|What do you think of that idea?
+{116824}{116906}Come on! Put me down!|Goddamn! Put me down!
+{116908}{116981}(Stan) Fire away!
+{116983}{117039}Now our tri-captains.
+{117061}{117186}Leading the conference in reception,|at wide receiver, number 84, Danny Burke.
+{117195}{117326}Our defensive captain,|number 79, Fred Polowoski - the Ogre.
+{117364}{117501}Now our two-time all-American quarterback,|number ten, Stan Gable.
+{117622}{117690}Hold it, son. Hold it, hold it!
+{117692}{117755}Leave him alone.|Coach, I said leave him alone.
+{117757}{117831}What did you say?|I'll break his goddamn neck.
+{117833}{117919}You will do nothing of the sort.|Don't touch that boy.
+{118013}{118067}Says who?
+{118093}{118190}Says me... you asshole.
+{118215}{118311}Hold it, Coach.|You just hold it right there.
+{119171}{119221}OK, kid.
+{119253}{119316}Say what you gotta say.
+{119318}{119363}Thanks.
+{119508}{119657}Uh... I just wanted to say that...|that I'm a nerd.
+{119679}{119784}And I'm here tonight to stand up|for the rights of other nerds.
+{119786}{119892}I mean, all our lives we've been laughed at
+{119894}{119963}and made to feel inferior.
+{119965}{120110}And tonight those bastards,|they trashed our house.
+{120134}{120175}Why?
+{120177}{120243}Because we're smart?
+{120245}{120313}Because we look different?
+{120315}{120378}Well, we're not.
+{120406}{120512}I'm a nerd, and... I'm pretty proud of it.
+{120666}{120711}Hi, Gilbert.
+{120732}{120785}I'm a nerd, too.
+{120810}{120877}I just found that out tonight.
+{120879}{120940}We have news for the beautiful people.
+{120942}{121035}There's a lot more of us than there are of you.
+{121048}{121101}I know there's alumni here tonight.
+{121103}{121224}When you went to Adams,|you might have been called a spaz,
+{121235}{121326}or a dork, or a geek.
+{121328}{121392}Any of you that have ever felt...
+{121394}{121497}stepped on, left out, picked on, put down,
+{121519}{121611}whether you think you're a nerd or not,|why don't you come and join us?
+{121613}{121649}Come on.
+{121706}{121800}(# "We are the Champions" by Queen)
+{121802}{121838}- Hi, Betty.|- Hi.
+{121840}{121903}Just join us, cos, uh...
+{121905}{121941}Hi.
+{121968}{122058}(Gilbert) No one's really gonna be free|until nerd persecution ends.
+{122820}{122942}You know, Coach, I think I'm gonna let|these boys live over at the Alpha Beta house,
+{122944}{123013}while you and your boys rebuild theirs.
+{123015}{123100}- And where the hell are we gonna live?|- What about us, huh?
+{123118}{123174}You're jocks, go live in the gym.
+{123210}{123278}(all, softly) Nerd. Nerd. Nerd.
+{123280}{123342}(all chant loudly) Nerd! Nerd! Nerd!
+{123344}{123402}Nerd! Nerd! Nerd! Nerd!
+{123556}{123606}(cheering)
+{123834}{123909}(# "We are the Champions" choral version)
+{125820}{125895}(# "They're So lncredible" by Revenge)
+{129398}{129473}Visiontext Subtitles: Adrian lsaac
+{129581}{129631}ENGLlSH SDH
+{129681}{129781}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<

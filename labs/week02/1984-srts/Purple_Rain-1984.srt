@@ -1,0 +1,3020 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:09.13,00:00:11.64
+MC: Ladies and gentlemen:[br]The Revolution!
+
+00:00:13.61,00:00:15.52
+(Cheering and applause)
+
+00:00:15.73,00:00:18.56
+(The Revolution begins playing[br]80s rock song Let's go Crazy)
+
+00:00:18.65,00:00:20.64
+THE KID: (Sings) "Dearly beloved
+
+00:00:21.33,00:00:24.92
+"We are gathered here today[br]to get through this thing called life
+
+00:00:27.01,00:00:28.12
+"Electric word life
+
+00:00:28.21,00:00:30.36
+"It means forever[br]and that's a mighty long time.
+
+00:00:30.45,00:00:31.96
+"But I'm here 2 tell u
+
+00:00:32.41,00:00:34.13
+"There's something else.
+
+00:00:34.77,00:00:36.28
+"The afterworld
+
+00:00:37.93,00:00:39.92
+"A world of never ending happiness
+
+00:00:40.01,00:00:41.68
+"U can always see the sun
+
+00:00:42.37,00:00:43.80
+"Day or night
+
+00:00:46.25,00:00:48.89
+"So when u call up that shrink[br]in Beverly Hills
+
+00:00:48.97,00:00:51.40
+"U know the one[br]Dr. Everything'll Be Alright
+
+00:00:51.49,00:00:54.37
+"Instead of asking him[br]how much of your mind is left
+
+00:00:54.61,00:00:56.96
+"Ask him how much of your mind, baby
+
+00:00:57.57,00:01:01.45
+"'Cause in this life things r much harder[br]than in the afterworld
+
+00:01:01.65,00:01:02.76
+"In this life
+
+00:01:02.85,00:01:04.33
+"You're on your own"
+
+00:01:05.05,00:01:06.53
+(Crowd cheers)
+
+00:01:07.17,00:01:09.44
+"And if de-elevator tries[br]2 bring u down
+
+00:01:11.01,00:01:13.00
+"Go crazy,[br]Punch a higher floor
+
+00:01:23.05,00:01:24.37
+"If u don't like
+
+00:01:25.17,00:01:26.92
+"The world you're living in
+
+00:01:27.53,00:01:29.17
+"Take a look around u
+
+00:01:29.65,00:01:31.48
+"At least u got friends
+
+00:01:32.37,00:01:33.88
+"I called my old lady
+
+00:01:34.21,00:01:35.56
+"4 a friendly word
+
+00:01:36.65,00:01:39.24
+"She picked up the phone[br]Dropped it on the floor
+
+00:01:39.33,00:01:41.24
+"Sex, sex is all I heard
+
+00:01:41.81,00:01:44.24
+"Are we gonna let de-elevator[br]bring us down
+
+00:01:44.37,00:01:45.96
+"Oh, no, Let's Go
+
+00:01:46.33,00:01:47.52
+"Let's go crazy
+
+00:01:48.57,00:01:50.05
+"Let's get nuts
+
+00:01:52.05,00:01:55.16
+"Let's look 4 the purple banana[br]'til they put us in the truck
+
+00:01:55.25,00:01:56.48
+"Let's go
+
+00:02:05.45,00:02:07.09
+"We're all excited
+
+00:02:07.17,00:02:08.92
+"But we don't know why
+
+00:02:09.81,00:02:11.29
+"Maybe it's cuz
+
+00:02:12.29,00:02:14.01
+"We're all gonna die
+
+00:02:14.81,00:02:16.29
+"And when we do
+
+00:02:16.85,00:02:18.36
+"What's it all 4
+
+00:02:19.21,00:02:20.53
+"U better live now
+
+00:02:20.61,00:02:23.00
+"Before the grim reaper comes knocking[br]On your door
+
+00:02:23.09,00:02:24.28
+"Tell me
+
+00:02:24.57,00:02:27.04
+"Are we gonna let de-elevator[br]Bring us down
+
+00:02:27.25,00:02:28.84
+"Oh, no, let's go
+
+00:02:29.41,00:02:30.60
+"Let's go crazy
+
+00:02:30.89,00:02:32.21
+"Let's get nuts
+
+00:02:32.29,00:02:35.80
+"Look 4 the purple banana[br]'til they put us in the truck, let's go
+
+00:02:36.93,00:02:38.04
+"Let's go
+
+00:02:40.01,00:02:41.12
+"C'mon baby
+
+00:02:42.25,00:02:43.76
+"Let's get nuts"
+
+00:02:44.73,00:02:46.21
+(Crowd cheers)
+
+00:02:49.05,00:02:51.04
+(Let's Go Crazy continues)
+
+00:03:02.85,00:03:04.80
+(Electric guitar improvisation)
+
+00:03:06.41,00:03:09.24
+"Are we gonna let de-elevator[br]Bring us down
+
+00:03:09.45,00:03:11.09
+"Oh, no, let's go
+
+00:03:12.01,00:03:13.16
+"Crazy"
+
+00:03:31.81,00:03:35.16
+(Instrumental beat of Let's Go Crazy[br]intensifies, background)
+
+00:03:46.85,00:03:50.08
+(Instrumental beat of Let's Go Crazy[br]continues, background)
+
+00:04:08.61,00:04:11.25
+(Instrumental beat of Let's Go Crazy[br]continues)
+
+00:04:14.09,00:04:16.00
+(The Kid pants over microphone)
+
+00:04:21.25,00:04:22.68
+(Crowd cheers)
+
+00:04:30.61,00:04:32.12
+"Let's go crazy
+
+00:04:33.25,00:04:34.52
+"Let's go"
+
+00:04:36.25,00:04:38.64
+(Crowd cheers to instrumental rock beat)
+
+00:04:54.29,00:04:56.93
+(Instrumental beat of Let's Go Crazy[br]continues)
+
+00:05:01.85,00:05:03.84
+MORRIS: We're going to kill him.
+
+00:05:05.85,00:05:08.49
+(Instrumental beat of Let's Go Crazy[br]continues)
+
+00:05:14.05,00:05:15.24
+What do you want?
+
+00:05:15.33,00:05:17.36
+I have an appointment with the manager.
+
+00:05:17.45,00:05:19.60
+No, you don't. He don't see no one.
+
+00:05:33.17,00:05:37.08
+(More cheering and clapping[br]to the instrumental beat of Let's Go Crazy)
+
+00:05:48.01,00:05:49.20
+(Smash)
+
+00:05:49.77,00:05:51.49
+What are you, stupid or something?
+
+00:05:51.57,00:05:54.08
+JILL: Why don't you look[br]where you're going?
+
+00:05:54.89,00:05:57.32
+"Are we gonna let de-elevator[br]Bring us down
+
+00:05:58.17,00:05:59.81
+"Oh, no, let's go
+
+00:06:00.85,00:06:01.96
+"Crazy"
+
+00:06:02.49,00:06:04.56
+APOLLONIA: Listen, I'm from out of town.
+
+00:06:04.65,00:06:06.64
+I have to see the manager. It's important.
+
+00:06:06.73,00:06:09.64
+I'm a good singer and dancer.[br]Maybe he could use me.
+
+00:06:10.09,00:06:11.84
+Do you have any experience?
+
+00:06:12.45,00:06:13.40
+Yeah.
+
+00:06:13.53,00:06:14.64
+Follow me.
+
+00:06:15.05,00:06:16.88
+(Let's Go Crazy continues)
+
+00:06:20.69,00:06:21.84
+"He's coming
+
+00:06:23.05,00:06:24.20
+"He's coming
+
+00:06:25.69,00:06:26.88
+"Coming"
+
+00:06:46.09,00:06:48.04
+(Electric guitar improvisation)
+
+00:06:55.13,00:06:56.61
+(Crowd cheers)
+
+00:07:01.21,00:07:02.96
+(Song finale begins)
+
+00:07:26.05,00:07:27.80
+(Whispers) "Take me away."
+
+00:07:29.65,00:07:31.56
+(Cheering and applause)
+
+00:07:33.93,00:07:35.72
+Here. Fill this out.
+
+00:07:36.17,00:07:38.04
+I'll have him call you later.
+
+00:07:38.25,00:07:40.04
+I don't have a phone.
+
+00:07:41.77,00:07:43.36
+When will he be back?
+
+00:07:43.69,00:07:45.76
+Well, you can try tomorrow.
+
+00:07:46.85,00:07:47.84
+Okay.
+
+00:07:48.25,00:07:49.44
+Thanks.
+
+00:07:49.65,00:07:52.24
+(Scattered conversations, background)
+
+00:07:53.13,00:07:54.53
+"Apollonia"?
+
+00:07:57.45,00:08:00.41
+Why don't you stay awhile?[br]See how it's done.
+
+00:08:00.49,00:08:01.81
+(Laughter)
+
+00:08:04.01,00:08:05.57
+JEROME: (Whispers) So sexy!
+
+00:08:05.65,00:08:06.97
+MC: Ladies and gentlemen:
+
+00:08:07.05,00:08:09.00
+Please welcome The Time.
+
+00:08:09.33,00:08:11.24
+(Cheering and applause)
+
+00:08:18.53,00:08:21.12
+(The Time begins playing Jungle Love)
+
+00:08:34.73,00:08:36.56
+(Imitates monkey screeching)
+
+00:08:51.17,00:08:51.96
+"I
+
+00:08:52.09,00:08:53.84
+"I been watching you
+
+00:08:54.37,00:08:56.40
+"I think I want to know ya"
+
+00:08:58.25,00:09:00.16
+(Jungle Love continues)
+
+00:09:07.57,00:09:09.48
+(Jungle Love continues)
+
+00:09:44.05,00:09:45.96
+(Jungle Love continues)
+
+00:10:07.57,00:10:09.48
+(Jungle Love continues)
+
+00:10:23.97,00:10:26.08
+I really liked your song, too.
+
+00:10:31.09,00:10:33.00
+(Jungle Love continues)
+
+00:10:44.05,00:10:46.20
+(Bongo drumbeat, background)
+
+00:11:02.69,00:11:04.41
+FATHER: (Yells) Listen to me!
+
+00:11:04.49,00:11:08.45
+You come home when I say come home.[br]You got no business in the streets.
+
+00:11:08.81,00:11:10.16
+MOTHER: Leave me alone.
+
+00:11:10.25,00:11:11.65
+FATHER: Come here!
+
+00:11:11.97,00:11:13.32
+I said, "Now!"
+
+00:11:13.89,00:11:15.96
+FATHER: Do you hear me?[br]THE KID: Mom! Dad!
+
+00:11:16.05,00:11:17.69
+FATHER: Keep this place clean!
+
+00:11:17.77,00:11:19.68
+THE KID: Please, Dad, she's heard you!
+
+00:11:19.77,00:11:21.28
+MOTHER: He wants to kill me.
+
+00:11:21.37,00:11:22.28
+He's crazy.
+
+00:11:22.37,00:11:24.48
+MOTHER: Look what he's doing to me.
+
+00:11:37.21,00:11:38.61
+BILLY: I don't get it.
+
+00:11:38.69,00:11:41.36
+An important meeting like this[br]and he doesn't show up.
+
+00:11:41.45,00:11:43.88
+The Kid must've forgotten[br]who owns this club.
+
+00:11:43.97,00:11:46.36
+I got to make some changes. Fast.
+
+00:11:46.45,00:11:48.36
+It's going to affect all the bands.
+
+00:11:48.45,00:11:51.56
+It's the second time he's missed.[br]I'm telling you he's fucking up.
+
+00:11:51.65,00:11:54.45
+You know what you need to do?[br]You need to get rid of him.
+
+00:11:54.53,00:11:58.28
+The last three bands that came out[br]here went on to be big stars.
+
+00:11:58.37,00:12:02.92
+I thought The Kid was next, but he's[br]ruined it. He ain't even pulling them in.
+
+00:12:03.33,00:12:06.44
+He just plays a lot of shit[br]that nobody wants to hear.
+
+00:12:06.53,00:12:08.44
+Like his old man, Francis L.
+
+00:12:08.73,00:12:10.56
+Did he ever mess his career up!
+
+00:12:10.65,00:12:12.21
+Ruined his wife's, too.
+
+00:12:12.29,00:12:14.40
+Now The Kid's doing the same shit.
+
+00:12:15.29,00:12:19.49
+I hear he's having a problem with[br]his band...especially Lisa and Wendy.
+
+00:12:19.89,00:12:24.04
+They won't be together for long.[br]I'm telling you, you need to get rid of him.
+
+00:12:24.29,00:12:28.68
+I need to get somebody commercial.[br]Something that will work every night.
+
+00:12:29.93,00:12:31.68
+Like a girls' group?
+
+00:12:32.33,00:12:34.76
+Yeah, a girls' group. Yeah, Morris.
+
+00:12:35.09,00:12:38.44
+Something sexy, but not dirty.[br]I got enough problems.
+
+00:12:39.33,00:12:42.44
+I'll lay it on you straight.[br]I put together something hot...
+
+00:12:42.53,00:12:44.60
+...and The Kid is out, right?
+
+00:12:46.53,00:12:49.33
+THE KID: It's kind of dead in here.[br]Where is everybody?
+
+00:12:49.41,00:12:52.88
+JILL: I don't know. Billy and Morris[br]were sure looking for you.
+
+00:12:53.69,00:12:54.96
+That's nice.
+
+00:12:56.13,00:12:58.40
+Maybe I'll come back at a better time.
+
+00:12:58.49,00:13:00.48
+Think tonight this place'll be jumping?
+
+00:13:00.57,00:13:02.00
+Well, I'll be here.
+
+00:13:04.13,00:13:05.24
+JILL: Wait!
+
+00:13:05.57,00:13:07.32
+I've got something for you.
+
+00:13:07.85,00:13:09.25
+What? A subpoena?
+
+00:13:09.41,00:13:11.24
+A song Lisa and Wendy wrote.
+
+00:13:11.97,00:13:14.36
+Why didn't they give it to me themselves?
+
+00:13:14.53,00:13:16.64
+I liked it and wanted to listen to it.
+
+00:13:16.73,00:13:19.69
+JILL: They told me to give it to you[br]when I was done.
+
+00:13:23.69,00:13:25.25
+You really liked it?
+
+00:13:32.05,00:13:34.00
+(Instrumental rock beat)
+
+00:13:58.45,00:14:00.09
+Three and four, five...
+
+00:14:00.29,00:14:01.80
+Oh, Lord! Cut!
+
+00:14:02.37,00:14:04.20
+(Microphone screeches)
+
+00:14:06.05,00:14:09.64
+You ladies don't seem to realize[br]how valuable my time is.
+
+00:14:10.53,00:14:12.80
+You're going to make my boys look bad.
+
+00:14:13.25,00:14:15.68
+BRENDA: Let us come up[br]with our own steps.
+
+00:14:16.29,00:14:18.04
+We tried that. Remember?
+
+00:14:18.89,00:14:22.16
+MORRIS: You're in the best possible[br]position you could be in.
+
+00:14:22.25,00:14:25.24
+So, what's the matter?[br]Your shoes on too tight?
+
+00:14:25.89,00:14:27.53
+Let's have some action!
+
+00:14:27.65,00:14:29.64
+MORRIS: Let's have some asses wiggling.
+
+00:14:29.73,00:14:31.64
+I want some perfection.
+
+00:14:31.73,00:14:32.92
+(Morris hoots)
+
+00:14:33.01,00:14:35.44
+(Instrumental rock beat continues)
+
+00:14:39.33,00:14:41.36
+I think I'm going to need a drink.
+
+00:14:41.65,00:14:44.53
+MORRIS: This ain't happening.[br]The bitches are okay, but...
+
+00:14:44.61,00:14:46.28
+...we need something more exciting.
+
+00:14:46.37,00:14:48.84
+We should be doing better.[br]Any ideas?
+
+00:14:48.93,00:14:51.16
+That Apollonia babe we saw last night.
+
+00:14:51.45,00:14:53.36
+Why don't we find out where she lives?
+
+00:14:53.45,00:14:56.48
+I already got that.[br]Jill gave me everything last night.
+
+00:14:56.57,00:14:58.08
+What are we waiting for? Let's go!
+
+00:14:58.17,00:15:01.40
+No, I want her to come to me.[br]I'm the only star in town.
+
+00:15:01.49,00:15:03.56
+SUE: Morris, who do you think you are?
+
+00:15:03.65,00:15:05.29
+I waited up all night for you!
+
+00:15:05.37,00:15:07.28
+I'm tired of you doing this to me!
+
+00:15:07.37,00:15:09.36
+Who the fuck do you think I am?
+
+00:15:12.29,00:15:14.76
+SUE: Let go of me,[br]you thick-headed creep!
+
+00:15:17.05,00:15:18.24
+SUE: Morris!
+
+00:15:18.33,00:15:19.36
+(Crash)
+
+00:15:19.45,00:15:20.64
+(Sue screams)
+
+00:15:23.09,00:15:24.08
+(Banging)
+
+00:15:24.77,00:15:26.20
+Such nastiness.
+
+00:15:28.77,00:15:30.04
+Let's go.
+
+00:15:32.13,00:15:34.93
+(SIow, melancholic rock music,[br]background)
+
+00:15:37.37,00:15:38.93
+THE KID: Give me that.
+
+00:15:39.33,00:15:40.97
+That. On your boot.
+
+00:15:47.97,00:15:49.24
+Hey, wait!
+
+00:15:50.37,00:15:51.72
+Give it back to me!
+
+00:15:51.81,00:15:52.84
+You can have it later.
+
+00:15:52.93,00:15:54.33
+I want it back now.
+
+00:15:54.41,00:15:55.36
+Who gave it to you?
+
+00:15:55.45,00:15:56.36
+A person.
+
+00:15:56.45,00:15:57.96
+-Male or female?[br]-Huh?
+
+00:15:59.21,00:16:02.40
+You're lying. I can tell just[br]by your reaction, you're lying.
+
+00:16:02.49,00:16:04.05
+THE KID: So, you gave it to me.
+
+00:16:04.13,00:16:05.72
+It's not yours anymore.
+
+00:16:07.81,00:16:10.72
+(SIow, melancholic rock music continues,[br]background)
+
+00:16:18.41,00:16:20.32
+Do you see something you like?
+
+00:16:22.25,00:16:23.48
+Let's go.
+
+00:16:37.77,00:16:40.84
+(Rock song Take Me With U[br]by Prince plays in background)
+
+00:17:02.21,00:17:04.68
+"I can't disguise the pounding of my heart
+
+00:17:06.09,00:17:07.81
+"It beats so strong
+
+00:17:09.89,00:17:11.29
+"It's in your eyes
+
+00:17:11.93,00:17:13.16
+"What can I say
+
+00:17:13.57,00:17:15.16
+"They turn me on
+
+00:17:17.49,00:17:19.48
+"I don't care where we go
+
+00:17:20.73,00:17:22.68
+"I don't care what we do
+
+00:17:25.01,00:17:27.00
+"I don't care pretty baby
+
+00:17:28.29,00:17:30.12
+"Just take me with you
+
+00:17:32.65,00:17:34.72
+"Come on and touch the place in me
+
+00:17:36.25,00:17:38.24
+"That's calling out your name
+
+00:17:40.13,00:17:42.12
+"We want each other oh so much
+
+00:17:43.53,00:17:45.52
+"Why must we play this game?
+
+00:17:47.93,00:17:49.57
+"Don't care where we go
+
+00:17:51.17,00:17:53.12
+"I don't care what we do
+
+00:17:55.25,00:17:57.24
+"I don't care pretty baby
+
+00:17:58.65,00:18:00.40
+"Just take me with u
+
+00:18:03.01,00:18:05.89
+"I don't care if we spend the night[br]at your mansion
+
+00:18:10.73,00:18:13.37
+"I don't care if we spend the night[br]on the town
+
+00:18:18.13,00:18:20.96
+"All I want is to spend the night together
+
+00:18:25.61,00:18:28.64
+"All I want is to spend the night[br]in your arms"
+
+00:18:30.17,00:18:31.60
+(Music fades)
+
+00:18:32.13,00:18:34.12
+THE KID: Where do you come from?
+
+00:18:34.25,00:18:35.73
+APOLLONIA: New Orleans.
+
+00:18:35.81,00:18:37.64
+THE KID: What are you doing here?
+
+00:18:37.73,00:18:41.20
+APOLLONIA: I heard about the club[br]and I thought I'd try my luck.
+
+00:18:41.45,00:18:43.44
+THE KID: You're in the business?
+
+00:18:45.41,00:18:47.05
+APOLLONIA: I'm a singer.
+
+00:18:51.17,00:18:53.08
+First Avenue is really famous.
+
+00:18:53.33,00:18:55.89
+APOLLONIA: A lot of bands make it[br]after playing there.
+
+00:18:55.97,00:18:57.72
+It must be really exciting.
+
+00:18:58.53,00:19:00.25
+Is that what turns you on?
+
+00:19:00.33,00:19:01.65
+What do you mean?
+
+00:19:01.73,00:19:03.00
+Making it.
+
+00:19:03.97,00:19:06.00
+It'd be nice for a change.
+
+00:19:08.77,00:19:10.52
+It's all I dream about.
+
+00:19:12.69,00:19:13.92
+And you?
+
+00:19:14.85,00:19:16.96
+APOLLONIA: What do you dream about?
+
+00:19:21.97,00:19:23.32
+Will you help me?
+
+00:19:24.93,00:19:25.96
+No.
+
+00:19:26.93,00:19:28.00
+Pardon me?
+
+00:19:28.49,00:19:29.48
+No.
+
+00:19:31.97,00:19:33.32
+Want to know why?
+
+00:19:33.41,00:19:34.40
+No.
+
+00:19:35.49,00:19:37.88
+'Cause you wouldn't pass the initiation.
+
+00:19:38.37,00:19:39.64
+What initiation?
+
+00:19:42.05,00:19:43.12
+For starters...
+
+00:19:43.21,00:19:46.68
+...you have to purify yourself[br]in the waters of Lake Minnetonka.
+
+00:19:47.05,00:19:47.92
+What?
+
+00:19:48.29,00:19:50.93
+You have to purify yourself[br]in Lake Minnetonka.
+
+00:20:03.25,00:20:05.76
+(Light instrumental rock beat, background)
+
+00:20:31.57,00:20:32.92
+Wait! That's...
+
+00:20:33.01,00:20:34.44
+(Apollonia screams)
+
+00:20:38.89,00:20:40.24
+(Apollonia gasps)
+
+00:20:42.05,00:20:43.40
+THE KID: Hold it.
+
+00:20:43.65,00:20:44.97
+APOLLONIA: What?
+
+00:20:45.09,00:20:47.00
+That ain't Lake Minnetonka.
+
+00:20:51.33,00:20:54.40
+I don't believe it![br]How could you do that to me?
+
+00:20:55.49,00:20:57.64
+APOLLONIA: Damn you! I'll kill you!
+
+00:20:59.29,00:21:01.24
+(Motorcycle engine revs)
+
+00:21:06.37,00:21:07.56
+Are you sick?
+
+00:21:07.97,00:21:10.20
+How many girls have you done this to?
+
+00:21:16.17,00:21:18.76
+(Apollonia shrieks and moans angrily)
+
+00:21:22.33,00:21:24.28
+(Motorcycle engine revs)
+
+00:21:35.81,00:21:37.24
+Come on. Let's go.
+
+00:21:37.89,00:21:41.32
+I'm not going anywhere.[br]That was a rotten thing to do.
+
+00:21:42.37,00:21:43.64
+I'm sorry.
+
+00:21:45.09,00:21:46.52
+I tried to stop you.
+
+00:21:46.61,00:21:49.96
+(Instrumental rock beat continues[br]playing softly background)
+
+00:21:52.13,00:21:54.04
+I must have looked ridiculous.
+
+00:21:54.53,00:21:56.04
+No, you looked great.
+
+00:21:56.45,00:22:00.12
+THE KID: That took some nerve.[br]I wouldn't have gotten in that water.
+
+00:22:00.61,00:22:01.56
+Come on.
+
+00:22:05.65,00:22:06.84
+(Engine revs)
+
+00:22:06.93,00:22:08.16
+APOLLONIA: Hey!
+
+00:22:09.13,00:22:10.72
+THE KID: Come on!
+
+00:22:12.33,00:22:13.32
+(Engine revs)
+
+00:22:13.41,00:22:15.13
+APOLLONIA: Come on!
+
+00:22:15.57,00:22:17.21
+THE KID: Okay, okay...
+
+00:22:27.81,00:22:29.84
+Don't get my seat all wet.
+
+00:22:36.85,00:22:40.48
+(Instrumental version of Take Me With U[br]plays softly, background)
+
+00:22:47.33,00:22:50.36
+MORRIS: The girl has expensive taste,[br]but can she sing?
+
+00:22:50.69,00:22:53.76
+JEROME: As fine as she is,[br]she doesn't have to know how to sing.
+
+00:22:53.85,00:22:54.92
+(Jerome spits)
+
+00:22:55.01,00:22:56.84
+MORRIS: Hey! Watch it, man!
+
+00:22:57.89,00:23:01.24
+Stay out of the set tonight.[br]I want you to work the floor.
+
+00:23:01.61,00:23:02.64
+What for?
+
+00:23:02.85,00:23:07.24
+I want to know when that sweet thing[br]shows up. You see her, come get me.
+
+00:23:07.81,00:23:10.61
+Cool. I come get you,[br]let you know the girl's there.
+
+00:23:10.69,00:23:13.16
+Not if I'm with my other babes.[br]That wouldn't be cool.
+
+00:23:13.25,00:23:15.08
+I don't want to break their hearts.
+
+00:23:15.17,00:23:17.20
+We ought to have a signal.
+
+00:23:18.21,00:23:19.56
+A password.
+
+00:23:20.45,00:23:22.76
+-Okay, what's the password?[br]-You got it.
+
+00:23:22.85,00:23:24.44
+-Got what?[br]-The password.
+
+00:23:24.69,00:23:26.60
+-The password is what?[br]-Exactly.
+
+00:23:26.69,00:23:28.52
+-The password is "exactly"?[br]-No.
+
+00:23:28.61,00:23:30.80
+Hold it, hold it. Slow down.
+
+00:23:32.77,00:23:35.33
+-The babe walks in. You see her.[br]-I see her.
+
+00:23:36.61,00:23:38.68
+-You come get me.[br]-I come get you.
+
+00:23:39.01,00:23:42.84
+I'll have some sexies on standby,[br]so you glide by me and you say...what?
+
+00:23:43.65,00:23:44.68
+Okay.
+
+00:23:45.53,00:23:48.04
+-The password is "okay"?[br]-As far as I'm concerned.
+
+00:23:48.13,00:23:49.77
+-Say the password![br]-What?
+
+00:23:50.05,00:23:51.40
+Say the password!
+
+00:23:51.65,00:23:53.24
+The password is "what."
+
+00:23:53.73,00:23:56.04
+-That's what I'm asking you.[br]-It's the password.
+
+00:23:56.13,00:23:58.60
+-The password is "it"?[br]-The password is "what."
+
+00:23:58.69,00:24:00.12
+"It." You just said so!
+
+00:24:00.21,00:24:02.44
+-The password isn't "it," it's...[br]-What?
+
+00:24:02.53,00:24:03.93
+-Got it.[br]-I got it?
+
+00:24:04.01,00:24:05.65
+-Right![br]-"It" or "right"?
+
+00:24:06.49,00:24:07.60
+What?
+
+00:24:08.69,00:24:11.84
+(Dez Dickerson begins playing[br]80s rock song Modernaire)
+
+00:24:21.45,00:24:23.01
+(Modernaire continues)
+
+00:24:35.53,00:24:37.09
+(Modernaire continues)
+
+00:25:06.53,00:25:07.52
+Hi.
+
+00:25:10.29,00:25:14.28
+I heard through the grapevine[br]that you had a new tune written by...
+
+00:25:14.77,00:25:16.52
+...a couple of great girls.
+
+00:25:16.81,00:25:18.13
+Did you hear it?
+
+00:25:20.45,00:25:22.92
+I knew it. He didn't listen to it.
+
+00:25:23.97,00:25:27.44
+LISA: He probably dropped it[br]under his bike and rolled over it.
+
+00:25:30.65,00:25:31.97
+Wow. All right.
+
+00:25:33.49,00:25:34.92
+You think about this.
+
+00:25:35.01,00:25:36.76
+WENDY: I'll be honest with you.
+
+00:25:36.85,00:25:38.76
+I think you're being full of shit.
+
+00:25:38.85,00:25:40.28
+LISA: Forget it, Wendy.
+
+00:25:40.37,00:25:41.64
+Let's get out of here.
+
+00:25:41.73,00:25:45.72
+Every time we give you a song,[br]you say you'll use it, but you don't.
+
+00:25:46.05,00:25:48.52
+WENDY: You think we're going[br]behind your back.
+
+00:25:48.61,00:25:50.92
+WENDY: You're being paranoid as usual.[br]LISA: Wendy!
+
+00:25:51.01,00:25:52.65
+Shut up, Lisa! Please.
+
+00:25:53.49,00:25:55.84
+You should know by now[br]that we wouldn't hurt you.
+
+00:25:55.93,00:25:58.49
+WENDY: You should know by now[br]that we wouldn't put...
+
+00:25:58.57,00:26:00.52
+...a dark cloud over your head.
+
+00:26:01.09,00:26:03.40
+WENDY: It's just to make you feel good.
+
+00:26:03.49,00:26:06.05
+You've felt this way[br]with us before, remember?
+
+00:26:07.97,00:26:10.28
+"The nominees for best actress are..."
+
+00:26:11.01,00:26:12.84
+Fuck it, Wendy. Let's break.
+
+00:26:12.93,00:26:15.40
+PUPPET: Why should he do your music?
+
+00:26:15.49,00:26:17.28
+He's been doing fine without it.
+
+00:26:17.37,00:26:20.40
+Next thing you know,[br]you'll want to use his motorcycle.
+
+00:26:24.81,00:26:26.56
+You can really hurt people.
+
+00:26:27.81,00:26:30.20
+WENDY: Doesn't that mean[br]anything to you?
+
+00:26:30.37,00:26:32.96
+Doesn't that make you feel like shit?
+
+00:26:37.85,00:26:38.96
+LISA: Come on.
+
+00:26:39.05,00:26:40.56
+I'm so tired of this.
+
+00:26:47.25,00:26:48.40
+(Door slams)
+
+00:26:54.53,00:26:55.76
+You tired, too?
+
+00:26:59.81,00:27:01.88
+God got Wendy's periods reversed.
+
+00:27:02.21,00:27:05.01
+MATT: About every 28 days,[br]she starts acting nice.
+
+00:27:05.25,00:27:07.00
+Lasts about a weekend.
+
+00:27:10.69,00:27:12.56
+What difference does it make?
+
+00:27:17.41,00:27:19.32
+We're still a group, right?
+
+00:27:21.65,00:27:23.05
+(Door slams)
+
+00:27:25.25,00:27:28.28
+MORRIS: So, what was that[br]you were saying about timing?
+
+00:27:30.05,00:27:31.48
+(Women giggle)
+
+00:27:32.13,00:27:35.01
+I like that. So cute.[br]Makes you look young.
+
+00:27:44.13,00:27:45.24
+"What."
+
+00:27:45.93,00:27:47.44
+-What?[br]-Right. "What."
+
+00:27:47.53,00:27:48.93
+-What?[br]-You got it.
+
+00:27:49.01,00:27:50.28
+I got it?
+
+00:27:53.09,00:27:54.76
+(Rock music plays)
+
+00:27:59.93,00:28:02.52
+PUPPET: You don't need those girls...
+
+00:28:02.73,00:28:04.21
+...or their stupid music.
+
+00:28:04.29,00:28:06.01
+All you need is me.
+
+00:28:11.65,00:28:13.08
+I don't know.
+
+00:28:13.41,00:28:14.92
+Life's a bitch.
+
+00:28:33.85,00:28:37.04
+(Instrumental version of Purple Rain[br]plays on tape deck)
+
+00:28:49.05,00:28:50.08
+(Door opens)
+
+00:28:50.17,00:28:51.57
+STAGEHAND: Hey, Kid!
+
+00:28:51.65,00:28:53.08
+Five minutes.
+
+00:28:53.37,00:28:54.52
+(Door slams)
+
+00:28:55.37,00:28:56.52
+(Tape stops)
+
+00:28:56.85,00:28:59.44
+Apollonia, I'd like you[br]to meet Morris E. Day.
+
+00:29:01.57,00:29:04.13
+-The pleasure is all mine.[br]-Please excuse me.
+
+00:29:05.89,00:29:07.37
+(Whispers) Too sexy?
+
+00:29:07.65,00:29:10.80
+Have the waitress bring a bottle[br]of their best champagne.
+
+00:29:18.53,00:29:21.09
+Your lips would make a lollipop too happy.
+
+00:29:21.73,00:29:23.00
+You think so?
+
+00:29:23.09,00:29:24.16
+Yes.
+
+00:29:28.29,00:29:30.04
+Who's paying for this?
+
+00:29:30.37,00:29:32.12
+MORRIS: I think you know that.
+
+00:29:32.21,00:29:33.24
+Jerome.
+
+00:29:34.93,00:29:37.12
+(Rock beat plays, background)
+
+00:29:53.73,00:29:55.32
+MORRIS: Keep the change.
+
+00:29:56.85,00:29:58.57
+(Morris clears his throat)
+
+00:29:58.69,00:30:00.12
+Get my change.
+
+00:30:00.29,00:30:02.68
+JEROME: (Whispers) Of course. Anything.
+
+00:30:09.81,00:30:12.24
+(Morris slurps, Apollonia giggles)
+
+00:30:13.73,00:30:17.56
+Would you require anything else[br]besides my company to make you happy?
+
+00:30:20.29,00:30:22.40
+Either there's something in my drink...
+
+00:30:22.49,00:30:25.21
+...or you're the finest woman[br]I've seen in ages.
+
+00:30:25.57,00:30:26.92
+What did you say?
+
+00:30:27.09,00:30:28.65
+You look nice tonight.
+
+00:30:30.69,00:30:32.88
+I wish you could see my home.
+
+00:30:33.73,00:30:35.21
+It's so exciting.
+
+00:30:36.61,00:30:38.20
+In my bedroom...
+
+00:30:39.01,00:30:40.76
+...I have a brass...
+
+00:30:41.57,00:30:42.97
+...waterbed.
+
+00:30:43.45,00:30:44.72
+(Giggles)
+
+00:30:46.05,00:30:47.96
+I have an Italian cook.
+
+00:30:48.29,00:30:51.17
+Gino Sesacagrattchi,[br]or something like that.
+
+00:30:51.45,00:30:52.44
+(Giggles)
+
+00:30:57.09,00:31:01.24
+It's rare that I put my cards[br]on the table with young ladies, but...
+
+00:31:02.69,00:31:05.08
+...I'm going to make you love me.
+
+00:31:06.77,00:31:08.44
+MC: Ladies and gentlemen:
+
+00:31:08.61,00:31:10.84
+Please welcome The Revolution.
+
+00:31:10.93,00:31:12.84
+(Cheering and applause)
+
+00:31:14.57,00:31:17.40
+(The Revolution begins playing[br]The Beautiful Ones)
+
+00:31:38.81,00:31:40.53
+THE KID: "Baby, baby, baby
+
+00:31:45.21,00:31:47.12
+"What's it going to be?
+
+00:31:51.45,00:31:53.09
+"Baby, baby, baby
+
+00:31:57.21,00:31:59.12
+"Is it him or is it me?
+
+00:32:02.65,00:32:04.80
+"Don't make me waste my time
+
+00:32:08.89,00:32:11.28
+"Don't make me lose my mind, baby
+
+00:32:16.77,00:32:18.12
+"Baby, baby, baby
+
+00:32:23.13,00:32:25.36
+"Can't u stay with me tonight?
+
+00:32:29.21,00:32:30.72
+"Oh, baby, baby, baby
+
+00:32:35.77,00:32:38.08
+"Don't my kisses please u right?
+
+00:32:40.73,00:32:42.56
+"U were so hard 2 find
+
+00:32:46.81,00:32:48.53
+"The beautiful ones...
+
+00:32:49.37,00:32:51.20
+"...they hurt u everytime
+
+00:32:55.77,00:32:57.72
+"Paint a perfect picture
+
+00:33:01.21,00:33:03.80
+"Bring to life a vision in one's mind
+
+00:33:07.45,00:33:10.33
+"The beautiful ones[br]Always smash the picture
+
+00:33:14.01,00:33:15.65
+"Always everytime"
+
+00:33:15.73,00:33:17.37
+(Audience cheers)
+
+00:33:32.89,00:33:34.56
+"If I told u, baby
+
+00:33:38.97,00:33:41.00
+"That I was in love with u
+
+00:33:49.53,00:33:51.20
+"If we got married
+
+00:33:52.73,00:33:54.16
+"Would that be cool?
+
+00:33:56.73,00:33:58.56
+"U make me so confused
+
+00:34:02.81,00:34:04.53
+"The beautiful ones
+
+00:34:05.37,00:34:07.20
+"U always seem to lose.
+
+00:34:16.85,00:34:17.84
+"Baby
+
+00:34:24.25,00:34:26.28
+"What's it gonna be, baby?
+
+00:34:27.45,00:34:29.09
+"Do you want him?
+
+00:34:30.65,00:34:32.37
+"Or do you want me?
+
+00:34:33.85,00:34:35.44
+"Because I want u!
+
+00:34:46.45,00:34:47.77
+"Do you want me?
+
+00:34:50.05,00:34:51.53
+"I gotta know!
+
+00:34:51.61,00:34:52.80
+"I gotta know!
+
+00:34:53.21,00:34:54.80
+"Do you want me?
+
+00:34:57.09,00:34:58.57
+"Baby, baby, baby
+
+00:35:00.57,00:35:03.21
+"I may not know where I'm going, baby.
+
+00:35:06.17,00:35:08.68
+"I said, I may not know what I need.
+
+00:35:13.21,00:35:16.01
+"One thing, one thing's for certain, baby.
+
+00:35:17.21,00:35:20.72
+"I know what I want, yeah.[br]And it's to please you, baby.
+
+00:35:22.97,00:35:25.72
+"I'm begging down on my knees.[br]I want you!
+
+00:35:32.45,00:35:33.60
+"I want you!
+
+00:35:36.05,00:35:37.40
+"Baby, baby, baby
+
+00:35:38.45,00:35:39.85
+"I want you!
+
+00:35:44.81,00:35:46.16
+"Yes, I do!"
+
+00:35:56.25,00:35:58.16
+(Cheering and applause)
+
+00:36:10.05,00:36:11.53
+(Applause continues)
+
+00:36:15.93,00:36:19.12
+BOBBY: Man, that was great.[br]MATT: Pick one song and split.
+
+00:36:19.37,00:36:20.96
+Can't do it any better than that.
+
+00:36:21.05,00:36:22.80
+Did you see Morris's face?
+
+00:36:22.89,00:36:24.00
+Of course I did.
+
+00:36:24.09,00:36:26.00
+What's this one-song shit?
+
+00:36:26.49,00:36:28.64
+Billy, don't worry about it.
+
+00:36:28.73,00:36:29.76
+(Laughter)
+
+00:36:29.85,00:36:31.68
+BILLY: Hey, I'm warning you!
+
+00:36:47.49,00:36:48.81
+(Footsteps clang)
+
+00:37:05.73,00:37:06.72
+Hey!
+
+00:37:08.41,00:37:10.36
+We'll have to go to your place.
+
+00:37:11.37,00:37:12.40
+What for?
+
+00:37:14.17,00:37:16.04
+I want to show you something.
+
+00:37:16.77,00:37:17.96
+No, we can't.
+
+00:37:18.81,00:37:20.45
+Why, is somebody there?
+
+00:37:20.73,00:37:23.32
+Why do you always think[br]there's somebody else?
+
+00:37:23.53,00:37:24.56
+Let's go.
+
+00:37:25.37,00:37:27.96
+Yeah, but we're not going to my place.
+
+00:37:31.25,00:37:33.20
+(Motorcycle engine revs)
+
+00:37:43.05,00:37:44.37
+(Mother giggles)
+
+00:37:47.25,00:37:48.40
+So...
+
+00:37:50.01,00:37:51.76
+Are those your folks?
+
+00:37:53.05,00:37:54.04
+Yeah.
+
+00:37:55.29,00:37:56.56
+Freak show.
+
+00:38:16.65,00:38:18.80
+APOLLONIA: Hey![br]THE KID: What?
+
+00:38:32.33,00:38:33.92
+(Chandelier tinkles)
+
+00:38:45.45,00:38:48.12
+(Experimental rock beat plays[br]on stereo)
+
+00:38:57.33,00:39:00.21
+(Rock beat continues[br]with simulated moaning)
+
+00:39:00.65,00:39:01.64
+(Gasps)
+
+00:39:03.77,00:39:06.57
+APOLLONIA: If you think you scared me,[br]you didn't.
+
+00:39:07.65,00:39:08.64
+Oh, yeah?
+
+00:39:22.13,00:39:25.52
+(Simulated moaning with rock beat[br]continues playing on stereo)
+
+00:39:26.81,00:39:28.92
+APOLLONIA: So who's the lucky girl?
+
+00:39:30.33,00:39:33.05
+APOLLONIA: Sounds like[br]she's having a good time.
+
+00:39:33.21,00:39:35.52
+THE KID: She's crying. It's backwards.
+
+00:39:36.25,00:39:38.16
+Makes me sad when I hear it.
+
+00:39:38.97,00:39:41.28
+Sounds like she's laughing, doesn't it?
+
+00:39:42.65,00:39:44.88
+APOLLONIA: So what did you do to her?
+
+00:39:46.33,00:39:48.72
+Do you always treat your women like that?
+
+00:39:49.37,00:39:51.44
+I don't have anybody right now.
+
+00:39:51.69,00:39:54.12
+(Woman whimpers and moans on stereo)
+
+00:39:58.01,00:39:59.28
+King Kong?
+
+00:39:59.61,00:40:00.72
+Stop.
+
+00:40:07.93,00:40:08.96
+No.
+
+00:40:15.05,00:40:17.93
+(Instrumental rock ballad[br]begins playing on stereo)
+
+00:41:05.05,00:41:07.20
+(Instrumental rock ballad continues)
+
+00:41:47.09,00:41:49.24
+(Instrumental rock ballad continues)
+
+00:42:01.61,00:42:03.36
+-See you later?[br]-When?
+
+00:42:03.53,00:42:04.48
+Why?
+
+00:42:05.53,00:42:07.72
+-I have something to do first.[br]-What?
+
+00:42:08.57,00:42:09.84
+It's a secret.
+
+00:42:10.89,00:42:12.72
+Will you come see me tonight?
+
+00:42:14.65,00:42:16.00
+About 8:00?
+
+00:42:17.45,00:42:18.44
+'Bye.
+
+00:42:32.05,00:42:35.16
+(Band plays Instrumental version[br]of Purple Rain)
+
+00:43:01.85,00:43:03.52
+WENDY: What's the matter?
+
+00:43:05.61,00:43:08.36
+(Wendy plays upbeat rock tune on guitar)
+
+00:43:10.17,00:43:12.12
+You like that? Is that better?
+
+00:43:12.89,00:43:14.32
+Where is everybody?
+
+00:43:14.65,00:43:16.29
+You're late. They left.
+
+00:43:16.81,00:43:18.45
+What are you doing here?
+
+00:43:19.77,00:43:22.92
+"But I'm here to tell you,[br]there's something else."
+
+00:43:23.97,00:43:25.24
+Our music.
+
+00:43:25.85,00:43:27.76
+Can't you guys get off it?
+
+00:43:28.57,00:43:30.48
+Can't you just leave it alone?
+
+00:43:31.13,00:43:35.52
+THE KID: I told you already. I'm not going[br]to do your stupid music. Get off it!
+
+00:43:36.25,00:43:38.16
+Yeah, we'll get off it.
+
+00:43:41.21,00:43:43.20
+(Synthesized drumbeat stops)
+
+00:43:53.97,00:43:55.69
+(Window buzzes and clicks)
+
+00:43:56.17,00:43:57.16
+Jerome!
+
+00:44:01.65,00:44:02.88
+(Window buzzes)
+
+00:44:04.57,00:44:05.76
+Good morning!
+
+00:44:06.17,00:44:07.81
+What are you doing here?
+
+00:44:07.93,00:44:10.96
+I think I have something[br]you might be interested in.
+
+00:44:11.77,00:44:13.17
+Yeah? What?
+
+00:44:15.29,00:44:19.04
+A little song and dance.[br]That is, if you can sing and dance.
+
+00:44:20.73,00:44:22.48
+The Kid's going to help me.
+
+00:44:22.57,00:44:24.24
+(Morris and Jerome laugh)
+
+00:44:26.41,00:44:27.60
+No, he isn't.
+
+00:44:27.69,00:44:31.20
+He's never done anything in his whole life[br]for anybody but himself.
+
+00:44:31.29,00:44:32.72
+That's not true.
+
+00:44:33.05,00:44:35.56
+Yes, it is. What's he done for you?
+
+00:44:38.33,00:44:40.08
+I've got things to do.
+
+00:44:43.29,00:44:44.72
+What you gonna do?
+
+00:44:47.45,00:44:48.44
+Wait!
+
+00:44:49.93,00:44:51.28
+Okay, straight up.
+
+00:44:51.37,00:44:54.20
+I have a little group[br]and you'd fit in real well.
+
+00:44:54.33,00:44:56.97
+Just come by. Maybe we can[br]work something out.
+
+00:44:57.21,00:44:58.64
+Just business?
+
+00:44:58.81,00:45:01.37
+You can make up your own mind.[br]Just come by.
+
+00:45:02.33,00:45:03.84
+I know you could use the break.
+
+00:45:03.93,00:45:06.40
+Don't you want to be a star? I do.
+
+00:45:07.13,00:45:09.69
+This just might work out for both of us.
+
+00:45:13.85,00:45:15.60
+Know any good pawnshops?
+
+00:45:15.69,00:45:16.76
+Sure. Why?
+
+00:45:16.89,00:45:19.28
+I'm thinking about buying a guitar.
+
+00:45:49.05,00:45:52.40
+(Instrumental version of Purple Rain[br]plays on stereo)
+
+00:46:05.85,00:46:06.88
+(Door slams)
+
+00:46:06.97,00:46:09.77
+FATHER: (Yells) You do what I say![br]Do you hear me?
+
+00:46:11.49,00:46:13.16
+You do what I say!
+
+00:46:13.25,00:46:14.81
+(Bang, glass shatters)
+
+00:46:17.37,00:46:19.40
+FATHER: You keep this place clean!
+
+00:46:20.57,00:46:23.00
+You belong here and no place else!
+
+00:46:23.09,00:46:24.08
+(Bang)
+
+00:46:24.57,00:46:27.84
+You have no business leaving![br]You're always sneaking around!
+
+00:46:27.93,00:46:29.25
+You're a sinner!
+
+00:46:29.33,00:46:31.40
+Shut up! You don't care about me.
+
+00:46:31.61,00:46:33.04
+Don't I keep the heat on?
+
+00:46:33.13,00:46:34.56
+I don't like it here!
+
+00:46:34.65,00:46:36.52
+MOTHER: You never talk to me.
+
+00:46:36.73,00:46:37.92
+THE KID: Dad, please!
+
+00:46:38.01,00:46:39.68
+What's the matter with this house?
+
+00:46:39.77,00:46:40.96
+You're crazy!
+
+00:46:41.09,00:46:43.00
+FATHER: (Shrieks) Shut up![br]THE KID: Dad!
+
+00:46:43.09,00:46:44.28
+(Mother gasps)
+
+00:46:44.37,00:46:46.84
+(Suspenseful instrumental beat,[br]background)
+
+00:46:58.33,00:47:00.24
+MOTHER: I'm just trapped here.
+
+00:47:01.37,00:47:03.44
+You'll always have a roof overhead.
+
+00:47:05.05,00:47:07.28
+(Sobs) You don't let me have any fun.
+
+00:47:14.01,00:47:15.92
+I could make you happy...
+
+00:47:18.17,00:47:20.08
+...if you just believed in me.
+
+00:47:29.85,00:47:31.92
+If you just believed in me.
+
+00:47:35.61,00:47:36.80
+You never...
+
+00:47:40.41,00:47:42.16
+I would die for you.
+
+00:47:47.45,00:47:50.01
+(Melancholic instrumental melody,[br]background)
+
+00:48:06.17,00:48:07.28
+THE KID: Ma?
+
+00:48:23.77,00:48:25.09
+(Window rattles)
+
+00:48:35.89,00:48:37.40
+-What is it?[br]-Open it.
+
+00:48:51.29,00:48:52.36
+Oh, no.
+
+00:48:55.93,00:48:57.00
+Oh, no.
+
+00:49:05.53,00:49:06.80
+How'd you do it?
+
+00:49:07.01,00:49:08.12
+You like it?
+
+00:49:25.21,00:49:26.64
+(Apollonia giggles)
+
+00:49:29.05,00:49:30.56
+APOLLONIA: Thank you.
+
+00:49:35.65,00:49:37.72
+I'm going to join Morris's group.
+
+00:49:39.61,00:49:40.48
+What?
+
+00:49:42.17,00:49:44.24
+I'm going to join Morris's group.
+
+00:49:51.37,00:49:53.12
+(Apollonia gasps and sobs)
+
+00:49:56.41,00:49:58.36
+APOLLONIA: Just leave me alone.
+
+00:50:04.41,00:50:06.56
+I don't want you around this at all.
+
+00:50:07.29,00:50:09.52
+I don't want you in my life this way.
+
+00:50:12.65,00:50:13.76
+Apollonia?
+
+00:50:14.49,00:50:16.24
+Don't I make you happy?
+
+00:50:18.01,00:50:19.57
+Don't you like the way we are?
+
+00:50:19.65,00:50:22.32
+APOLLONIA: I want to do it.[br]You should trust me.
+
+00:50:22.41,00:50:24.08
+THE KID: Do you know Morris?
+
+00:50:24.17,00:50:27.20
+Do you know what he is about?[br]He doesn't care about you.
+
+00:50:27.61,00:50:29.01
+Are you jealous?
+
+00:50:47.09,00:50:50.40
+(Experimental rock music[br]with synthesized sound effects)
+
+00:51:14.33,00:51:15.89
+Where are Lisa and Wendy?
+
+00:51:15.97,00:51:17.45
+They haven't shown up yet.
+
+00:51:17.53,00:51:18.60
+They call?
+
+00:51:24.05,00:51:26.32
+(Blasts amplifier to distorted volume)
+
+00:51:30.65,00:51:31.64
+Hey, Kid.
+
+00:51:32.57,00:51:34.64
+CHICK: The boss wants to see you.
+
+00:51:34.81,00:51:36.45
+Tell him I'm rehearsing.
+
+00:51:38.01,00:51:38.96
+Now.
+
+00:51:49.89,00:51:51.56
+You having some problems?
+
+00:51:51.65,00:51:52.64
+No.
+
+00:51:52.93,00:51:55.16
+No? Where are Lisa and Wendy?
+
+00:51:57.69,00:51:59.33
+Hey, that's cool.
+
+00:51:59.77,00:52:03.12
+Morris says he's got a new group[br]called Apollonia Six.
+
+00:52:03.45,00:52:06.56
+BILLY: You know anything about them?[br]THE KID: No.
+
+00:52:06.65,00:52:08.56
+Tells me they're real hot.
+
+00:52:09.05,00:52:11.69
+BILLY: He says, "Billy,[br]you're gonna like these girls."
+
+00:52:11.77,00:52:13.41
+Got one problem, though.
+
+00:52:14.57,00:52:15.52
+What's that?
+
+00:52:15.61,00:52:18.17
+I got three acts. I don't need four.
+
+00:52:18.49,00:52:20.88
+That means one of you has got to go.
+
+00:52:21.37,00:52:23.80
+BILLY: What would you do[br]in my position?
+
+00:52:26.97,00:52:30.00
+(Rock song When Doves Cry[br]by Prince plays, background)
+
+00:52:56.09,00:52:58.12
+"Dig if u will the picture
+
+00:52:59.61,00:53:01.68
+"Of u and I engaged in a kiss
+
+00:53:03.29,00:53:05.68
+"The sweat of your body covers me
+
+00:53:07.01,00:53:09.65
+"Can u my darling, can u picture this?
+
+00:53:10.81,00:53:12.84
+"Dream if u can[br]A courtyard
+
+00:53:14.33,00:53:16.52
+"An ocean of violets in bloom
+
+00:53:18.01,00:53:20.20
+"Animals strike curious poses
+
+00:53:21.69,00:53:24.65
+"They feel the heat[br]The heat between me and u
+
+00:53:26.53,00:53:30.20
+"How can you just leave me standing?[br]Alone in a world that's so cold
+
+00:53:32.53,00:53:34.60
+"Maybe I'm just 2 demanding
+
+00:53:35.89,00:53:38.48
+"Maybe I'm just like my father 2 bold
+
+00:53:39.89,00:53:42.28
+"Maybe you're just like my mother
+
+00:53:43.25,00:53:45.08
+"She's never satisfied
+
+00:53:47.41,00:53:49.64
+"Why do we scream at each other
+
+00:53:50.61,00:53:53.49
+"This is what it sounds like[br]when doves cry.
+
+00:54:08.69,00:54:10.88
+"Touch if you will my stomach
+
+00:54:12.37,00:54:14.52
+"Feel how it trembles inside
+
+00:54:15.89,00:54:18.56
+"You've got the butterflies all tied up
+
+00:54:19.89,00:54:22.77
+"Don't make me chase u[br]Even doves have pride
+
+00:54:23.77,00:54:25.84
+"How can u just leave me standing
+
+00:54:26.65,00:54:28.64
+"Alone in a world so cold
+
+00:54:30.45,00:54:32.44
+"Maybe I'm just 2 demanding
+
+00:54:34.05,00:54:36.28
+"Maybe I'm just like my father 2 bold
+
+00:54:38.13,00:54:40.20
+"Maybe you're just like my mother
+
+00:54:41.41,00:54:43.20
+"She's never satisfied
+
+00:54:45.25,00:54:47.24
+"Why do we scream at each other
+
+00:54:48.85,00:54:50.76
+"This is what it sounds like
+
+00:54:50.93,00:54:52.41
+"When doves cry"
+
+00:54:57.65,00:54:58.84
+(Music fades)
+
+00:55:01.17,00:55:02.84
+Ma, what happened?
+
+00:55:03.33,00:55:04.60
+(Mother sobs)
+
+00:55:11.77,00:55:13.68
+THE KID: (Yells) Where are you?
+
+00:55:17.85,00:55:19.28
+Where are you?
+
+00:55:21.53,00:55:23.44
+Answer me, motherfucker!
+
+00:55:26.53,00:55:29.09
+(Melancholic piano melody[br]plays softly)
+
+00:56:48.49,00:56:49.68
+Is that yours?
+
+00:56:51.45,00:56:52.88
+Of course it's mine.
+
+00:56:54.81,00:56:56.45
+Whose else would it be?
+
+00:56:58.33,00:57:00.08
+FATHER: I got lots of them.
+
+00:57:02.49,00:57:04.24
+They're all different, too.
+
+00:57:05.21,00:57:07.93
+I'd like to see them.[br]You got them written down?
+
+00:57:10.01,00:57:11.04
+No, man.
+
+00:57:11.93,00:57:13.76
+FATHER: I don't write them down.
+
+00:57:13.85,00:57:15.17
+I don't have to.
+
+00:57:16.01,00:57:18.44
+That's the difference between you and me.
+
+00:57:20.89,00:57:23.40
+I thought you weren't going[br]to play anymore.
+
+00:57:31.93,00:57:33.57
+I saw Mom up the street.
+
+00:57:34.01,00:57:35.96
+THE KID: She looked pretty bad.
+
+00:57:37.37,00:57:39.04
+How did she get that way?
+
+00:57:44.41,00:57:45.92
+You got a girlfriend?
+
+00:57:47.29,00:57:48.96
+Yeah, I got a girlfriend.
+
+00:57:54.65,00:57:56.52
+Are you going to get married?
+
+00:57:58.33,00:57:59.52
+I don't know.
+
+00:58:00.97,00:58:02.37
+Never get married.
+
+00:58:02.57,00:58:04.92
+(Rock song Computer Blue[br]by Prince begins, background)
+
+00:58:05.01,00:58:06.00
+"Wendy?
+
+00:58:06.09,00:58:07.16
+"Yes, Lisa
+
+00:58:07.89,00:58:09.68
+"Is the water boiling?
+
+00:58:10.53,00:58:11.60
+"Yes, Lisa
+
+00:58:12.49,00:58:14.00
+"Shall we begin?
+
+00:58:15.21,00:58:16.28
+"Yes, Lisa
+
+00:58:44.85,00:58:46.76
+"Where is my love life?
+
+00:58:48.01,00:58:49.65
+"Where can it be?
+
+00:58:51.25,00:58:54.00
+"There must be something wrong[br]with the machinery
+
+00:58:58.57,00:59:00.48
+"Where is my love life?
+
+00:59:01.61,00:59:02.96
+"Tell me, tell me
+
+00:59:03.05,00:59:04.77
+"Where has it gone?
+
+00:59:05.73,00:59:08.69
+"Somebody please please tell me[br]what the hell is wrong
+
+00:59:12.13,00:59:14.60
+"Until I find the righteous 1[br]Computer blue
+
+00:59:19.45,00:59:21.92
+"Until I find the righteous 1[br]Computer blue"
+
+00:59:42.97,00:59:45.72
+(Instrumental version[br]of Computer Blue continues)
+
+01:00:15.05,01:00:17.80
+(Instrumental version[br]of Computer Blue continues)
+
+01:00:59.53,01:01:01.52
+APOLLONIA: What are we doing here?
+
+01:01:01.61,01:01:03.28
+MORRIS: What do you mean?
+
+01:01:03.37,01:01:05.32
+(Computer Blue continues, background)
+
+01:01:05.41,01:01:08.92
+APOLLONIA: I don't want to be here.[br]I don't want to hurt anybody.
+
+01:01:09.21,01:01:11.44
+It's not about hurting anybody.
+
+01:01:11.77,01:01:13.84
+We open at The Taste tomorrow.
+
+01:01:14.17,01:01:16.81
+This is business. We need the exposure.
+
+01:01:19.29,01:01:22.17
+Anyway, you don't want[br]to disappoint them, do you?
+
+01:01:30.65,01:01:32.40
+Your horns are showing.
+
+01:01:32.69,01:01:34.44
+(Computer Blue continues)
+
+01:01:58.65,01:01:59.64
+(Shrieks)
+
+01:02:04.05,01:02:05.45
+(Music fades)
+
+01:02:07.13,01:02:08.96
+It's a little empty tonight.
+
+01:02:09.69,01:02:12.12
+Of course, money isn't everything.
+
+01:02:12.73,01:02:15.04
+The Kid is in rare form tonight.
+
+01:02:19.13,01:02:21.44
+(Rock song Darling Nikki begins)
+
+01:02:41.65,01:02:43.64
+"I knew a girl named Nikki
+
+01:02:43.73,01:02:46.16
+"I guess you could say[br]she was a sex fiend
+
+01:02:47.57,01:02:49.32
+"I met her in a hotel lobby
+
+01:02:50.05,01:02:52.04
+"Masturbating with a magazine
+
+01:02:52.93,01:02:55.32
+"She said how'd you like[br]to waste some time
+
+01:02:55.41,01:02:58.76
+"And I could not resist[br]when I saw little Nikki grind"
+
+01:03:01.37,01:03:03.04
+(Darling Nikki continues)
+
+01:03:11.61,01:03:13.40
+"She took me to her castle
+
+01:03:13.57,01:03:15.72
+"And I just couldn't believe my eyes
+
+01:03:17.29,01:03:19.24
+"She had so many devices
+
+01:03:19.37,01:03:21.36
+"Everything that money could buy
+
+01:03:22.77,01:03:25.57
+"She said sign your name[br]on the dotted line
+
+01:03:26.05,01:03:27.48
+"The lights went out
+
+01:03:27.57,01:03:29.56
+"And Nikki started 2 grind
+
+01:03:34.93,01:03:36.08
+"Nikki"
+
+01:03:36.89,01:03:38.56
+(Darling Nikki continues)
+
+01:03:42.05,01:03:44.04
+"Woke up the next morning
+
+01:03:44.29,01:03:46.01
+"Nikki wasn't there
+
+01:03:46.85,01:03:49.24
+"I looked all over and all I found
+
+01:03:49.45,01:03:51.52
+"Was a phone number on the stairs
+
+01:03:52.45,01:03:54.44
+"It said thank u 4 a funky time
+
+01:03:56.49,01:03:58.60
+"Call me up whenever u want 2 grind"
+
+01:04:01.69,01:04:03.01
+(The Kid shrieks)
+
+01:04:14.49,01:04:16.56
+"Come back Nikki, come back
+
+01:04:17.85,01:04:20.08
+"Your dirty little Prince[br]wanna grind"
+
+01:04:21.01,01:04:22.60
+(The Kid shrieks)
+
+01:04:43.33,01:04:45.32
+(Darling Nikki continues)
+
+01:05:02.65,01:05:03.84
+(Clattering)
+
+01:05:05.37,01:05:07.04
+(The Kid breathes heavily)
+
+01:05:15.81,01:05:17.40
+What's wrong with you, Kid?
+
+01:05:17.49,01:05:20.08
+I don't have time for your bullshit![br]What do you want?
+
+01:05:20.17,01:05:23.32
+I told you before. This stage is no place[br]for your personal shit!
+
+01:05:23.41,01:05:26.44
+THE KID: That's life.[br]BILLY: Life, my ass, motherfucker!
+
+01:05:26.53,01:05:29.56
+This is a business,[br]you ain't too far gone to see that yet.
+
+01:05:29.65,01:05:33.12
+BILLY: I told you before, you're not packing[br]them in like you used to.
+
+01:05:33.21,01:05:35.36
+Nobody digs your music but yourself.
+
+01:05:35.61,01:05:36.96
+(Yells) Fuck off!
+
+01:05:38.33,01:05:39.92
+Just like your old man.
+
+01:05:40.89,01:05:42.92
+BILLY: You got it. Tell me I'm wrong.
+
+01:05:43.01,01:05:44.16
+You're not blind.
+
+01:05:44.25,01:05:46.72
+BILLY: Look around. No one's digging you.
+
+01:05:46.81,01:05:49.00
+Buddy! What a fucking waste!
+
+01:05:49.53,01:05:51.52
+BILLY: But, like father, like son.
+
+01:05:51.61,01:05:52.56
+Lay off that!
+
+01:05:52.65,01:05:54.40
+Let me give you some good advice.
+
+01:05:54.49,01:05:56.16
+Your music makes sense to no one...
+
+01:05:56.25,01:05:57.52
+...but yourself.
+
+01:06:16.09,01:06:19.76
+That was fucked up what you did.[br]Morris and I don't like it.
+
+01:06:19.97,01:06:21.20
+I don't care.
+
+01:06:22.33,01:06:25.13
+It's obvious you don't have what it takes[br]to be on top.
+
+01:06:25.21,01:06:28.17
+But to show you we're sympathetic[br]to your problems...
+
+01:06:29.21,01:06:31.52
+...here's some tickets for tomorrow's show.
+
+01:06:31.61,01:06:32.88
+Enjoy it.
+
+01:06:38.17,01:06:40.64
+Don't forget to bring a girlfriend.
+
+01:06:43.65,01:06:45.72
+(Instrumental rock beat begins,[br]background)
+
+01:06:45.81,01:06:46.88
+(Cheering)
+
+01:06:46.97,01:06:50.80
+MC: Now, without further ado,[br]ladies and gentlemen, Apollonia Six!
+
+01:06:52.25,01:06:55.05
+(Apollonia Six begin singing Sex Shooter)
+
+01:07:14.09,01:07:15.73
+(Sex Shooter continues)
+
+01:07:35.05,01:07:36.96
+(Audience cheers and whistles)
+
+01:08:05.25,01:08:06.89
+(Sex Shooter continues)
+
+01:08:31.25,01:08:32.89
+(Sex Shooter continues)
+
+01:08:43.53,01:08:45.44
+(Audience cheers and whistles)
+
+01:09:02.73,01:09:04.64
+(Applause and cheering)
+
+01:09:19.45,01:09:23.28
+Morris is squeezing you, Kiddo.[br]Kick ass tomorrow night, or else!
+
+01:09:36.05,01:09:37.48
+(Apollonia giggles)
+
+01:09:41.53,01:09:44.25
+APOLLONIA: Did you hear[br]those people applauding?
+
+01:09:44.41,01:09:45.89
+They loved us!
+
+01:09:47.45,01:09:49.64
+We're all gonna be big stars.
+
+01:09:50.49,01:09:51.76
+I can feel it!
+
+01:09:51.97,01:09:54.04
+MORRIS: "Ain't nobody bad like me."
+
+01:09:56.25,01:09:58.20
+Morris, you're a genius.
+
+01:09:58.29,01:10:00.68
+(Saxophone plays jazz music, background)
+
+01:10:16.73,01:10:18.24
+Let's go, baby.
+
+01:10:22.01,01:10:23.52
+Where's Jerome?
+
+01:10:29.21,01:10:30.20
+In his skin!
+
+01:10:30.29,01:10:31.64
+(Morris chuckles)
+
+01:10:33.85,01:10:35.49
+Is he gonna come?
+
+01:10:36.09,01:10:37.84
+I gave him the night off.
+
+01:10:38.09,01:10:39.16
+Why?
+
+01:10:47.77,01:10:49.60
+(Cackles hysterically)
+
+01:10:54.81,01:10:56.76
+(Motorcycle engine hums)
+
+01:11:12.81,01:11:14.13
+(Morris shrieks)
+
+01:11:15.21,01:11:16.40
+(Tires squeal)
+
+01:11:17.17,01:11:18.60
+Ain't this a bitch!
+
+01:11:19.09,01:11:21.16
+MORRIS: I just had my coat cleaned!
+
+01:11:21.81,01:11:24.00
+Four-hundred-dollar cashmere!
+
+01:11:24.41,01:11:26.36
+(Motorcycle engine revs)
+
+01:11:35.41,01:11:36.36
+Get on!
+
+01:11:37.49,01:11:38.48
+Come on!
+
+01:11:45.49,01:11:46.68
+(Tires squeal)
+
+01:11:49.65,01:11:50.84
+MORRIS: Stop!
+
+01:11:51.65,01:11:53.00
+MORRIS: Motherfucker!
+
+01:11:53.09,01:11:54.76
+You long-haired faggot!
+
+01:11:58.45,01:12:00.88
+(Instrumental rock beat, background)
+
+01:12:24.05,01:12:25.61
+(Subway train rumbles)
+
+01:12:31.05,01:12:32.53
+(Snickers) No.
+
+01:12:54.69,01:12:56.12
+Why are you doing that?
+
+01:12:56.21,01:12:57.88
+Don't tell me what to do.
+
+01:12:57.97,01:13:00.04
+Don't drink that. Give it to me.
+
+01:13:03.49,01:13:05.08
+(Apollonia shrieks)
+
+01:13:06.45,01:13:07.44
+(Gasps)
+
+01:13:10.61,01:13:12.25
+Go ahead. Go on.
+
+01:13:39.49,01:13:41.48
+(Instrumental rock beat, background)
+
+01:14:42.09,01:14:43.08
+(Gunshot)
+
+01:14:43.49,01:14:44.68
+(Sirens blare)
+
+01:14:48.09,01:14:49.92
+(Officers shouting commands)
+
+01:14:53.17,01:14:55.24
+(Dispatcher's voice drones on CB)
+
+01:14:55.73,01:14:57.32
+(Mother sobbing)
+
+01:15:13.21,01:15:16.20
+PARAMEDIC: Get up the stairs[br]and don't let anybody in.
+
+01:15:16.85,01:15:18.44
+(Mother sobbing)
+
+01:15:21.25,01:15:23.24
+(Dispatcher continues on CB)
+
+01:15:25.77,01:15:28.00
+(Distorted sound effects, background)
+
+01:15:46.85,01:15:48.92
+(Distorted sound effects continue)
+
+01:16:12.89,01:16:14.08
+(The Kid gasps)
+
+01:16:15.73,01:16:16.72
+(Gunshot)
+
+01:16:19.45,01:16:20.85
+FATHER: Come here!
+
+01:16:21.05,01:16:22.32
+Do you hear me?
+
+01:16:22.41,01:16:23.89
+(Short, rapid gasps)
+
+01:16:24.77,01:16:25.76
+(Gunshot)
+
+01:16:25.97,01:16:27.72
+(Short, rapid gasps)
+
+01:16:33.85,01:16:35.72
+(Sound of subway approaching)
+
+01:16:39.25,01:16:40.24
+No!
+
+01:16:41.45,01:16:42.77
+(Smashing)
+
+01:17:26.65,01:17:27.92
+(Gasping)
+
+01:17:49.05,01:17:51.36
+(Light instrumental melody, background)
+
+01:18:40.37,01:18:43.33
+(Instrumental version of Purple Rain[br]plays on stereo)
+
+01:18:52.37,01:18:54.12
+(Tape stops and rewinds)
+
+01:18:54.65,01:18:57.16
+(Instrumental version of Purple Rain plays)
+
+01:19:06.05,01:19:08.00
+(Tape stops and rewinds)
+
+01:19:08.09,01:19:10.60
+(Instrumental version of Purple Rain plays)
+
+01:19:13.53,01:19:15.48
+(Tape stops and rewinds)
+
+01:19:15.57,01:19:18.24
+(Prince plays Purple Rain on the piano)
+
+01:19:50.49,01:19:52.92
+(Uproarious cheering and applause)
+
+01:19:53.01,01:19:54.76
+MC: Ladies and gentlemen:
+
+01:19:56.09,01:19:58.04
+Please welcome The Time.
+
+01:19:59.61,01:20:03.24
+MORRIS: I don't want to see you no more.[br]Gentlemen, are we ready?
+
+01:20:03.61,01:20:05.52
+We're gonna do this number!
+
+01:20:07.13,01:20:08.72
+What time is it?
+
+01:20:10.41,01:20:13.00
+You got ten seconds[br]to get to the dance floor.
+
+01:20:13.37,01:20:16.12
+(The Time begins playing[br]80s rock song The Bird)
+
+01:20:20.85,01:20:22.49
+(Audience cheers)
+
+01:20:56.57,01:20:58.05
+(The Bird continues)
+
+01:21:21.89,01:21:23.45
+(Audience sings along)
+
+01:21:35.41,01:21:37.40
+(The Bird continues, background)
+
+01:22:19.49,01:22:20.84
+(Audience cheers)
+
+01:22:32.73,01:22:34.32
+Last call for alcohol!
+
+01:22:35.77,01:22:38.80
+If you ain't guzzling,[br]get the hell out of here!
+
+01:22:42.69,01:22:44.01
+Thank you.
+
+01:22:44.09,01:22:45.88
+(Thunderous applause)
+
+01:22:53.81,01:22:55.48
+(AII talk at once)
+
+01:22:55.77,01:22:59.40
+JEROME: The Revolution who? Fuck them![br]They might as well go home.
+
+01:23:03.93,01:23:06.73
+JEROME: What's happening?[br]You ain't even sweating.
+
+01:23:06.81,01:23:08.56
+You ain't even sweating.
+
+01:23:12.73,01:23:15.04
+ALL: (Sarcastically) "Let's get crazy!"
+
+01:23:15.61,01:23:17.12
+ALL: "Let's get nuts!"
+
+01:23:21.17,01:23:24.16
+(AII repeat "Let's get crazy!" sarcastically)
+
+01:23:24.45,01:23:25.77
+(Laughter)
+
+01:23:31.61,01:23:33.04
+How's the family?
+
+01:23:33.13,01:23:34.20
+(Laughter)
+
+01:23:39.21,01:23:40.88
+(AII talk at once)
+
+01:24:03.61,01:24:05.01
+THE KID: Let's go.
+
+01:24:07.93,01:24:09.72
+LISA: Yeah, let's get them.
+
+01:24:10.33,01:24:12.89
+MC: Ladies and gentlemen:[br]The Revolution!
+
+01:24:12.97,01:24:14.29
+(Applause)
+
+01:24:35.85,01:24:36.84
+(Silence)
+
+01:24:56.89,01:24:59.56
+I'd like to dedicate this to my father.
+
+01:25:04.73,01:25:08.24
+It's a song the girls in the band wrote,[br]Lisa and Wendy.
+
+01:25:25.69,01:25:28.49
+(The Revolution begins playing Purple Rain)
+
+01:25:42.17,01:25:44.64
+"I never meant 2 cause u any sorrow
+
+01:25:50.01,01:25:52.40
+"I never meant 2 cause u any pain
+
+01:25:57.85,01:26:00.60
+"I only wanted one time 2 see u laughing
+
+01:26:03.61,01:26:05.92
+"I only want 2 see u laughing...
+
+01:26:07.93,01:26:09.68
+"...in the purple rain
+
+01:26:10.97,01:26:12.96
+"Purple rain, purple rain
+
+01:26:26.81,01:26:28.48
+"Purple rain, purple rain
+
+01:26:38.01,01:26:40.40
+"I only wanted 2 see u bathing...
+
+01:26:42.17,01:26:43.92
+"...in the purple rain
+
+01:26:44.89,01:26:47.56
+"I never wanted 2 be your weekend lover
+
+01:26:58.17,01:27:00.73
+"I only wanted 2 be some kind of friend
+
+01:27:05.53,01:27:08.28
+"Baby I could never steal u from another
+
+01:27:13.69,01:27:16.57
+"It's such a shame[br]our friendship had to end
+
+01:27:18.81,01:27:20.80
+"Purple rain, purple rain
+
+01:27:26.97,01:27:28.64
+"Purple rain, purple rain
+
+01:27:46.17,01:27:48.16
+"I only wanted 2 see u...
+
+01:27:49.21,01:27:51.36
+"...underneath the purple rain
+
+01:27:53.05,01:27:56.08
+"Honey, I know, I know, I know[br]times r changing
+
+01:28:06.33,01:28:09.05
+"It's time we all reach out[br]4 something new
+
+01:28:09.37,01:28:10.88
+"That means u 2
+
+01:28:14.49,01:28:16.32
+"U say u want a leader
+
+01:28:16.89,01:28:19.16
+"But u can't seem 2 make up your mind
+
+01:28:19.45,01:28:21.36
+"I think u better close it
+
+01:28:22.81,01:28:25.40
+"And let me guide u 2 the purple rain
+
+01:28:27.77,01:28:29.44
+"Purple rain, purple rain
+
+01:28:41.53,01:28:44.72
+"U know what I'm singing about.[br]Come on, raise your hands.
+
+01:28:55.89,01:28:57.64
+"I only want 2 see u...
+
+01:28:57.97,01:29:00.64
+"...only want 2 see u in the purple rain"
+
+01:29:02.33,01:29:04.28
+(Electric guitar improvisation)
+
+01:30:29.17,01:30:30.96
+(Vocal improvisation)
+
+01:30:45.65,01:30:47.60
+(Vocal improvisation continues)
+
+01:31:17.05,01:31:19.00
+(Electric guitar improvisation)
+
+01:31:47.77,01:31:49.68
+(Cheering and applause)
+
+01:32:26.53,01:32:28.84
+(Cheering and applause continue)
+
+01:32:41.05,01:32:43.04
+(Cheering and applause continue)
+
+01:32:49.37,01:32:50.40
+Hi.
+
+01:32:53.37,01:32:54.40
+Hi.
+
+01:32:55.49,01:32:59.00
+(Excited cheering and applause,[br]distorted sound effects)
+
+01:33:16.53,01:33:19.17
+(Cheering and distorted sound effects[br]continue)
+
+01:33:34.89,01:33:37.20
+(Cheering and applause continue)
+
+01:33:51.09,01:33:54.24
+(The Revolution begins playing[br]rock song I Would Die 4 U)
+
+01:34:03.37,01:34:05.56
+"I'm not a woman[br]I'm not a man
+
+01:34:07.05,01:34:09.77
+"I am something[br]that you'll never understand
+
+01:34:10.25,01:34:12.56
+"I'll never beat u[br]I'll never lie
+
+01:34:13.77,01:34:16.60
+"If you're evil I'll forgive you by and by
+
+01:34:18.41,01:34:20.00
+"I would die 4 u
+
+01:34:21.93,01:34:23.80
+"Darling, if you want me 2, u
+
+01:34:25.13,01:34:26.72
+"I would die 4 u
+
+01:34:30.65,01:34:32.16
+"I'm not your lover
+
+01:34:32.41,01:34:33.92
+"I'm not your friend
+
+01:34:34.17,01:34:37.05
+"I am something that[br]you'll never comprehend
+
+01:34:37.45,01:34:39.64
+"No need 2 worry[br]No need 2 cry
+
+01:34:40.89,01:34:43.28
+"I'm your messiah[br]and you're the reason why"
+
+01:34:43.37,01:34:44.28
+"'Cuz u
+
+01:34:46.01,01:34:47.57
+"I would die 4 u
+
+01:34:49.53,01:34:50.96
+"Darling if u want me 2
+
+01:34:51.05,01:34:51.92
+"U
+
+01:34:52.77,01:34:54.28
+"I would die 4 u
+
+01:35:11.37,01:35:14.68
+"You're just a sinner I am told[br]Be your fire when you're cold
+
+01:35:15.13,01:35:18.60
+"Make u happy when you're sad[br]Make u good when u are bad
+
+01:35:18.89,01:35:20.53
+"I'm not a human[br]I am a dove
+
+01:35:20.61,01:35:22.44
+"I'm your conscious[br]I am love
+
+01:35:22.57,01:35:25.04
+"All I really need is 2 know[br]That u believe
+
+01:35:26.65,01:35:28.29
+"Yeah, I would die for u
+
+01:35:30.05,01:35:31.72
+"Darling if you want me 2
+
+01:35:32.09,01:35:32.88
+"U
+
+01:35:33.73,01:35:35.05
+"I would die 4 u
+
+01:35:37.13,01:35:38.53
+"Yeah, say one more time
+
+01:35:38.61,01:35:39.40
+"U
+
+01:35:40.45,01:35:41.77
+"I would die 4 u
+
+01:35:43.61,01:35:45.28
+"Darling if you want me 2
+
+01:35:45.65,01:35:46.44
+"U
+
+01:35:47.05,01:35:48.69
+"I would die 4 u"
+
+01:35:48.77,01:35:50.84
+(I Would Die 4 U continues)
+
+01:36:26.65,01:36:29.40
+(I Would Die 4 U continues,[br]audience sings along)
+
+01:37:14.17,01:37:15.52
+(Audience cheers)
+
+01:37:27.25,01:37:28.89
+(Baby I'm A Star begins)
+
+01:37:46.05,01:37:48.28
+(Audience cheers and claps to rhythm)
+
+01:37:58.65,01:38:00.00
+"Hey look me over
+
+01:38:01.77,01:38:03.64
+"Tell me do u like what u see
+
+01:38:05.25,01:38:06.92
+"Hey I ain't got no money
+
+01:38:07.85,01:38:09.92
+"But honey I'm rich on personality
+
+01:38:11.85,01:38:13.36
+"Hey check it all out
+
+01:38:15.05,01:38:17.04
+"Baby I know what it's all about
+
+01:38:18.25,01:38:19.68
+"Before the night is through
+
+01:38:19.77,01:38:21.60
+"U will see my point of view
+
+01:38:21.73,01:38:24.16
+"Even if I have 2 scream and shout
+
+01:38:24.45,01:38:26.04
+"Baby I'm a star"
+
+01:38:26.33,01:38:28.40
+(Baby I'm A Star continues)
+
+01:38:34.65,01:38:36.29
+(Audience cheers)
+
+01:38:44.45,01:38:46.20
+(Baby I'm A Star continues)
+
+01:39:40.45,01:39:42.09
+(Audience cheers)
+
+01:40:11.45,01:40:13.09
+(Audience cheers wildly)
+
+01:40:33.25,01:40:36.40
+(Instrumental improvisation[br]of Baby I'm A Star continues)
+
+01:40:43.05,01:40:44.69
+(Audience cheers wildly)
+
+01:41:25.89,01:41:27.53
+(Audience cheers wildly)
+
+01:46:22.05,01:46:24.44
+Subtitles conformed by SOFTITLER
