@@ -1,0 +1,1717 @@
+seems like we've had
+
+a temporary outage
+and there may be
+some issues
+with the internet now as you may know
+and remember the internet called
+yesterday
+and he didn't sound well he sounded slow
+so we must keep in mind that he may be
+having problems today
+that said let me pick up from where i
+left off
+ds-106
+as a tv show
+starring me dr oblivion
+is in need of some
+introduction
+some sort of bumper
+kind of like you'd see on shows like the
+wire
+game of thrones
+etc
+so if anyone out there is interested in
+creating
+some sort of introduction
+to the dr oblivion show i would be
+greatly
+greatly appreciative
+i would do it for i'm a master of all
+things media
+but at the same time i'm a busy man
+reading
+and thinking
+about the bigger concepts
+that's right i'm a concept guy
+now
+back to the point today
+we will be discussing
+an essay
+in two videos
+the essay by gardner campbell
+personal cyber infrastructure
+and gardner campbell's video that he
+delivered at open education in 2009
+no more digital faceless
+thinking the unthinkable
+and more recently
+michael washes from knowledgeable to
+knowledge able which was delivered here
+at the university of mary washington in
+may
+there have been many responses to these
+essays and videos or essay and video
+and i read your responses on the
+blogosphere
+and
+i'd like to
+call up a few of those responses
+discuss a few of those responses
+and then hopefully
+through skype and i'm not sure if this
+came through clearly earlier or if i was
+disconnected
+but skype is now enabled within the
+broadcast
+so when and if you call me
+via skype
+or you call my teaching aid jim groom on
+skype and his name is jim groom on skype
+we will be able to bring you directly
+into the broadcast
+and this will allow for some discussion
+between you
+and dr oblivion
+to the comments and reflections on the
+pieces we'll start with gardner campbell
+and i have a few notes here
+one of the interesting
+immediate reflections
+came from kenzie brooks in her blog
+and she brought this idea up about
+gardner campbell's
+video
+no more digital facelifts
+she said
+one idea
+that campbell had
+was in quotes finding my unmet friend
+that is one of the accomplishments that
+i want to make after this five-week
+course
+and i start with this quote in
+particular
+thank you kinsey for bringing that to my
+attention
+because when we think about gardner
+campbell's both his video and his essay
+we could get bogged down in the
+technical
+information what is an lms
+what is a ple
+what do these acronyms mean
+well quite quickly an lms is what we
+might term a learning management system
+often conflated with this idea in this
+company blackboard
+a ple is a personal learning environment
+also termed a personal learning network
+now rather than worrying so particularly
+about the tools
+and these definitions of environments
+and technologies
+i like that kinsey focuses on this idea
+of what they afford
+this idea
+that gardner brings up quite brilliantly
+in his
+discussion of no more digital faceless
+of meeting that unmet friend
+of making a series of connections
+that many other environments
+and under different conditions that may
+not be open
+would not be possible
+and it's this idea
+not of the reality
+but of the possibility
+of what an open
+online network
+wherein students
+and faculty
+manage
+control
+and think through
+their own work
+where we have some very powerful
+powerful possibilities
+gartner campbell's essay
+in many ways
+is the model
+technically
+in terms of environment
+for how ds-106 imagines it
+many of you
+who started ds106 in fact started ds106
+a week before the class actually started
+you've got your own
+cpanel web host
+your own domain
+a series of social networking accounts
+from twitter
+to youtube to flickr
+and all these accounts
+in all these different
+spaces or shall we say social spaces
+in fact taken together and as you infuse
+them with ideas and art and life
+begin to reflect a part of who you are
+begin to reflect what some people say is
+a part of what you call your network
+you're framing a network out in the open
+for far too long the university has
+imagined this process of teaching and
+learning as an isolated
+removed process it's the idea of ds106
+not only to make this an open connected
+and social process
+but to bring you
+into a state
+of considering
+and building upon a digital or online
+identity
+in that regard
+the personal cyber infrastructure
+becomes the architecture whereby
+you can build
+and in many ways articulate technically
+a space that you exist within
+in the ether
+this is powerful
+and it's powerful particularly for this
+idea of education
+one of the problems
+as we continue
+with a 19th century model of education
+well within the 21st century now
+is that we are further and further
+removing
+the process of thinking about these
+tools and technologies of control
+as critical
+citizens
+by putting those tools within the hands
+of both faculty
+students
+and i would say even staff
+we would hope
+that despite potential difficulties and
+difficulties that many of you noted
+within your blog posts and that it will
+address but despite those difficulties
+and potentially technical obstacles
+that there is a way
+whereby
+you become more familiar
+with these tools
+how they operate
+and how in many ways they shape the
+environment within which we find
+ourselves
+david gury
+brought up a point
+it's an interesting point and one that i
+want to address in his blog post
+david mentioned
+that
+newspapers magazines journals in general
+are undergoing an idea or crisis
+and that crisis in many ways is based on
+their attempt to do a digital facelift
+to take what was in print
+and reimagine it
+for the online media
+now what he notes and when i was a bit
+puzzled by
+is that in fact universities are
+exceptional
+they don't necessarily fall in to the
+same paradigm as something like a
+newspaper and a
+magazine but if you think about the
+question he's bringing
+newspapers journals
+magazines
+they deliver an argument they deliver
+information
+they deliver a frame to which we
+understand our world when you think
+about what universities and colleges do
+it's quite similar
+they deliver this idea
+of information
+this question of a transferal of
+information but as michael wesch notes
+in his video
+when information is as abundant
+as it is in our moment and never before
+has it been this abundant
+is the role
+of the university
+to impart information
+or is the role
+to help students filter
+understand and critique that information
+therein
+lies a critical difference
+and this idea of exceptionality that
+david points out with the university
+can only be grounded
+and justified
+if the university understands the
+changing nature of information in our
+day and age
+i think gardner campbell
+to get back to his point
+is making the case
+that they haven't changed that like the
+universe like the newspaper
+or the journal or the magazine
+they've attempted to do a digital
+facelift for the online
+they pretended to
+graft
+what works in the physical environment
+on top of the
+virtual environment
+and therein
+lies some of the problems
+now andrew whitfield in his blog notes
+well let me go before andrew
+let me talk to teddy roosevelt whose
+name i very much appreciate
+teddy roosevelt says the following in
+his post
+by exposing only those who are willing
+and interested
+the infrastructure is able to grow and
+support itself
+referring to the cyber infrastructure of
+and potentially and hopefully
+thrive
+maybe eventually being introduced to the
+entire student body
+and members who are already active
+to help lead the way and employ a sense
+of cool in quotes
+that is necessary to invoke
+any legitimate interest
+especially when it comes to college kids
+teddy roosevelt
+was a little bit skeptical as many
+students out there were and i hope this
+is part of our conversation as you call
+in via skype
+we're a little bit skeptical
+about the idea
+this cyber infrastructure this personal
+cyber infrastructure would ever take
+hold
+whether it would ever be possible
+and there were these questions that
+maybe you could do it for a class like
+we're seeing here in ds106
+or for a select few classes but how
+could this be used across the university
+how could this be used as a space for
+several
+classes
+well one immediate reaction i have to
+is how can we not think of a digital
+space that you control and maintain
+online
+wouldn't be an archive of all the work
+you've done as a student
+as a space where you could manage
+control and preserve your work
+for me that seems obvious whether or not
+the professor is using these tools
+the other question
+and this is a good question
+is this idea of cool
+how does a system
+how does a framework for technology at a
+university
+be understood in terms of cool
+well the cool factor is a
+difficult one to measure and to control
+i understand that
+but at the same time
+i think by
+encouraging
+this space
+and by employing
+the idea
+you need
+to work through
+a space that's yours
+and understand that this space is
+something that will frame
+who you are as a student
+as a scholar
+is something that can be encouraged
+but something that can never be in some
+ways mandated
+if you think about the university of
+mary washington
+you think about what they've done with
+their blogging system
+one of the things
+that has made it
+by some degree successful
+is that it was never a mandated system
+it was a system that faculty chose to
+use or not to choose now students may
+feel differently about that some of them
+may have from class to pla class been
+mandated to use that system
+but at the same time this question of
+cool is an interesting one
+that is brought up by teddy roosevelt
+and it's one that i think ds-106 is
+trying to impart
+this idea that this space need not only
+be
+a dry
+fluorescent lighted
+room
+like the lms
+but can be something that you infuse
+with a piece of who you are
+and what you represent
+and what you stand for
+this question of identity
+has come up again and again
+in your responses
+to both the essay and the videos so we
+will address that but before we do i
+want to get to a point made by andrew
+whitfield
+in his post
+and i quote
+new age of education
+is programmed for discovery
+rather than instruction
+and that's
+andrew
+quoting directly from gardner campbell's
+discussion
+of no more digital facelifts
+let me repeat that
+the new age of education
+excuse me one minute
+of discovery
+as opposed to instruction
+places both the student
+and the professor
+in a profoundly different role
+than what we're used to
+this role
+would ask the student
+to become an active
+engaged learner
+where they take control
+of what they're thinking
+of what they're exploring and they make
+it relevant
+to a topic for a particular class
+at the same time it will require a
+faculty member in many ways to let go
+of certain ideas
+of expertise
+of
+how do we say
+coverage
+and the idea that you're becoming
+a reference point
+you're becoming a guide a mentor
+along the lines
+of discovery and exploration
+and you both encourage
+and infuse that process
+with some kind of
+passion
+for what's going on and the same would
+be expected of the students
+what we have now in some ways
+is an understanding of transferal
+you come you pay your money to get a
+certain thing
+and whether that thing is a certain bit
+of information to get you through the
+test
+or an actual credential so that you make
+money
+in many ways is a sign of the
+bankrupting
+of the passion and the system
+as it is
+let's face it
+universities long ago
+have become
+not so much
+a
+space
+for true deep scholarship and rigor
+they become a space
+for creating the next
+class
+of the professional worker
+and that is something we need to balance
+particularly as the money for these
+universities becomes increasingly
+increasingly
+inflated and expensive
+but let me get on to this point
+andrew goes on to say the main reason
+that i like this quote so much
+and that quote again was discovery
+versus instruction
+because with all the new types of
+communication
+and information
+that is becoming available for everyone
+around the world it really allows for
+students to go off on their own
+to learn and to discover
+all of these new topics
+and put as much enjoyment
+and passion into it as they want
+now my question to andrew
+and to anyone out there
+is how many of you find yourself in a
+class on a regular basis at the
+university level
+where you can do just what he says
+you can
+go off and learn and discover
+on topics
+that you enjoy
+and put as much passion as you like
+i would ask is this the norm
+or is this the exception
+and if the latter
+why
+it's an excellent point that andrew
+brings to light
+and my question for it would be
+are we in many ways cultivating
+this approach to education right now
+chelsea
+has another point about gardner
+campbell's point
+and we do have a question from the live
+chat so i'll take a moment to address
+that question
+this is from tech savvy ed tech savvied
+thank you for joining us today
+so
+if umw blogs was successful because
+individuals could choose or not
+does that make all forms of media
+publishing successful based on the
+individual
+this is a very interesting question
+and it brings up what i think
+is a very problematic idea of the
+versus the reflection of that individual
+through a community
+let me explain to you what i say because
+this is a point that's going to come up
+as i get to more of the students points
+in their posts
+if an individual believes
+that umw blogs for example
+is the way to go
+because that's a particular way to
+approach teaching and learning and
+you're of course going to have a few
+individuals who want an alternative to
+something like an lms
+you could have a beginning a starting
+point
+and those individuals in many ways don't
+act alone
+they act in relationship to a group like
+the division of teaching and learning
+technologies at umw
+other faculty who they've talked to
+so what you have is maybe a series of
+inspired individuals who get excited
+i think what makes it successful
+tech savvy ed
+is a series of excellent examples
+that people have done and demonstrated
+its power
+at that point those what we might call
+front runners
+outliers however you want to define them
+they begin to create
+a model that other people can see the
+value of and join on
+now those individuals who ultimately
+make the
+decision to join on that process
+we understand them the same way of the
+or are they kind of framed by the
+practice of others
+i think the idea of the individual
+and the space for the individual is a
+powerful one
+but one of my fears of it and one of the
+dangers of it
+is it pretends that what we're arguing
+for
+is this kind of isolation and alienation
+of the individual it's kind of holding
+up of just a few great individuals who
+are changing everything
+and i'm not sure that's the case
+that's something
+i'd like to think more about
+i do think that these things happen
+communally
+right or at least culturally
+and there are a few people who might
+reflect that
+at its deepest
+but in many ways
+many of us
+as a culture are having to deal with
+these shifts
+right and it's reflected in all parts of
+our culture whether it be popular music
+movies
+video games
+everywhere around us those narratives of
+the shift are working themselves out
+right now
+so to put it in one individual
+in many ways might reduce it
+to a theory of history that often
+creates the great man or woman
+when i think this is a cultural issue we
+all need to deal with
+on an individual
+level in relationship
+to the world outside of us and that
+we'll get to some of the points about
+identity that come up shortly thank you
+for your question tech savvy ad
+now chelsea
+in her blog post
+talks about gardner campbell
+in his lecture
+no digital facelifts
+and sa a personal cyber infrastructure
+gardner campbell acknowledges
+the issues present in the classroom and
+argues doing away with outdated
+technology will remedy the problem
+although
+we'll see if that's exactly what he
+noted i feel as though campbell's
+proposal is unrealistic this was a
+common feeling among students
+and too far to the other extreme
+to be effective
+the current classroom structure is too
+much of a contrast to an environment
+that is entirely web based
+although it may seem appropriate
+considering our technological dependence
+i don't think the world is ready for
+such a change
+to my understanding the cyber
+infrastructure campbell refers to
+in his essay can be compared to the
+various identities we have established
+for this course
+although having a course entirely online
+works in this situation i don't think
+this method would work with every course
+thank you for your thoughtful comment
+and i don't
+necessarily think
+that we need say every course should be
+either face to face or online
+and i'm not exactly sure that's what
+gardner campbell was arguing
+either in his essay
+or in his presentation
+what i would suggest he was arguing is
+that every student and faculty member
+should have some virtual space that they
+both control and maintain
+as both an archive it's both of a space
+of collective expression
+and as a space for networking with
+others online
+now more and more whether we like it or
+not
+i think we are going to see the
+classroom experience at least begin
+experimenting with the virtual space
+and part of the process of ds-106
+is to imagine what the limits of those
+experimentation are
+and i think one of the problems of the
+lms
+that gardner campbell
+is reacting so strongly to
+is
+the lms becomes a predetermined
+environment
+wherein
+the exchange logic of education is
+reflected within the very code and
+architecture of the space
+thereby the spaces in many ways shape
+the experience
+i believe that gardner campbell is so
+passionate about the idea of giving
+students and faculty their own space
+because in many ways this may be one way
+out of what has become the dominant
+and some might say hegemonic logic of
+the learning management system
+to control the space with which in we
+learn
+and by extension when you control the
+you control the experience
+and by controlling the experience
+you in many ways shape
+the education process through the
+technology
+by imagining new ways
+by exploring new possibilities
+even if they may seem radical as for
+many they many of you they did
+they still open up a possibility and an
+opportunity
+excuse me
+thank you very much chelsea for that
+thoughtful comment and i hope i
+addressed it
+in some ways now we have another
+question from the live chat
+so let me take a moment to answer that
+first i'll ask it then i'll answer it
+cheryl colin
+thank you for your question and here it
+dealing with shifts culture etc
+wesh never would have gotten so far with
+his ideas
+had he not let his students help him get
+there
+this is a wonderful comment
+and i would only say absolutely
+the fact that michael wesch worked
+together with his students to not only
+create the videos but to reimagine his
+and he asked for their trust and
+participation
+in many ways changed that dynamic of
+exchange
+it did not become the professor gives
+you something and you become the
+receptacle
+of that kind of sacrosanct
+rather
+you become part of the process of
+building and developing the experience
+the resource and the relationships
+so i couldn't agree with you more cheryl
+and we will get to wesh in more detail
+shortly thank you for your comment
+shaina moreland
+speaking again about gardner campbell's
+essay says the following
+i especially loved
+gardner campbell suggesting about the
+increased advancements in technology
+that they not only prove a new way of
+education
+they also provide the student with more
+freedom and more power
+over the way they learn
+and this
+is the idealistic hope
+but it depends upon students
+who want to be empowered
+and who want to take more control over
+the way they learn
+is the problem
+that is potentially the solution
+and we have to understand that we are in
+a system
+whether it be through k through 12 and i
+would argue now most of the universities
+where
+less and less empowerment
+for students
+to kind of frame shape
+and explore the way they learn
+is at their disposal
+more and more
+we have standards of learning we have
+predefined ideas of what one does need
+to know and how they need to know it
+and in many ways do those standards get
+in the way of this idea
+that shayna brings up a freedom and
+power for the student
+that's a question i'll throw back to you
+it's an interesting one in many ways
+it's at the heart
+of both of these gentlemen's arguments
+empowering students
+in an age where the media and the
+information affords that empowerment
+like never before
+katie sterling
+another member of ds106
+ask the following
+or suggest the following
+students become more open to the world
+themselves the more they are able to
+identify themselves and put themselves
+out there
+the internet allows them to create their
+identity and show it to others
+this is an interesting point
+in this idea
+of creating one's identity
+and it's a point i'll come back to in a
+little bit
+but this idea of framing shaping who one
+how one experiences the world
+through a medium whereby you may never
+meet
+physically the other person
+that allows for people to do fakery
+it allows for potentially people to
+pretend to be someone they are not
+it affords the space an opportunity
+to think about how other people see you
+even if physically they don't see you
+and what that might mean
+it allows us to not only think about the
+medium but to become part and parcel of
+that medium through which we communicate
+this brings me to one of the first
+points that someone raised about michael
+wesh's video
+and this comes from
+kinsey brooks
+she says this and for her
+it was a
+how do i say it a groundbreaking moment
+kinsey brooks says
+identity is what is reflected back to
+you and after that she notes she always
+thought identity was something that was
+essential to the individual right your
+identity is something that was whole
+it's not something that was determined
+by
+the features and people and reactions
+around you
+and this question that michael wesch
+raises it's very powerful and
+interesting question that your identity
+is reflected back to you
+to the people around you was quite
+powerfully brought home
+when he talked about his experience in
+new guinea
+and he talked about how his identity and
+how he had defined himself
+as a westerner
+more particularly as
+an american
+had changed dramatically over his course
+of study in new guinea and how the
+environment and how the people around
+them
+changed his sense of who they are
+and who he was
+well how could that be any different
+than us framing and thinking and shaping
+our sense of identity as we move into
+what might be considered
+a completely different world
+a virtual world
+a world where we have to even be more
+self-aware
+a world where we have to be even more
+cautious in some ways
+about how we frame who we are
+this is a very interesting point and it
+gets right in my mind to the heart
+michael wesh's
+understanding of why media
+and students creation consideration and
+critiquing of media
+is so crucial in our moment
+david gury brings up another point from
+michael wesh's video he says
+michael wesch brings up an excellent
+point about modern education it's aimed
+to make people knowledgeable
+getting to the whole
+title of this talk
+but that's no longer what really matters
+knowledge that is information
+is everywhere now
+and what's important
+is not so much obtaining it
+but learning how to filter it
+wesh brings up some excellent points
+about the implication this has for
+today's learning environment
+and this is a point we discussed earlier
+when we were talking about
+the journals and magazines and
+newspapers versus the university
+and so if the university's main mission
+of imparting information
+is no longer what's necessary
+given the moment we live in
+then this process of filtering
+of helping students critique and
+understand that information is what
+becomes its mission
+and the fact is is that we live in a
+media landscape right now that is
+dominated as much by text as it is by
+images audio and video
+and one of the questions at the heart of
+ds106
+is how do we in this particular
+think about our learning environments
+differently
+this is a large question
+this is one that we have to wrestle with
+but i do believe that this question of
+being knowledgeable of being able to
+filter to critique
+and consider the information that we do
+get on on the internet is extremely
+important in this day and age and once
+again one of david one of michael wesh's
+very powerful points
+exe herrera says the following
+what hit me the most
+was the discussion about identity this
+question of identity comes up again and
+again both in gardner campbell's
+discussion as well as in michael wesh's
+when he spoke about his experience in
+it made me realize that media is part of
+my identity
+whether i like it or not
+it forms and continues to bond people
+with one another
+in forms that people perceive to be
+their identities
+it actually brings up a very powerful
+the ways to which media
+and the medium
+frame
+our understanding of not only
+relationships but who we are
+it is that point of awareness
+that understanding
+that the media is not simply something
+we consume
+it is something we internalize
+it is something that becomes part and
+parcel of who we are and by extension
+it is something through that process
+that we shape
+it is not a unilateral process in either
+way
+as we often define education as
+unilateral as the transaction of
+information from one person to the next
+in fact it is far more complex
+it is a constitutive process
+that acts both on the receiver
+which reinforces the idea of the process
+and reimagines the process take for
+example
+in our particular moment
+a tv show like lost
+what was unique about lost
+well with the new tools we have
+there became a lost a pedia
+a wikipedia
+like
+site dedicated to lost
+and this is where fans did intense
+research
+to think and imagine
+what lost was doing where the
+inconsistencies in the plot were
+how it actually as a show was being
+shaped
+and what started to happen is those fans
+those consumers of the show
+started to inform how that show would
+develop
+which started to question the writers
+and started to question their
+consistency and there's a lot of
+consistency problems and lost believe
+you me
+well this became a place where the
+audience wasn't just passively watching
+the show
+and i don't think the idea of consuming
+is ever a completely passive process
+but they had the outlet
+to interact
+to question to challenge and to many
+ways shape the show and the medium
+it's interesting
+this is more and more going to be the
+case as we move forward
+and my question would be how is
+education harnessing this power
+so this question of identity and media
+shaping this identity is key thank you
+for that point
+xc
+again back to andrew whitfield who notes
+the following
+he talks and he referring to michael
+wesh about this generation of learners
+being tuned out
+and when he discusses this with his
+he finds that 50 percent of education
+school
+as a whole
+but all of his students like to learn
+so how do we how do we understand
+the idea that while 50 of his students
+do not enjoy school
+all of them enjoy learning
+where is the discrepancy
+where is the disconnect
+where is school
+failing
+to inspire
+and to encourage
+and to make students passionate about
+learning within these institutions
+how have the institutions gone about
+denaturing
+learning
+from school
+have gone about in many ways making
+education about everything but
+this is in many ways at the heart
+of how school as an institution operates
+has the institutionalization
+of school
+has the attempt to make it more
+efficient more tailorized more
+streamlined
+to serve the ultimate end of
+accreditation
+to serve the ultimate end
+of degrees
+in many ways killed its original purpose
+as in many ways made it
+somewhat
+unknowable to itself anymore
+has its own identity
+been turned to crisis
+for it doesn't really know what it
+represents
+this is a question
+and it's one i believe
+when i talk
+when wish talks about this complete
+disconnect between students
+learning brings a point that i think we
+as professionals
+both as professors
+and as students
+need to think about we need to
+understand how do we
+create this space and how do we rethink
+it for
+we could say it won't happen in our
+moment
+but for many it should have happened
+long ago
+another point this will be the final
+point i bring up from students reactions
+to wesh and gardner campbell's essays
+before i take skype calls and there are
+some questions in a live chat i will get
+to shortly
+this is from misibu
+both these thinkers
+are great participants in paulo
+ferrari's theory of how education should
+do not just bank information into
+students heads
+i want to thank
+misibu for bringing up paolo ferrari i
+think para ferrari in many ways
+has laid the groundwork
+for much of the educational
+reform
+whether it might be radicalism
+another thinker who we could put in
+there is ivan illich
+and his whole idea of de-schooling
+society
+these are two thinkers who in many ways
+have consistently been critiquing
+the educational structure
+and the institution for decades
+from the 60s through
+and frere as you refer to him this abu
+is in many ways
+suggesting that school as it has been
+suggested
+is really
+about a banking concept of knowledge
+the idea of exchange
+from one student or from the professor
+to the student
+the idea of the oracle
+and the receptacle
+and i do believe miss abu you were right
+both
+campbell and wesh are reacting to this
+model in fact wesh in his talk quite
+brilliantly
+illuminates the moment where he
+understood that he was a dynamic
+professor he understood that he could
+seduce
+his students in some way
+to enjoying what he was doing and he
+could have gone on like that
+but at the same point this idea
+of being
+professor who's dynamic and passionate
+and can communicate well
+did not change the nature of the
+questions from his students
+and it's at this point that he scrapped
+what he was doing and he decided to
+bring them into the endeavor
+that's not only a powerful move on his
+poor part but it's also
+a moment where he is breaking
+directly
+as you mentioned ferrara from that point
+it's a powerful one
+it's well brought up now we do have a
+question from the live chat so let me
+turn to that now
+okay so this is from abby thank you for
+commenting abby
+and she says
+where are instances of communicating
+with various pressers professors
+what is the way out
+and how do you propose
+this way with a rapid advancement of
+technology now if i'm reading your
+question right abby and let me know if
+i'm not
+of communicating with professors and
+various professors has changed
+dramatically with technology
+and i believe
+one of the things that have come up and
+i've heard
+again and again is that professors are
+not prepared to deal with the instant
+in many ways dr oblivion through his
+technical assistant jim groom
+is constantly
+communicating with students
+in an online environment like this
+part of the expectation
+in our moment
+is that you will have rapid feedback
+that you will have instant feedback
+that the physical space where you get
+that in the classroom
+in many ways changes when you move to
+the online space
+if you're doing a class online
+you should have
+if not yourself
+some mechanism like a gym groom
+whereby you can communicate immediately
+with students
+you can actually
+interact with them not simply
+in our traditional privilege model of
+the face-to-face classroom but also
+online whether it be through email
+twitter
+or a series of other forms
+what i'd like to actually communicate
+or talk to a little bit is some of the
+video responses we've gotten
+via
+youtube and yet another way to
+communicate
+both leel zebub and shanotate did a half
+hour three set series in response
+to the good doctor oblivion
+and what they basically argued and
+talked about was their reflection upon
+wesh
+upon the changing nature of education
+and through this medium
+they became
+and given a space to speak
+and not only that through the idea of
+video as you're experiencing right now
+they became embodied in some different
+way in some different form
+chelsea also experimented with the video
+as did tim owens
+as did shel cullen
+and this idea of the video response is
+not something i only want to kind of
+applaud but i want to encourage
+i think this idea of a voice
+right now dr oblivion's voice which
+until we go to skype will seem somewhat
+unilateral
+somewhat monotone
+somewhat more of the same
+i think we can change this
+if you begin to take over the broadcast
+if you begin
+to interrupt
+and interact
+and override
+any one
+sensibility
+for dr oblivion
+is always already mediated
+and you have the same privilege to
+mediate your opinions and thoughts
+and is up to you to take that
+i am going to turn
+to the skype calls
+i would actually i will be accepting
+calls
+but in the meantime
+there's a couple of things i want to
+talk about
+until someone
+is brave enough
+to call oh we have a call
+so immediately
+we have a call and let's go
+let me make sure i have it
+okay give me one second
+and i will
+bring over
+okay
+and let me try this
+excellent
+great
+abby can you hear me
+correct
+okay let me see can you still hear me
+yes i can
+let me there might be a little bit of an
+echo
+abby can you hear me yes can you hear me
+yes okay good okay
+and here you are do you have a video
+camera you have a video camera yes i do
+yes
+we got this is it done
+yeah give me one second
+we got this echo though
+i thought i had this figured out
+oh great
+okay let me try this
+all right let's see if this works
+okay what's your question abby
+well i guess that um
+so far what i've gotten from the class
+is that oh i'm gonna take this out
+because i can't hear you
+dr oblivion is having problems
+hello hello hello hello yeah yeah
+so i see that we keep pushing for
+much more virtual communication in the
+classroom
+however
+in classes that i have been where
+the only means of communicating with the
+teacher is
+through the media or through other forms
+of technology
+there have been so much problems with
+maybe language barriers
+miscommunication and then
+it's just being a little
+confusing after meeting the person face
+to face
+to talk or ask a question
+and i know that one of the reasons one
+of the things that i realized was
+because
+i'm african i'm an african and i have an
+accent i have an accent and i write
+so when i'm not talking to you but i'm
+not emailing or i'm talking with you i
+may ask a question that may come across
+that you may interpret differently
+and i feel like we are pushing
+for so much more special communication
+but we are not doing much to solve these
+problems of language barriers and
+miscommunication between the center of
+the message and the receiver of the
+message
+so for you
+in relationship to both wesh's and
+gardner campbell's what are some ways at
+that problem
+to change the way we communicate through
+these virtual spaces
+yes and not to make it
+not to make it the only source of
+communication out there i think that it
+should be an alternative to the
+face-to-face
+communication that we are all like the
+traditional forms of communication that
+we have right now
+so what what would be a way like for
+you skyping in
+to communicate
+you could never see dr oblivin face to
+face
+but right now we're still mediated
+through the camera
+and does that still represent some
+particular problems
+it does i think that this helps a lot
+but i'm talking about scenario where i
+don't have the option to type with you
+where i can only live chat
+or i don't even have an internet service
+to get through to you
+i we we we're pretty much focusing and
+pretending that everybody has internet
+access
+and everybody has the technology called
+know-how to communicate through
+media
+let me ask you this abby
+given our moment
+when so much of that communication is
+being mediated
+through the
+internet and i would imagine much of
+your
+courses maybe outside of ds106
+don't particularly ask you
+to use your computer in the same way to
+actually go through live chat twitter
+youtube
+skype
+whatever you have
+how can this
+in many ways be a space for you to start
+exploring
+and imagining what it means and the
+challenges that are represented by
+communicating to this medium because
+we can't pretend that this medium is
+going away
+in fact it's going to more and more
+dominate the world in which we live
+so part of the experience of this class
+in my mind
+is for asking you
+and all the students out there
+to frame a voice
+an identity
+whereby you can communicate effectively
+using these tools now you're right
+it does assume
+an internet connection
+that we are online
+how do you
+consider that as a challenge
+and as a way to kind of work through
+that like you would work through trying
+to write a paper for your first time
+it it's probably a question that i i
+would be able to answer more by the end
+of the class
+but right now i think that i think that
+i wouldn't make it the only option out
+there for communicating
+more avenues of even virtual
+communication should be explored
+depending on the situation of maybe the
+receiver or the sender so to answer your
+question i think that i would be very
+i'll give you a much more effective or
+efficient answer in probably the third
+or fourth week of the class
+well i have
+so much so much more
+let me ask you this
+with an option of say not writing
+a blog post
+but responding through a youtube video
+that you record
+or through becoming into these
+daily doctor oblivion lectures
+as a commentator
+or as a way in many ways to come through
+they're much shorter
+to speak through
+which we're going to be doing shortly
+pictures pictures audio audio video
+communicate something in a space that's
+quite different from we're used to in
+the university environment which is
+usually the research paper a certain
+amount of length
+right a literature to review a certain
+my question to you would be
+where do you think
+you want to explore
+and build upon a kind of means of
+communicating that in many ways we will
+not however we frame it
+meet face to face
+so what tools will you bring that you
+know about
+to change that mode of communication
+that works for you
+that to me is one of the great
+challenges of this class what i like
+about it in relationship to campbell and
+is the responsibility now falls back to
+you
+no one's saying you can't use any tool
+the tool you choose
+the ones you experiment with
+even if they fail
+doesn't mean you will fail
+it means you've been living to the point
+of this class which is exploring
+and experimenting with
+how you represent
+yourself effectively online
+that to me is
+one of the greatest possibilities this
+is an experimentation
+you are being asked and encouraged to
+experiment
+you you're throwing so many hard
+questions at me considering i'm not
+the most
+technological co-adviser out there bed
+it sounds like a pretty good thing to me
+i would use
+i'm pretty happy about the whole idea of
+making a video
+and maybe blogging
+i step that i think that with a whole i
+have a problem with a video if i'm
+answering your your question correctly
+with a video because
+there are times when
+there's a presence of having
+a camera in front of you
+even makes you nervous
+when i'm blogging
+i have my i'm in the comfort of my own
+and i can pretty much put everything out
+there and i don't have my faith
+for the whole world to see
+so i feel comfortable knowing that
+whatever information i'm putting out
+there is not for ya
+i'm not trying to watch what i say
+because if i should say it in a certain
+way people see my face and people might
+actually end up commenting on my
+appearance in sort of the information
+that i'm putting up here
+so for me writing login will be like the
+best way
+to communicate something out there not
+necessarily with a video the video can
+be some sort of a plus
+in addition to what you blog if you have
+anything extra to say or if you want to
+live chat with people and then ask them
+hey what is your take on what i blogged
+then the whole idea of the of the video
+can come in because for me this is very
+different i think that
+i i'm i'm learning more about myself by
+actually taking this class because we
+have to do video chat and then i have to
+myself a scene issue for my
+personal issues aside and then do it for
+steps of the class and by doing that
+upgrade
+as well
+and one of the things you bring up
+that i really like abby
+and i think gets to the point of this
+is at some level
+it should ask you and you should ask it
+if it is a thing
+what it means
+to communicate through a medium of
+expression
+and what that means for us every time
+we're communicating arguing to at the
+same time consider how that reflects and
+builds and imparts upon our identity
+i think it's something that we kind of
+assume as we go through university
+but one of the most powerful most
+powerful things about university
+is that it's a unique intense
+space and time period
+that shapes who we are
+that is part of the building of an
+and i think being reflective about that
+process
+at a point for a specific period of time
+can be very useful
+as you move forward
+so i would think about the very things
+you're talking about do you communicate
+better through the text in the blog
+what are the challenges for you with
+video or communicating through images
+or sound
+but reflecting on that process
+there's no one right way to do it
+but there is a kind of intensive
+practice a personal and hopefully a peer
+network feedback
+that can hopefully benefit you
+and i'm excited about that because i'm
+not putting limitations on you
+how you do it
+how you imagine it but i'm asking you to
+engage it
+and to consider it
+and reflect upon that process
+now jim groom might have different ideas
+but dr oblivion
+believes that in many ways this is the
+kind of point of this class
+that makes sense
+it does make sense very helpful very
+helpful
+well thank you abby for calling in you
+are our first
+official caller
+on dr oblivian's tv show
+so even though you have problems with
+video you do it quite well
+thank you thank you all right thank you
+abby thank you
+and i'm not sure if we have any other
+callers
+i want to experiment
+with
+series of
+images
+julia forsythe had been
+experimenting with well actually this is
+stella meme
+so let me see if i can get this
+put me down
+okay let's see
+so now you should be seeing
+the computer screen
+and if you notice if you notice
+has actually experimented
+with an animated gif you've all been
+asked to do an animated gif
+and many of you did whether your
+favorite film or what have you
+what i love about what stella meme has
+done here
+she's taken idea of the personal cyber
+infrastructure
+and the retinal scan
+and kind of expressed
+the ideas of gardner campbell
+through an animated gif and even gone on
+if you look here
+to take the very disturbing image
+of from brazil
+of this facelift
+that gardner campbell talks about
+and he actually
+and she or he or she i'm not sure
+brings that image to life
+to further reinforce
+garner campbell's idea and you'll notice
+the blinking blackboard
+which is just brilliantly done
+and i love this idea of
+taking a stand
+and expressing an idea about a present
+presentation visually
+it's a powerful concept and the way she
+goes about it
+or he goes about it
+is very powerful
+so the animated gif as actual
+interpretive tool for the work we're
+doing
+very power now
+julia forsyth has done something quite
+powerful with visualization as well
+take a look at this
+this is a kind of visual representation
+of the ideas
+of gardner campbell's talk you'll see
+the no digital facelifts image
+and there's also the three recursive
+practices
+curation
+narration curation and sharing
+the idea of us all being system
+administrators of our own lives
+right the beautiful music and the
+harmony grand harmonies is the sphere
+the cyber infrastructure
+this idea of a meaningful feedback loop
+it's all here
+and the cpanel there's a beautiful
+representation in a way of kind of
+reading the essay visually
+and this is important because ds106
+will now be moving into
+the visual
+portion of the class
+we're already doing the daily shoots on
+a daily basis
+the next step now is to start doing some
+of the visual assignments in the
+repository so we'll be talking about
+that shortly the other thing if you
+haven't seen it
+julia forsyth
+has also done
+a representation
+of michael wesh's
+from knowledgeable to knowledgeable
+for new media
+environments
+and you'll notice that there's a whole
+series of different images and i would
+strongly suggest and when we post the
+discussion notes from the session we
+will bring this up as one possible way
+of thinking about representing
+the way you read the way you think and
+the experiences you have in this class
+is visually
+and it's extremely important and i
+wanted to highlight this work by julia
+forsythe because we're moving in to the
+visual portion of this course
+i'm going to quickly
+take back
+shot
+i will go back
+to dr oblivion
+now i'm not sure if we have any more
+and on skype
+i will check
+it does not seem like we do
+so with this i will actually
+begin to frame
+tomorrow
+and the rest of the week we are now
+ending
+tomorrow we'll be ending week one of ds
+and this is where the idea
+of the students now both creating
+from a pool
+of assignments that have already been
+populated by previous ds-106 students
+but also hopefully adding their own
+assignments
+you'll notice on the ds106 site there's
+an assignments tab submit an assignment
+within that tab there's a series of
+different possibilities visual
+assignment design assignment
+audio video all of which we'll be
+covering
+i will shortly be sending out an
+assignment
+for the
+visual portion where i'll be asking all
+of the ds 106 students to do a certain
+number of visual assignments and also to
+submit a visual assignment of their own
+creation
+and conception
+so for the next four to five days
+all of us in ds106 will be creating
+visual assignments
+and we'll be experimenting with the
+existing visual assignments to build
+upon them there's a very specific way to
+both submit
+and to tag these assignments so i'll put
+out that out in the post which will
+accompany this video
+and with that i am going to end
+day three
+of dr oblivion's discussion thank you
+abby for calling in and thank you for
+all the comments in the blogs that we
+got now keep in mind and i want to
+reiterate this because it's extremely
+important
+you need to be reading and commenting on
+one another's blogs
+as abby said there are many avenues for
+communication one of the most important
+is the regular reflection
+and reading of other people's work and
+commenting
+please please please do not wait for jim
+groom or anyone else to comment on your
+work to make it somewhat official
+everyone needs to comment on everyone's
+else's work we're a part of this
+to be commenting is to be engaging and
+participating in this class
+if you're not commenting in my mind
+you're not participating so please
+and make the comments thoughtful
+good work will only take you so far
+and with that i end day three ds-106
